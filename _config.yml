@@ -1,8 +1,8 @@
 site: Minh's Website
 title: Minh's Website
-greetings: Hello there! 👋
+greetings: Welcome to my blog/website! 👋
 description: >-
-  just a minimalist, personal blog
+  just a minimalist, personal blog developed using GitHub pages & template from [FILL IN LATER]
 lang: en-US
 timezone:  Asia/Vietnam
 data-theme: light # default theme "dark" | "light"
@@ -11,7 +11,7 @@ comments-enabled: false # true to enable disqus comments, false to hide them
 
 author:
   name: Minh Phan
-  bio: just a minimalist, personal blog
+  bio: I'm 19!
   userpicture: 
   username: # general username
   github: minhphan03 # github username
@@ -22,8 +22,8 @@ author:
 # googlewebfonts: family=Play:wght@400;700&family=Source+Code+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,300;1,400;1,500;1,600;1,700;1,900
 
 # URL settings
-url: "minhphan03.github.io" # Domain Name of host. [username].github.io for github pages
-baseurl: "/Gesko" # sub folder for jekyll site. only if jekyll site not in root of host. leave blank if not wishd. always add / in front.
+url: "https://minhphan03.github.io" # Domain Name of host. [username].github.io for github pages
+baseurl: "" # sub folder for jekyll site. only if jekyll site not in root of host. leave blank if not wishd. always add / in front.
 # permalink: pretty
 
 # local
