@@ -11,7 +11,9 @@ layout: default
     <div class="bio">
 	    {{ site.description }}
         <p>
-	    <a href="{{ site.url }}{{ site.baseurl }}/about/">> About me</a>
+	    <a href="{{ site.url }}{{ site.baseurl }}/about">> About me</a>
+        <br>
+        <a href="{{ site.url }}{{ site.baseurl }}/photos">> Photos (Experimental)</a>
         </p>
     </div>
 
@@ -19,7 +21,7 @@ layout: default
 </section>
 
 
-
+<h2>BLOG</h2>
 <div class="search-article">
     <label for="search-input" aria-hidden="true">
         <!-- Magnifier -->
@@ -34,9 +36,7 @@ layout: default
     <input type="search" id="search-input" placeholder="Find some articles here" aria-label="Search">
     <ul id="search-results"></ul>
 </div>
-
 <section class="posts" id="Blog">
-    <h2>BLOG</h2>
     <ul>
         {% for post in site.posts %}
         <li>
