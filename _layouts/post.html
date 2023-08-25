@@ -2,7 +2,6 @@
 layout: default
 ---
 
-
 <section class="post">
   <div class="flex-row-between">
 	  <a href="{{ site.url }}{{ site.baseurl }}/">« back</a>
@@ -10,6 +9,7 @@ layout: default
       <div></div>
     </button>
   </div>
+  <img src="{{- page.image | relative_url -}}" alt="" class="featured-image">
   {% assign minute=content | number_of_words | divided_by: 265 | plus: 1 %}
   <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%b %-d, %Y" }} -  
     {% if page.minute %} {{ page.minute }} {% else %} {{ minute }} {% endif %}' read</time>
