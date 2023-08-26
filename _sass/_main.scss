@@ -241,8 +241,22 @@ section {
 	padding: 1rem 0;
 }
 
-section {
+// section {
+// 	margin-top: 1rem;
+//   flex-basis:0;
+// 	flex-grow:999;
+// 	min-width:50%;
+// 	display:flex;
+// 	flex-direction:column;
+// }
+
+.content-column {
 	margin-top: 1rem;
+  flex-basis:0;
+	flex-grow:999;
+	min-width:70%;
+	display:flex;
+	flex-direction:column;
 }
 
 blockquote {
@@ -368,10 +382,10 @@ time {
 
 main {
 	display: flex;
-	max-width: 55rem;
-	margin: 1rem auto 0;
+  flex-wrap: wrap;
+	max-width: 60rem;
+	margin: 2rem auto 0;
 	padding: 2.4rem 2rem;
-	flex-direction: column;
 }
 
 
@@ -435,11 +449,11 @@ main {
 
 }
 
-section {
-	flex-grow: 999;
-	display: flex;
-	flex-direction: column;
-}
+// section {
+// 	flex-grow: 999;
+// 	display: flex;
+// 	flex-direction: column;
+// }
 
 figcaption {
 	font-size: smaller;
@@ -816,4 +830,12 @@ $link-color: var(--link-color);
 @font-face {
   font-family: 'SF Pro Display Regular';
   src: url("http://localhost:4000/Gesko/assets/fonts/SFNSDisplay-Regular.otf") format("OpenType"); 
+}
+
+@media print
+{    
+    .no-print, .no-print *
+    {
+        display: none !important;
+    }
 }

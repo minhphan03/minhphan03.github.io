@@ -20,8 +20,11 @@ layout: compress
 
 <body>
   <main>
-    {% include navigation.html %}
-    {% include anchor_headings.html html=content anchorBody="#" %}
+      {% include navigation.html %}
+      <div class="content-column">
+        {% include anchor_headings.html html=content anchorBody="#" %}
+      </div>
+    
   </main>
 
   
@@ -88,6 +91,7 @@ layout: compress
 </footer>
 
 
+
 {% if page.url == '/' %}
   <script src="{{ site.url }}{{ site.baseurl }}/assets/js/simple-jekyll-search.js"></script>
   <script>
@@ -102,6 +106,5 @@ layout: compress
     })
   </script>
   {% endif %}
-
 
 </html>
