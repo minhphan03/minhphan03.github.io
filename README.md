@@ -1,4 +1,11 @@
-# Gesko + Sidey
+# [Minh's static website/blog](minhphan03.github.io)
 
-Attempt to build a sidey-like site with Gesko elements + stuff but we'll see
+This is a simple blog created using the Gesko template (Jekyll) by @DavideBri. Modified by me.
 
+## Next steps
+[ ] Put about page to index.html with floating self picture among two pages.
+[x] Sidebar (preferably floated): https://sidey-jekyll.netlify.app 
+
+## License
+
+The original project is open source and available under the [MIT License](LICENSE.md).

@@ -1,9 +1,9 @@
 links:
 - title: Home
-  url: /Gesko/index.html
+  url: /index.html
 - title: About
-  url: /Gesko/about.html
+  url: /about.html
 - title: Photos
-  url: /Gesko/photos.html
+  url: /photos.html
 - title: Rss
-  url: /Gesko/atom.xml
+  url: /atom.xml
