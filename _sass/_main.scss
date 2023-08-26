@@ -44,7 +44,7 @@ html[data-theme="light"] {
 	--dark-text-color: #393e46;
 	--link-color: rgb(50, 87, 209);
 	--code-bg-color: rgb(245, 245, 245);
-
+  --menu-bg-color: rgb(255, 255, 255);
 	background-color: rgb(255, 255, 255);
 
 	
@@ -108,6 +108,7 @@ html[data-theme="dark"] {
 	--dark-text-color: rgb(36, 38, 42);
 	--link-color: rgb(255, 89, 125);
 	--code-bg-color: rgb(36, 38, 42);
+  --menu-bg-color: rgb(19, 20, 24);
 	background-color: rgb(19, 20, 24);
 
 	#theme-toggle div {
@@ -462,7 +463,21 @@ nav ul {
 
 	main {
 		padding: 0 2rem;
+    flex: wrap;
+    height: max-content;
 	}
+
+  header {
+    overflow: hidden;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    background-color: var(--menu-bg-color);
+  }
+
+  .content-column {
+    padding-top: 6rem;
+  }
 
 }
 
@@ -841,6 +856,22 @@ $link-color: var(--link-color);
 
 .flickr{
   margin: 0em 0em 0em 1em;
+}
+
+.flickr iframe {
+  aspect-ratio: 3/2;
+}
+
+.auto-scale {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+}
+.auto-scale>iframe {
+  width: 100vw;
+  height: auto;
 }
 
 @font-face {
