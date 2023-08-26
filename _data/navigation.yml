@@ -1,9 +1,9 @@
 links:
-- title: Writing
-  url: /Gesko/
+- title: Home
+  url: /Gesko/index.html
 - title: About
-  url: /Gesko/about
+  url: /Gesko/about.html
 - title: Photos
-  url: /Gesko/photos
+  url: /Gesko/photos.html
 - title: Rss
   url: /Gesko/atom.xml

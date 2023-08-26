@@ -2,12 +2,18 @@
     <!--<h1 class="logo">{{ site.title }}</h1>-->
     <nav role="navigation" aria-hidden="true">
 <ul>
- {% for item in site.data.navigation.links %}
-    <li><a href="{{ item.url }}" {% if item.url == page.url %} class="active"{% endif %}>{{ item.title }}</a></li>
- {% endfor %}
+    <li>
+        <div style="justify-content: right; display: flex; align-items: right;">
+            <button title="Change theme" id="theme-toggle" onclick="modeSwitcher()">
+                <div></div>
+            </button>
+        </div>
+     </li>
+    {% for item in site.data.navigation.links %}
+        <li><a href="{{ 'item.url }}" {% if (append: 'Gesko/' |item.url) == page.url %} class="active"{% endif %}>{{ item.title }}</a></li>
+    {% endfor %}
+ 
 </ul>
-<button title="Change theme" id="theme-toggle" onclick="modeSwitcher()">
-    <div></div>
-</button>
+
 </nav>
 </header>
