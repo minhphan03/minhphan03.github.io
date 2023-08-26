@@ -473,6 +473,7 @@ nav ul {
     position: fixed;
     top: 0;
     background-color: var(--menu-bg-color);
+    z-index: 20;
   }
 
   .content-column {
@@ -855,23 +856,30 @@ $link-color: var(--link-color);
 }
 
 .flickr{
+  width: 100%;
   margin: 0em 0em 0em 1em;
+  display: inline-block;
+  position: relative;
 }
 
-.flickr iframe {
-  aspect-ratio: 3/2;
+.container {
+  width: 100vw; /* Set this to the width you prefer */
+  display: inline-block;
+  position: relative;
+  background-color: #eee;
 }
 
-.auto-scale {
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  right: 0;
-  left: 0;
-}
+// .auto-scale {
+//   position: absolute;
+//   top: 0;
+//   bottom: 0;
+//   right: 0;
+//   left: 0;
+// }
+
 .auto-scale>iframe {
-  width: 100vw;
-  height: auto;
+  width: 100%;
+  aspect-ratio: 3/2;
 }
 
 @font-face {
