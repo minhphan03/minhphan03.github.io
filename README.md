@@ -3,8 +3,14 @@
 This is a simple blog created using the Gesko template (Jekyll) by @DavideBri. Modified by me.
 
 ## Next steps
-[ ] Put about page to index.html with floating self picture among two pages.
-[x] Sidebar (preferably floated): https://sidey-jekyll.netlify.app 
+- [x] Sidebar (preferably floated): https://sidey-jekyll.netlify.app 
+- [ ] Transfer about page to index.html with two columns (one self image and one quick bio/links)
+- [ ] Frozen search bar for blog tab
+- [ ] Purpose statement (longer letter)
+- [ ] Music corner using Apple Music plugin (iframe element)
+- [ ] Update blogs from the other website ([old website](minhphan03.com))
+- [ ] Publish website to people !
+- [ ] (Maybe) showcase some projects
 
 ## License
 
