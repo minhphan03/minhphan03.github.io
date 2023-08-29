@@ -39,7 +39,7 @@ html[data-theme="light"] {
 	--very-light-text-color: rgb(222, 222, 222);
 	--light-text-color: rgb(89, 183, 255);
 	--medium-text-color: #555;
-	--main-text-color: #333;
+	--main-text-color: #333333;
 	--highlight-text-color: #6cb4a0;
 	--dark-text-color: #393e46;
 	--link-color: rgb(50, 87, 209);
@@ -177,7 +177,7 @@ a {
 
 .meta {
 	margin: 1.4rem 0;
-
+  padding-left: 1rem;
 }
 
 code,
@@ -217,14 +217,6 @@ hr {
 	border: 0;
 }
 
-// header {
-// 	// flex-basis: 10rem;
-// 	// flex-grow: 1;
-// 	// position: relative;
-//   // display: flex;
-//   // height: 100vh;
-// }
-
 header a {
 	text-decoration: none;
 }
@@ -235,8 +227,8 @@ header li {
 	margin-right: 2rem;
 }
 
-header a.active {
-	font-weight: bold;
+header a.hover {
+	text-decoration: underline;
 }
 
 header,
@@ -244,23 +236,7 @@ section {
 	padding: 1rem ;
 }
 
-// section {
-// 	margin-top: 1rem;
-//   flex-basis:0;
-// 	flex-grow:999;
-// 	min-width:50%;
-// 	display:flex;
-// 	flex-direction:column;
-// }
-
 .content-column {
-	// margin-top: 1rem;
-  // margin-left: 1rem;
-  // flex-basis:0;
-	// flex-grow:999;
-	// min-width:70%;
-	// display:flex;
-	// flex-direction:column;
   flex: 1 1 auto;
   overflow: auto;
 }
@@ -369,12 +345,14 @@ b {
 
 time {
 	color: var(--main-text-color);
+  padding-left: 1rem;
 }
 
 .post > h1.title {
 	font-size: x-large;
 	margin-top: 0;
 	margin-bottom: 0;
+  padding-left: 1rem;
 }
 
 .post > time {
@@ -425,9 +403,9 @@ main {
 
 .featured-image{
   width: 100%;
-  height: 300px;
+  aspect-ratio: 16/9;
   object-fit: cover;
-  padding-top: 1rem;
+  // padding-top: 1rem;
   mask-image: linear-gradient(rgba(255,255,255,1),rgba(255,255,255,0));
 }
 
@@ -435,7 +413,7 @@ nav {
   flex: 0 0 auto
 }
 nav ul {
-  border-right: 1px solid #edf2f7;
+  border-right: 2px solid var(--code-bg-color);
 }
 
 
@@ -449,8 +427,8 @@ nav ul {
 	}
 	header ul {
     display: flex;
-		border-bottom: 1px solid #edf2f7;
-		padding-bottom: 2rem;
+		border-bottom: 1px solid var(--code-bg-color);
+		padding-bottom: 1rem;
     list-style: none;
 	}
 	nav ul {
@@ -462,7 +440,7 @@ nav ul {
 	}
 
 	main {
-		padding: 0 2rem;
+		padding: 0 1rem;
     flex: wrap;
     height: max-content;
 	}
@@ -474,6 +452,7 @@ nav ul {
     top: 0;
     background-color: var(--menu-bg-color);
     z-index: 20;
+    padding-bottom: 0;
   }
 
   .content-column {
@@ -502,6 +481,7 @@ color: #333;
 
 .search-article {
   position: relative;
+  margin-top: 2rem;
  
 
   label[for="search-input"] {

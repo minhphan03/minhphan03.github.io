@@ -1,9 +1,9 @@
 links:
 - title: Home
   url: /index.html
-- title: About
-  url: /about.html
+- title: Blog
+  url: /blog.html
 - title: Photos
   url: /photos.html
-- title: Rss
+- title: RSS
   url: /atom.xml
