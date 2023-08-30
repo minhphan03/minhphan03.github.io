@@ -8,10 +8,70 @@ layout: default
 
     </div>
     <div class="bio">
-        {{ site.description }}
-        <p>More about me later...</p>
+        <p>
+            Welcome to my website aka Minh's Blog! Do you know that this is actually my third one, with the first
+            being a free drag-and-drop site from Wix, and the second a custom domain owned one using Wordpress?
+            There's nothing wrong with any of them, as I am still perfectly contented with the Wordpress site using 
+            a customized domain and all, but the thing is... it costs me to keep it! I've also been toying
+            with the idea of making my own website more customizable, which the complexity structure
+            of Wordpress on top of the themes themselves and navigating resources make it pretty much
+            an impossible learning curve. Knowing the existence of github.io static website hosting, I 
+            became wholeheartedly interested given my experience using GitHub for my school projects and how 
+            familiar I have become with this platform. So, I present you my newest attempt of a website,
+            built using the most simple web elements to reduce redundancy and enhance user experience. 
+            It is not much, but I'm committed to developing this for a veryyyyy long while 🫶.
+        </p>
+        <p>
+            Create with ❤️
+        <p>
     </div>
+</section>
+<section class="info-row">
+    <div class="info-column-1">
+        <img src="./assets/images/profile_picture.jpg" alt="Profile Picture">
+    </div>
+    <div class="info-column-2">
+        <h2>Minh Phan</h2>
+        <div class="social-footer">
+            <div class="social-footer-icons">
+                {% if site.author.github %}
+                <a href="https://github.com/{{ site.author.github }}" title="Github profile" target="_blank"
+                rel="noopener noreferrer"><i class="fa fa-brands fa-github" aria-hidden="true"></i></a>
+                {% endif %}
+                {% if site.author.twitter %}
+                <a href="https://twitter.com/{{ site.author.twitter }}" title="Twitter" target="_blank" rel="noopener noreferrer"><i
+                class="fa fa-brands fa-twitter" aria-hidden="true"></i></a>
+                {% endif %}
+                {% if site.author.mastodon %}
+                <a href="https://{{ site.author.mastodon }}" title="Twitter" target="_blank" rel="noopener noreferrer"><i
+                class="fa fa-brands fa-mastodon" aria-hidden="true"></i></a>
+                {% endif %}
+                {% if site.author.linkedin %}
+                <a href="https://www.linkedin.com/in/{{ site.author.linkedin }}" title="Linkedin" target="_blank" rel="noopener noreferrer"><i
+                class="fa fa-brands fa-linkedin" aria-hidden="true"></i></a>
+                {% endif %}
+                <a href="https://github.com/DavideBri/Gesko" title="Browse template code" target="_blank" rel="noopener noreferrer"><i
+                    class="fa fa-solid fa-code" aria-hidden="true"></i></a>
+            </div>
+        </div>
+        <ul style="margin: 2px;">
+            <li>he/him</li>
+            <li>19</li>
+            <li>🏳️‍🌈</li>
+            <li>🇻🇳</li>
+            <li>UW '24</li>
+            <li>introvert</li>
+            <li>data enthusiast</li>
+            <li>cinephile</li>
+            <li>pophead</li>
+        </ul>
+    </div>
+</section>
 
-
+<section class="info-row">
+    <p>
+        Copyright Minh's Blog (2023). Made using Jekyll, GitHub.io hosting and original Gesko template from 
+        <a href="https://github.com/DavideBri/Gesko" title="Browse template code" target="_blank" rel="noopener noreferrer">Davide Bri</a>.
+    </p>
 </section>
 
