@@ -404,6 +404,18 @@ main {
         transition: color 0.3s ease-in;
       }
     }
+
+    img {
+      width: 1.24rem;
+      height: 1.24rem;
+      padding-bottom: -5px;
+      margin-bottom: -2px;
+
+      &:hover {
+        color: darken(#a9a9a9, 25%);
+        transition: color 0.3s ease-in;
+      }
+    }
   }
 }
 
