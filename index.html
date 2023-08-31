@@ -10,19 +10,18 @@ layout: default
     <div class="bio">
         <p>
             Welcome to my website aka Minh's Blog! Do you know that this is actually my third one, with the first
-            being a free drag-and-drop site from Wix, and the second a custom domain owned one using Wordpress?
+            being a drag-and-drop site using Wix, and the second one using Wordpress?
             There's nothing wrong with any of them, as I am still perfectly contented with the Wordpress site using 
             a customized domain and all, but the thing is... it costs me to keep it! I've also been toying
             with the idea of making my own website more customizable, which the complexity structure
             of Wordpress on top of the themes themselves and navigating resources make it pretty much
-            an impossible learning curve. Knowing the existence of github.io static website hosting, I 
-            became wholeheartedly interested given my experience using GitHub for my school projects and how 
-            familiar I have become with this platform. So, I present you my newest attempt of a website,
+            an impossible learning curve. As an avid user of GitHub, I thought of creating a static website
+            using GitHub pages, one of the platform's most popular services. So, I present you my newest attempt of a website,
             built using the most simple web elements to reduce redundancy and enhance user experience. 
             It is not much, but I'm committed to developing this for a veryyyyy long while 🫶.
         </p>
         <p>
-            Create with ❤️
+            Created with ❤️
         <p>
     </div>
 </section>
@@ -38,20 +37,22 @@ layout: default
                 <a href="https://github.com/{{ site.author.github }}" title="Github profile" target="_blank"
                 rel="noopener noreferrer"><i class="fa fa-brands fa-github" aria-hidden="true"></i></a>
                 {% endif %}
+                {% if site.author.linkedin %}
+                <a href="https://www.linkedin.com/in/{{ site.author.linkedin }}" title="LinkedIn" target="_blank" rel="noopener noreferrer"><i
+                class="fa fa-brands fa-linkedin" aria-hidden="true"></i></a>
+                {% endif %}
                 {% if site.author.twitter %}
                 <a href="https://twitter.com/{{ site.author.twitter }}" title="Twitter" target="_blank" rel="noopener noreferrer"><i
                 class="fa fa-brands fa-twitter" aria-hidden="true"></i></a>
                 {% endif %}
-                {% if site.author.mastodon %}
-                <a href="https://{{ site.author.mastodon }}" title="Twitter" target="_blank" rel="noopener noreferrer"><i
-                class="fa fa-brands fa-mastodon" aria-hidden="true"></i></a>
+                {% if site.author.instagram %}
+                <a href="https://instagram.com/{{ site.author.instagram }}" title="Instagram" target="_blank" rel="noopener noreferrer"><i
+                class="fa fa-brands fa-instagram" aria-hidden="true"></i></a>
                 {% endif %}
-                {% if site.author.linkedin %}
-                <a href="https://www.linkedin.com/in/{{ site.author.linkedin }}" title="Linkedin" target="_blank" rel="noopener noreferrer"><i
-                class="fa fa-brands fa-linkedin" aria-hidden="true"></i></a>
+                {% if site.author.flickr %}
+                <a href="https://www.flickr.com/people/{{ site.author.flickr }}" title="Flickr" target="_blank" rel="noopener noreferrer"><i
+                class="fa fa-brands fa-flickr" aria-hidden="true"></i></a>
                 {% endif %}
-                <a href="https://github.com/DavideBri/Gesko" title="Browse template code" target="_blank" rel="noopener noreferrer"><i
-                    class="fa fa-solid fa-code" aria-hidden="true"></i></a>
             </div>
         </div>
         <ul style="margin: 2px;">
@@ -59,18 +60,20 @@ layout: default
             <li>19</li>
             <li>🏳️‍🌈</li>
             <li>🇻🇳</li>
+            <li>data enthusiast</li>
             <li>UW '24</li>
             <li>introvert</li>
-            <li>data enthusiast</li>
             <li>cinephile</li>
             <li>pophead</li>
+            <li>overthinker</li>
+            <li>twitter stan</li>
         </ul>
     </div>
 </section>
 
 <section class="info-row">
     <p>
-        Copyright Minh's Blog (2023). Made using Jekyll, GitHub.io hosting and original Gesko template from 
+        Copyright Minh's Blog (2023). Made using Jekyll, GitHub.io hosting and original Gesko template by
         <a href="https://github.com/DavideBri/Gesko" title="Browse template code" target="_blank" rel="noopener noreferrer">Davide Bri</a>.
     </p>
 </section>
