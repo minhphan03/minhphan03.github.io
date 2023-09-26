@@ -372,9 +372,9 @@ time {
 main {
 	display: flex;
   // flex-wrap: wrap;
-	max-width: 60rem;
+	max-width: 62rem;
   margin: 0 auto 0;
-	padding: 2.4rem 2rem;
+	padding: 2rem 1.5rem;
   height: 100vh;
   
 }
@@ -395,8 +395,8 @@ main {
   .social-footer-icons {
      
     .fa {
-      padding-right: 5px;
-      font-size: 1.3rem;
+      padding: 0px 3.5px 7px 3.5px;
+      font-size: 1.5rem;
       color: #a9a9a9;
 
       &:hover {
@@ -405,15 +405,21 @@ main {
       }
     }
 
-    img {
-      width: 1.24rem;
-      height: 1.24rem;
-      padding-bottom: -5px;
-      margin-bottom: -2px;
-
+    .letterboxd {
+      width: 1.5rem;
+      height: 1.5rem;
+      margin-top: 7px;
+      margin: 7px 2.5px -2px 2.5px;
+      
+      background-image: url("https://minhphan03.github.io/assets/logos/letterboxd-custom.svg");
+      display: inline-block;
       &:hover {
-        color: darken(#a9a9a9, 25%);
-        transition: color 0.3s ease-in;
+        background-image: url("https://minhphan03.github.io/assets/logos/letterboxd-custom-hover.svg");
+        -webkit-transition: all ease-in 0.3s;
+        -moz-transition: all ease-in 0.3s;
+        -o-transition: all ease-in 0.3s;
+        -ms-transition: all ease-in 0.3s;
+        transition: all ease-in 0.3s;
       }
     }
   }
@@ -484,7 +490,7 @@ nav ul {
 }
 
 
-@media screen and (max-width: 45rem) {
+@media screen and (max-width: 37rem) {
 	header li {
 		display: inline;
 		margin-right: 1rem;
@@ -524,6 +530,27 @@ nav ul {
 
   .content-column {
     padding-top: 6rem;
+  }
+
+  .social-footer-icons {
+    text-align: center;
+  }
+
+  .info-column-2 h2 {
+    text-align: center;
+  }
+
+  .info-column-2 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+
+
+  .info-column-2 ul {
+    display: none;
   }
 
 }
