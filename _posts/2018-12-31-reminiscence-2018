@@ -1,14 +1,14 @@
 ---
 layout: post
-title: CSS hacks you may not know
-description: This is a collection of short CSS snippets I thought might be useful for beginners
-summary: This is a collection of short CSS snippets I thought might be useful for beginners.
-tags: css coding
+title: Reminiscence: 2018
+description: Some words before 2018 is over.
+summary: Some words before 2018 is over.
+tags: life thoughts throwback
 image: /assets/images/2018.jpg
 
 ---
 
-![Hello]({{ page.image | relative_url}})
+![Fireworks]({{ page.image | relative_url}})
 
 I don’t know if everything is still normal, but my heart isn’t. The fact that an old year is about to pass and a new one comes makes me startle and wonder if everything I’ve done so far in this year really has a noticeable impact on the many years’ time beyond. Turn out it doesn’t.
 
