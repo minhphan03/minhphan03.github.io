@@ -177,7 +177,7 @@ a {
 
 .meta {
 	margin: 1.4rem 0;
-  padding-left: 1rem;
+  // padding-left: 1rem;
 }
 
 code,
@@ -343,21 +343,21 @@ b {
 
 .posts li time,
 .projects li time {
-	padding-left: 1rem;
+	// padding-left: 1rem;
 	white-space: nowrap;
 	font-variant-numeric: tabular-nums;
 }
 
 time {
 	color: var(--main-text-color);
-  padding-left: 1rem;
+  // padding-left: 1rem;
 }
 
 .post > h1.title {
-	font-size: x-large;
+	font-size: 2rem;
 	margin-top: 0;
 	margin-bottom: 0;
-  padding-left: 1rem;
+  // padding-left: 1rem;
 }
 
 .post > time {
@@ -479,7 +479,7 @@ main {
   aspect-ratio: 16/9;
   object-fit: cover;
   // padding-top: 1rem;
-  mask-image: linear-gradient(rgba(255,255,255,1),rgba(255,255,255,0));
+  mask-image: linear-gradient(rgba(255,255,255,1),rgba(255,255,255,0.75));
 }
 
 nav {
@@ -547,7 +547,18 @@ nav ul {
     justify-content: center;
   }
 
+  .featured-image {
+    width: 130%;
+    max-width: 130%;
+    margin-left: -5rem;
+    // margin-right: -10rem;
 
+    // position: relative;
+    // left: 50%;
+    // right: 50%;
+    // margin-left: -50vw;
+    // margin-right: -50vw;
+  }
 
   .info-column-2 ul {
     display: none;
