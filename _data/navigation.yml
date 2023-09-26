@@ -1,4 +1,4 @@
-# links:
+links:
 - title: Home
   url: index.html
 - title: Blog
@@ -9,7 +9,7 @@
   url: atom.xml
 
 
-# for testing
+## for testing
 # links:
 # - title: Home
 #   url: /website/index.html
