@@ -1,0 +1,27 @@
+---
+layout: post
+title: "Children's Moral Deterioration"
+tags: adulthood discussion
+image: /assets/images/broken-glass.jpg
+
+---
+
+*This blog is solely based on my experience, don’t judge me for my weakness in building arguments.*
+
+Why I wrote this blog?
+
+One day where I was leaning my back on the front-yard pole watching the kids playing hide and seek, I saw a girl utter a swear word. It came as a shock to me, because I never imagine such a young, impressionable girl could blurt out a word like THAT. I was exhausted and unexcited at the reality the world was captivated in, and it spurred me to sit down and type this blog. I rarely use any form of research in my blogs so you can bid me some offensive comments if you want.
+
+I always believe that children are the purest form of humans, and through time, the purity diminishes. When they are aware (and put into use) of the wrong shapes of life, such as offensive slangs and crimes like rape and murder, they started to guard down and let the naked, unmasked torments of people, alongside with their dark, twisted mediocre pleasures, trace down a tattooed mark in their mentality. Believe it or not, as far as you try your best letting it go, it still stays in your lane till you leave this world. I call it mental cuts.
+
+You would then utter: “What the hell is this related to children?” and here’s the answer: nothing. 
+
+But mental (cut the cuts) is pretty much well-connected.
+
+According to psychologydiscussion.com, there is a total of 4 stages in mental developments of a child, and to underscore the second most vulnerable stage ‘from 3 to 6 years old’ should not be called underestimated. Compare to the first stage (the first 3 years of a child), children now have active learning, by “acquires a variety of sensory and perceptual experiences” to adopt more intuitive information on the way to pursue their life. In the first stage, they do not have as much core to search for wild things, as they haven’t developed the fullest potentials to activate these senses. But in the next stage, they are unlocked, and they are ready to be used. Additionally, children start to have minimal access to technological devices such as phones and tablets, which widens their horizons and therefore sticking them into sucking more and more unduly waves of information (without selection and censorship), result in a whole new flawed, failed generation in awakeness of life. They hardly ever look up to see the life flowing before their eyes, ignore the most basic ideas of learning and interact with the world out there. It was such a hard pay (for the conveniences and ease on the eyes) they got after birth. The emotionless souls grow in them for letting what should be seen uncovered. Parents commission the parent teaching to these iPads and phones inundate their irresponsibility by passing the bucks to others, reason the neglect by long work hours and tons of other unacceptable grounds.
+
+Dearth in all ways, it requires tons of effort to resolve this issue. From the root, it starts from parental awareness, and not to mention, societal awareness. To protect children from explicit content, they need to be taken under control with the content they are allowed to watch. For instance, with YouTube, they should only subscribe to censored channels with kid-friendly content, and if work, I don’t advise using YouTube. Instead, I recommend Neverthink as a replacement, with hand-picked videos freshly uploaded from YouTube every day, as the infamous YouTube Kids doesn’t save any remnants (toxic, uncontrollable toxic vids; abuse, violent content and prodigal money wasting) that YouTube has been trying to rebuild. And apply children harassment with care and persevering, their childish behaviors with wiser solutions instead of insults. That way, they would not get their iPads on the way to burn out testiness.
+
+But in the long run, there remain radical obstacles. Children would stop drawing their eyes into the screen, but it doesn’t mean they wouldn’t be addicted again. It’s time we prove the meaning of natural life out there infinitely exceed the mediocrity that a screen would bring to the eyes. The society should now begin to organize kid-friendly workshops and activities for children to take part in and gain skills so as not to become the short-sighted figures. With the new advanced technologies incoming, let’s just guard down all the foreplay people use to hinder their children from touching tablets: one day in the future, they are going to utilize everything in that compact device, so why don’t people just acknowledge it and educate their children with efficient, moral how-tos with their newcomer friends? It would way better and thorough as a company on the way to their success, wouldn’t it? 
+
+What seems more exciting, until now have I realized that not only smartphones can poison them children, but also by people around them. May he accidentally exclaim a curse, or mention something explicit might affect the vulnerable child forever. It is not only one side of the problem that blaming the phones for their negate impacts on children is enough, but a double standard that people also have to take responsibility in it.
