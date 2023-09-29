@@ -576,6 +576,7 @@ figcaption {
 
 .bio {
 	margin-bottom: 1rem;
+  // line-height: 2em;
   p {
     margin-bottom: 1rem;
   }
@@ -759,13 +760,13 @@ color: #333;
 $link-color: var(--link-color);
 .timeline { /*whole timeline object in general*/
   position: relative;
-  width: 650px;
-  margin: -6em auto;
+  // width: 650px;
+  margin: 0em auto;
   padding: 1px;
   list-style-type: none;
   height: 100%;
 
-  @media (max-width: 860px) {
+  @media (max-width: 59rem) {
     width: 100%;
     margin: 0 auto;
     /* Add margin to center the timeline on mobile */
@@ -783,7 +784,7 @@ $link-color: var(--link-color);
     background: var(--light-text-color);
     z-index: 5;
 
-    @media (max-width: 860px) {
+    @media (max-width: 59rem) {
       width: 3px;
       margin-left: -3px;
     }
@@ -792,7 +793,7 @@ $link-color: var(--link-color);
   li { /*boxes*/
     padding: 2em 0;
 
-    @media (max-width: 860px) {
+    @media (max-width: 59rem) {
       padding: 2em 0;
     }
 
@@ -808,10 +809,10 @@ $link-color: var(--link-color);
 
 .direction-l { /*left boxes + timeline dot*/
   position: relative;
-  width: 287px;
+  width: 332px;
   float: left;
   text-align: right;
-  @media(max-width: 860px) {
+  @media(max-width: 59rem) {
     float: none;
     width: 100%;
     text-align: center;
@@ -831,7 +832,7 @@ $link-color: var(--link-color);
       border-left-color: rgb(248,248,248);
       border-width: 8px;
       pointer-events: none;
-      @media(max-width: 860px) {
+      @media(max-width: 59rem) {
         content: "";
         position: absolute;
         left: 50%;
@@ -848,7 +849,7 @@ $link-color: var(--link-color);
   }
   .time-wrapper {
     float: left;
-    @media(max-width: 860px) {
+    @media(max-width: 59rem) {
       float: none;
     }
   }
@@ -857,10 +858,10 @@ $link-color: var(--link-color);
 
 .direction-r {
   position: relative;
-  width: 293px;
+  width: 339px;
   float: right;
   text-align: left;
-  @media(max-width: 860px) {
+  @media(max-width: 59rem) {
     float: none;
     width: 100%;
     text-align: center;
@@ -880,7 +881,7 @@ $link-color: var(--link-color);
       border-right-color: rgb(248,248,248);
       border-width: 8px;
       pointer-events: none;
-      @media(max-width: 860px) {
+      @media(max-width: 59rem) {
         content: "";
         position: absolute;
         left: 50%;
@@ -900,7 +901,7 @@ $link-color: var(--link-color);
   }
   .time-wrapper {
     float: right;
-    @media(max-width: 860px) {
+    @media(max-width: 59rem) {
       float: none;
     }
   }
@@ -910,7 +911,7 @@ $link-color: var(--link-color);
   position: relative;
   display: inline-block;
   text-align: center;
-  @media(max-width: 860px) {
+  @media(max-width: 59rem) {
     text-align: center;
   }
   .flag {
@@ -921,7 +922,7 @@ $link-color: var(--link-color);
     border-radius: 5px;
     font-weight: 600;
     text-align: left;
-    @media(max-width: 860px) {
+    @media(max-width: 59rem) {
       background: var(--light-text-color);
       z-index: 15;
     }
@@ -942,7 +943,7 @@ $link-color: var(--link-color);
   border-radius: 10px;
   border: 4px solid $link-color;
   z-index: 10;
-  @media(max-width: 860px) {
+  @media(max-width: 59rem) {
     position: absolute;
     top: -30px;
     left: 53%;
@@ -960,7 +961,7 @@ $link-color: var(--link-color);
   font-size: 0.66666em;
   color: $link-color;
   vertical-align: middle;
-  @media(max-width: 860px) {
+  @media(max-width: 59rem) {
     display: block;
     position: relative;
     margin: 4px 0 0 0;
@@ -974,8 +975,8 @@ $link-color: var(--link-color);
 }
 
 .desc {
-  margin: 1em 0.2em -3.5em 0;
-  font-size: 0.9em;
+  // margin: 1em 0.2em -3.5em 0;
+  font-size: 0.85em;
   line-height: 1.5em;
   a {
     color: $link-color;
@@ -984,7 +985,7 @@ $link-color: var(--link-color);
       text-decoration: underline;
     }
   }
-  @media(max-width: 860px) {
+  @media(max-width: 59rem) {
     position: relative;
     margin: 1em 1em 0 1em;
     padding: 1em;

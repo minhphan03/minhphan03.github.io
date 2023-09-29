@@ -1,21 +1,23 @@
-links:
-- title: Home
-  url: index.html
-- title: Blog
-  url: blog.html
-- title: Photos
-  url: photos.html
-- title: RSS
-  url: atom.xml
+# links:
+# - title: Home
+#   url: index.html
+# - title: Blog
+#   url: blog.html
+# - title: Photos
+#   url: photos.html
+# - title: RSS
+#   url: atom.xml
 
 
 ## for testing
-# links:
-# - title: Home
-#   url: /website/index.html
-# - title: Blog
-#   url: /website/blog.html
-# - title: Photos
-#   url: /website/photos.html
-# - title: RSS
-#   url: /website/atom.xml
+links:
+- title: Home
+  url: /website/index.html
+- title: Blog
+  url: /website/blog.html
+- title: Photos
+  url: /website/photos.html
+- title: Music
+  url: /website/music.html
+- title: RSS
+  url: /website/atom.xml
