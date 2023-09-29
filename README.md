@@ -13,6 +13,8 @@ This is a simple blog created using the Gesko template (Jekyll) by @DavideBri. M
 - [ ] Publish website to people !
 - [ ] (Maybe) limit number of posts on one page... Show more button using [Jekyll-paginator](https://stackoverflow.com/questions/21027057/how-to-implement-load-more-posts-from-homepage-using-jekyll)
 - [ ] (Maybe) showcase some projects
+- [ ] Embed YouTube videos in posts
+- [ ] Custom domain
 
 ## License
 

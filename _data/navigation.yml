@@ -1,12 +1,12 @@
 links:
 - title: Home
-  url: index.html
+  url: /
 - title: Blog
-  url: blog.html
+  url: /blog.html
 - title: Photos
-  url: photos.html
+  url: /photos.html
 - title: RSS
-  url: atom.xml
+  url: /atom.xml
 
 
 ## for testing
