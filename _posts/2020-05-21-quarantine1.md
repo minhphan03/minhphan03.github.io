@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Ba Láp Về Quarantine: Phần 1"
+tags: thoughts diary 
+image: /assets/images/social-distancing.jpg
+---
+
+Hôm nay mình chỉ muốn viết một chút xíu tại vì cái mùa cách li này nó chán quá sức tưởng tượng rồi.
+
+Mình thấy có một điều rất hay mà quá trình bất đắc dĩ này đã đem đến cho xã hội loài người chính là việc nó đã thúc đẩy mọi người phải suy nghĩ và tìm tòi sáng tạo những cách thức để giữ được nhịp độ của cuộc sống. Ví dụ nhé, đối với ngành giáo dục, từ việc giảng dạy chính thức tại môi trường sư phạm (nhà trường), giờ đây giáo viên và học sinh phải làm quen với mô hình học tập qua mạng Internet, đưa hết tất cả mọi dữ liệu và bài tập lên đám mây, cũng như làm quen với những ứng dụng học tập trực tuyến như Google Classroom hay hội họp nhóm như Zoom. Điều này vốn dĩ sẽ không bao giờ xảy ra nếu việc nghỉ học diễn ra kéo dài do đại dịch, vì vậy nên có thể nói tình huống này được coi là “trong cái rủi thì có cái may.” Giả sử cho rằng nếu tình huống không xảy ra, trong tương lai chúng ta cũng sẽ phải hứng chịu những tình huống khác gần giống hay tương tự vậy, và việc làm quen và ứng dụng những mô hình học tập/làm việc như thế này cũng chỉ có thể khó khăn hơn hoặc khó bằng dịp này thôi. Cũng đã đến lúc xã hội Việt Nam nên ứng dụng những mô hình xử lí công việc trực tuyến, hiện đại, nhanh chóng và chính xác hơn những phương thức truyền thống mà không gây xáo trộn trong những lúc có chuyện xảy ra như thế này, cũng như tạo động lực thúc đẩy giao tiếp và hội nhập hoá xu hướng toàn cầu.
+
+Xu hướng toàn cầu ở đây chính là xu hướng hiện đại hoá, tự động hoá các tác vụ của con người. Bằng cách làm việc trực tuyến, mỗi cá nhân có thể cá nhân hoá thời gian làm việc tại nhà trong thời gian diễn ra dịch, cũng như tự mình điều chỉnh thói quen cân bằng cuộc sống. Mùa đại dịch này có thể khiến cho nhiều người mất việc, nhưng nó cũng tạo ra những cơ hội phát triển cho nhiều người khác. Thời điểm này chính là cơ hội như vậy: mỗi công ty, xí nghiệp phải tự mình điều chỉnh chiến lược, hoạt động kinh doanh sao cho phù hợp thì mới có thể phát triển bền vững. Vốn dĩ những cơ hội như thế này hàng thập kỉ mới có một lần, việc làm quen như thế sẽ giúp họ góp nhặt thêm kinh nghiệm để xử lí những tình huống tương tự trong tương lai. Họ có thể thay thế con người bằng máy móc để giảm thiểu tiếp xúc lây nhiễm, hoặc cảnh giác cao độ hơn trong vệ sinh an toàn lao động. Sau mỗi thất bại luôn là một bài học quý báu, và đây không là một ngoại lệ.
+
+Sau tất cả, bài học lớn nhất mà mình học được sau đại dịch lần này chính là sự chủ quan. Rất nhiều chính phủ của nhiều quốc gia chủ quan về sự lây lan của dịch trong cộng đồng, và kết quả là rất nhiều người phải gánh lấy hậu quả từ nó. Nếu họ đã tiến hành thực hiện các biện pháp bảo vệ và phòng tránh một cách khẩn trương và tập trung cao độ, chắc chắn việc bùng nổ thành đại dịch (pandemic) sẽ không xảy ra và việc phục hồi kinh tế, đời sống xã hội sẽ nhanh hơn rất nhiều. Có nhiều thứ chúng ta đã có thể làm, nhưng chúng ta lại không thực hiện. Ấy mới là điều đáng tiếc. Việc chúng ta tập trung vào những thứ bề mặt (on the surface) chỉ khiến cho mọi việc trở nên nghiêm trọng hơn mà thôi, liệu bạn có hiểu ra hay không?
+
+Vì thế, cái gốc bao giờ cũng là cái quan trọng. Muốn vững mạnh, vững bền bao giờ cũng phải vững từ cái gốc trước tiên. Chúc bạn giữ gìn sức khoẻ trong mùa dịch hiện nay!

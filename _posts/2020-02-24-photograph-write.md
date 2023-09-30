@@ -1,0 +1,23 @@
+---
+layout: post
+title: "Don't Photograph. Write."
+tags: discussion thoughts
+image: /assets/images/paper.jpg
+---
+
+
+This is undeniably one of the most impromptu pieces of writing I’ve ever written. But once again, I want to say that it is my inspiration to write that prompts me to do all this stuff. So here’s the thing: don’t judge me for my grammar or choice of words. Read the idea, don’t read the mere words.
+
+So the story began today when I attend a lecture on the matter of listening and how to listen effectively. One of the students in the class raised his hand and disclosed that he often uses his phone to capture and record the lectures he had in classes. Then my professor examined more in-depth about the situation and admitted that technological advancements had manipulated destructively much of our lives. She said they ruined our listening capabilities and how we connected to each other. Now that I contemplated on the matter, I found her words are valid. We seem to forget or try to ignore the negative impact that these modernity ambassadors have introduced into our lives, that the millennials living in this new age can never grasp an understanding of how things work before the arrival of technology. And it, eventually, created new unhealthy habits that we never realize. 
+
+One of them is the diminution of writing. 
+
+We do things digitally nowadays. Papered becomes paperless, and everything stores on the cloud. We are vulnerable to loss of data we stored on the digital drives, on the databases that the big giants have established on their behalves. We type instead of write. We take photos on their phones and save them on our devices, not jot them down in words and print them out. We make memories by continuously grasping new content and cramping them down to our mobile storage, and luckily, some of them will be posted to our social media profiles. The era of mutual sharing has us overhyped and obsessive with things people want to see, and not what we want to see. We dropped off our interest to produce content the public had already shaped, which left no space for the abnormalities.
+
+This is how we transform the act of writing to the action of capturing pictures. Instead of jotting down what we learned, we photograph those slides and words on the board with an attempt to “look at them back later for tests.” We cease to modify others’ interests and adapt to our own, to personalize our content and lessons. We stop reconstructing what we want and chase after the newest trends the world creates. We cease to slow things down because we don’t want to be called behind the time. 
+
+Sometimes I ask myself after cleaning my gallery, “Why would I capture these photos if I never used it?” It’s a fact. I rarely revise the vocabulary words I captured on my iPhone because they were too small to see on a mobile device. But the more significant cause comes from how we treat those photos. We tend to forget they exist when we need them, thanks to the distractions that absent-mindedness hypnotics have led us to procrastinate what is essential. Imagine jotting those lessons in your notebook: your handwriting may be unreadable to others, or it would be a little bit disorganizing, but you have personalized the best knowledge you need to know, which eventually inspires you to learn better. Are you sure you will re-listen what the teachers have said in your voice memos? Are you open to skim through those audios again to search for the knowledge you need for an exam the following day? Are you mad that you can’t find back an old picture of your friends because you forgot that you stored it on your old phone? By regaining your capability to listen to your memories and apply writing to your life, you are stepping a small step forward to live a self-control life, without fearing to have to chase after trends of the exhausting new era and its consequences.
+
+It does not mean that you have to stop taking pictures. It means that I am suggesting you to do more meaningful things than just capturing them. You don’t have to post them all over the social medias to bring meaningfulness to those pictures. You don’t need to set yourself to a fast pace of life, because you need to know what is the best for you, and I’m sure writing is a part of it. Do photographs, craft physical albums, write down your valuable memories, and keep them with you forever. Do your note-taking, open your notes later and revise. Filter what’s the best for you and what you need only, and you will value the quintessentials you have in your hands.
+
+Are you with me?

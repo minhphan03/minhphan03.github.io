@@ -373,7 +373,7 @@ time {
 main {
 	display: flex;
   // flex-wrap: wrap;
-	max-width: 62rem;
+	max-width: 70rem;
   margin: 0 auto 0;
 	padding: 2rem 1.5rem;
   height: 100vh;
@@ -477,7 +477,7 @@ main {
 
 .featured-image{
   width: 100%;
-  aspect-ratio: 16/9;
+  aspect-ratio: 3/2;
   object-fit: cover;
   // padding-top: 1rem;
   mask-image: linear-gradient(rgba(255,255,255,1),rgba(255,255,255,0.75));
@@ -786,8 +786,8 @@ $link-color: var(--link-color);
     z-index: 5;
 
     @media (max-width: 59rem) {
-      width: 3px;
-      margin-left: -3px;
+      width: 4px;
+      margin-left: -4px;
     }
   }
 
@@ -810,7 +810,7 @@ $link-color: var(--link-color);
 
 .direction-l { /*left boxes + timeline dot*/
   position: relative;
-  width: 332px;
+  width: calc(50% - 37px);
   float: left;
   text-align: right;
 
@@ -819,10 +819,10 @@ $link-color: var(--link-color);
     width: 332px;
     height: 450px;
     position: relative;
-    z-index: 30;
+    z-index: 10;
 
     @media(max-width: 59rem) {
-      max-width: 75%;
+      width: 75%;
     }
   }
 
@@ -872,7 +872,7 @@ $link-color: var(--link-color);
 
 .direction-r {
   position: relative;
-  width: 339px;
+  width: calc(50% - 31px);
   float: right;
   text-align: left;
 
@@ -881,10 +881,10 @@ $link-color: var(--link-color);
     width: 332px;
     height: 450px;
     position: relative;
-    z-index: 30;
+    z-index: 15;
 
     @media(max-width: 59rem) {
-      max-width: 75%;
+      width: 75%;
     }
   }
 
