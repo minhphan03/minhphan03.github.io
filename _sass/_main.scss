@@ -32,6 +32,7 @@ html {
 	transform: scale(0.8);
 }
 
+
 html,
 html[data-theme="light"] {
 	--text-font: SF Pro Display;
@@ -996,7 +997,7 @@ $link-color: var(--link-color);
   .time {
     display: inline-block;
     padding: 4px 6px;
-    background: $link-color;
+    background: var(--medium-text-color);
   }
 }
 
