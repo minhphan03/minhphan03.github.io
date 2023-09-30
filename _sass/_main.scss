@@ -812,6 +812,19 @@ $link-color: var(--link-color);
   width: 332px;
   float: left;
   text-align: right;
+
+  iframe {
+    margin-top: 1rem;
+    width: 332px;
+    height: 450px;
+    position: relative;
+    z-index: 30;
+
+    @media(max-width: 59rem) {
+      max-width: 75%;
+    }
+  }
+
   @media(max-width: 59rem) {
     float: none;
     width: 100%;
@@ -829,7 +842,7 @@ $link-color: var(--link-color);
       width: 0;
       margin-top: -8px;
       border: solid transparent;
-      border-left-color: rgb(248,248,248);
+      border-left-color: var(--light-text-color);
       border-width: 8px;
       pointer-events: none;
       @media(max-width: 59rem) {
@@ -839,9 +852,9 @@ $link-color: var(--link-color);
         top: -8px;
         height: 0;
         width: 0;
-        margin-left: -8px;
+        margin-left: -9.5px;
         border: solid transparent;
-        border-bottom-color: rgb(255,255,255);
+        border-bottom-color: var(--light-text-color);
         border-width: 8px;
         pointer-events: none;
       }
@@ -861,6 +874,19 @@ $link-color: var(--link-color);
   width: 339px;
   float: right;
   text-align: left;
+
+  iframe {
+    margin-top: 1rem;
+    width: 332px;
+    height: 450px;
+    position: relative;
+    z-index: 30;
+
+    @media(max-width: 59rem) {
+      max-width: 75%;
+    }
+  }
+
   @media(max-width: 59rem) {
     float: none;
     width: 100%;
@@ -878,7 +904,7 @@ $link-color: var(--link-color);
       width: 0;
       margin-top: -8px;
       border: solid transparent;
-      border-right-color: rgb(248,248,248);
+      border-right-color: var(--light-text-color);
       border-width: 8px;
       pointer-events: none;
       @media(max-width: 59rem) {
@@ -888,9 +914,9 @@ $link-color: var(--link-color);
         top: -8px;
         height: 0;
         width: 0;
-        margin-left: -8px;
+        margin-left: -9.5px;
         border: solid transparent;
-        border-bottom-color: rgb(255,255,255);
+        border-bottom-color: var(--light-text-color);
         border-width: 8px;
         pointer-events: none;
       }
@@ -946,7 +972,7 @@ $link-color: var(--link-color);
   @media(max-width: 59rem) {
     position: absolute;
     top: -30px;
-    left: 53%;
+    left: 52%;
     content: ' ';
     display: block;
     margin-left: -10px;
@@ -959,7 +985,7 @@ $link-color: var(--link-color);
   display: inline;
   line-height: 1em;
   font-size: 0.66666em;
-  color: $link-color;
+  color: white;
   vertical-align: middle;
   @media(max-width: 59rem) {
     display: block;
@@ -970,7 +996,7 @@ $link-color: var(--link-color);
   .time {
     display: inline-block;
     padding: 4px 6px;
-    background: rgb(248,248,248);
+    background: $link-color;
   }
 }
 
@@ -978,6 +1004,7 @@ $link-color: var(--link-color);
   // margin: 1em 0.2em -3.5em 0;
   font-size: 0.85em;
   line-height: 1.5em;
+  margin-bottom: 1em;
   a {
     color: $link-color;
     text-decoration: none;
@@ -987,7 +1014,7 @@ $link-color: var(--link-color);
   }
   @media(max-width: 59rem) {
     position: relative;
-    margin: 1em 1em 0 1em;
+    margin: 1em 1em 1em 1em;
     padding: 1em;
     background: var(--code-bg-color);
     box-shadow: 0 0 1px rgba(0,0,0,0.20);
