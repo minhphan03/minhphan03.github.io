@@ -373,7 +373,7 @@ time {
 main {
 	display: flex;
   // flex-wrap: wrap;
-	max-width: 62rem;
+	max-width: 67rem;
   margin: 0 auto 0;
 	padding: 2rem 1.5rem;
   height: 100vh;
@@ -810,7 +810,7 @@ $link-color: var(--link-color);
 
 .direction-l { /*left boxes + timeline dot*/
   position: relative;
-  width: 332px;
+  width: calc(50% - 37px);
   float: left;
   text-align: right;
 
@@ -822,7 +822,7 @@ $link-color: var(--link-color);
     z-index: 30;
 
     @media(max-width: 59rem) {
-      max-width: 75%;
+      width: 75%;
     }
   }
 
@@ -872,7 +872,7 @@ $link-color: var(--link-color);
 
 .direction-r {
   position: relative;
-  width: 339px;
+  width: calc(50% - 31px);
   float: right;
   text-align: left;
 
@@ -884,7 +884,7 @@ $link-color: var(--link-color);
     z-index: 30;
 
     @media(max-width: 59rem) {
-      max-width: 75%;
+      width: 75%;
     }
   }
 
