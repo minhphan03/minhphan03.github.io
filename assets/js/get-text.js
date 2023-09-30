@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', function () {
         const divId = div.id;
 
         // Load the text from the corresponding text file.
-        fetch(`./assets/music corner/${divId}.txt`) // Assumes text file names match div IDs
+        fetch(`./assets/texts/${divId}.txt`) // Assumes text file names match div IDs
             .then(response => response.text())
             .then(text => {
                 // Set the loaded text as the inner HTML of the div.
