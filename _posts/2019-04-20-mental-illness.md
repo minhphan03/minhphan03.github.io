@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mental Illness: Dying Inside"
-tags: books reviews thoughts
+tags: books review thoughts
 image: /assets/images/mental-illness.jpg
 
 ---

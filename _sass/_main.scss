@@ -478,7 +478,7 @@ main {
   aspect-ratio: 3/2;
   object-fit: cover;
   // padding-top: 1rem;
-  mask-image: linear-gradient(rgba(255,255,255,1),rgba(255,255,255,0.75));
+  // mask-image: linear-gradient(rgba(255,255,255,1),rgba(255,255,255,0.75));
 }
 
 nav {
@@ -564,7 +564,7 @@ nav ul {
   }
 
   .flickr-desc {
-    padding: auto 1em auto auto;
+    margin-right: 1em;
   }
 
 }
@@ -717,9 +717,7 @@ color: #333;
 }
 
 .flickr-desc{
-  padding: auto 3em auto auto;
-  line-height: 1.5em;
-  font-size: 0.85em;
+  margin: 1em 3em auto auto;
 }
 
 .container {

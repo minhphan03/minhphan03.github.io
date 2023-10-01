@@ -85,7 +85,7 @@ I don’t know how Lana and Jack did it but they absolutely DID what’s needed 
 
 Fav lyrics: *We did it for fun, we did it for free / When I was young till eternity / I’ll do it for the right reasons / Withstanding all the time, changes, and seasons*
 
-**2\. All Too Well (10 Minute Version) (Taylor’s Version) -  Taylor Swift**
+**2\. All Too Well (10 Minute Version) (Taylor’s Version)(From The Vault) -  Taylor Swift**
 
 A fan favorite right from the get-go, All Too Well is the loudest and most persuasive attestation for Swift’s songwriting capabilities, with powerful yet heartbreaking lyrics and echoing tunes. And, as a gift for fans, she decided to put the original ten minute version of the song into the rerelease of Red (Taylor’s Version), and despite not being a single and went against the standard formula of a successful hit nowadays, it got groundbreaking commercial success as well as critical acclaim. She depicted her affair with Jake Gyllenhaal so beautifully and vividly through metaphors and imageries, painting autumn scenes of a beautiful afresh love which somehow ended up frosting and wilting in the worst possible way. The additional lyrics and verses somehow alleviated the listening experience without making it feel like I was listening to a ten minute song — and that’s how talented and experienced Swift is to manage to do so. This is her magnum opus, set her in stone of a legend status in the music industry.
 
