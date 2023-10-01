@@ -48,8 +48,6 @@ html[data-theme="light"] {
   --menu-bg-color: rgb(255, 255, 255);
 	background-color: rgb(255, 255, 255);
 
-	
-
 	#theme-toggle div {
 		position: relative;
 		width: 24px;
@@ -565,6 +563,10 @@ nav ul {
     display: none;
   }
 
+  .flickr-desc {
+    padding: auto 1em auto auto;
+  }
+
 }
 
 header ul {
@@ -715,7 +717,9 @@ color: #333;
 }
 
 .flickr-desc{
-  margin: auto 1em auto auto;
+  padding: auto 3em auto auto;
+  line-height: 1.5em;
+  font-size: 0.85em;
 }
 
 .container {
@@ -998,7 +1002,7 @@ $link-color: var(--link-color);
 
 .time-wrapper {
   display: inline;
-  line-height: 1em;
+  line-height: 1.5em;
   font-size: 0.66666em;
   color: white;
   vertical-align: middle;

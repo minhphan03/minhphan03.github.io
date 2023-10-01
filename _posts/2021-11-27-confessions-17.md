@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Confessions of 17"
+tags: adulthood security
+image: /assets/images/rain.jpg
+---
+
+It’s crazy how time flies, isn’t it? I have always prided on myself for having the accomplishment of going to college at the age of 16 and now to a university at the age of 17, but as it slowly slips away, I have to face the truth that I cannot be a kid forever. There are so many limitations to going to college too early: missing the cliche high school experience, tackling the age restrictions of a college experience, and picking up premature obstacles that no one should take at the age of sixteen. Caught up in this mess, I haven’t realized that eighteen is upon my reality now. It hits me harder than expected to come to terms with this ultimate truth: I have to start taking responsibilities, many of which I have already been dealing with, more seriously, and I’m about to face even more as a new adult. The transition is too abrupt to feel natural.
+
+Out of curiosity, I recently watched “The Perks of Being a Wallflower,” and Charlie Kelmeckis’ quote at the end of the movie haunted me forever: “And there are people who forget what it’s like to be sixteen when they turn seventeen.” What does it like to be a sixteen-year-old? I don’t even recall it correctly anymore — just glimpses and sketches of a tenth grade trying to grow up while naively savoring his youthfulness — but now I crave it. I crave the feeling of having memorable moments again. Ever since the pandemic hits, I got stuck forever in my wasted time. Seventeen, to me, has been so uneventful I want to pretend it never exists. The loneliness among the crowds, the fear of missing out, the jealousy towards the cool kids, the endless summer nights, all hot and bothered, leering outside only to catch the starless, dull grey canvas of the night in California. I almost retained none of the days in my seventeenth year. Right now, I’m lying here in this dorm room all alone, writing this piece of reminiscence, dwelling on the days that should have been better. I surfed through Twitter and Reddit, pitying myself for not having fun like the interesting people there. I craved what they showed in the movies: the partying, the touching conversations, the tight hugs, the nostalgic music blasting on memorable rides in starry skies. They are ideal than most of us can have, I know. I should have known better that not all of us can ever touch them. But I have already forgotten what it is like to be seventeen — an urge to grow up into the world, or a desperate attempt not to get lost and stay young forever – that I’m afraid the same would happen to the next phase of my life.
+
+I’m looking to the eighteenth year on the other side right now. Wondering what it will bring, or I will continue fighting an already losing battle. Why bothered? We all have to grow up somehow. It’s what society expects us to do. We cannot act like kids anymore. But for their mental construction of aging, eighteen would be just another teenage year for me to experiment and continue to do what I wanted since I was sixteen. It’s going to arrive like a hurricane, blowing us all out of the blue.
+
+Enough with the negativity. I’m sick of it. Maybe (just maybe) everything will eventually be better somehow. Time will make sure of that. Numbness will subside, and questions will have answers. There will be more challenges to face, but at the same time, there will be new epiphanies.
+
+I don’t know exactly how life will be better, but I do believe that it will get less worst. I really do.
+
+November 2021.
