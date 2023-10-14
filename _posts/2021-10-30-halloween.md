@@ -2,7 +2,7 @@
 layout: post
 title: "Halloween Weekend"
 tags: life
-image: /assets/images/
+image: /assets/images/halloween.jpg
 ---
 
 Tomorrow is officially Halloween and I don’t have and did not have anything exciting lately for the event lately. Am I just feeling so alone because even my roommate was feeling so contented being alone without going out of the room for days, and I could not justify his actions of feeling totally fine with it? I tried to asked him out to go to a movie screening with me but he would not budge and said that he was lazy, which was so lame of an excuse, and I tried with every fiber in my arm not to groan and scream my head out. 
