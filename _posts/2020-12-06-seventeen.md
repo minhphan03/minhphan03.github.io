@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Seventeen"
-tags: adulthood anniversary security
+tags: adulthood anniversary throwback
 image: assets/images/17.jpg
 ---
 

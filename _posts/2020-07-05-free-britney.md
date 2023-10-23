@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "#FreeBritney"
-tags: discussion life movement
+tags: discussion life culture
 image: /assets/images/freebritney.jpg
 ---
 

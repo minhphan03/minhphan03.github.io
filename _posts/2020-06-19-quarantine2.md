@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ba Láp Về Quarantine: Phần 2"
-tags: thoughts diary 
+tags: life diary 
 image: /assets/images/journal.jpg
 ---
 

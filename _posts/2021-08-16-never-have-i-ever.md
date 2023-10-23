@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Never Have I Ever: Not Just a Teen Drama Show"
-tags: review 
+tags: review culture 
 image: /assets/images/nhie.jpg
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Is Fast Fashion Sustainable?"
-tags: movement discussion
+tags: culture discussion
 image: /assets/images/shopping-clothes.jpg
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What's on your mind?"
-tags: adulthood security thoughts
+tags: adulthood security
 image: /assets/images/gradient.jpg
 ---
 
