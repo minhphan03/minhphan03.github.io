@@ -15,6 +15,7 @@ This is a simple blog created using the Gesko template (Jekyll) by @DavideBri. M
 - [ ] (Maybe) showcase some projects
 - [ ] Embed YouTube videos in posts
 - [ ] Custom domain
+- [ ] Toggle Switch / next/prev buttons for different years in music corner
 
 ## License
 
