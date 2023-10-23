@@ -780,7 +780,7 @@ $link-color: var(--link-color);
   list-style-type: none;
   height: 100%;
 
-  @media (max-width: 59rem) {
+  @media(max-width: 90rem) {
     width: 100%;
     margin: 0 auto;
     /* Add margin to center the timeline on mobile */
@@ -798,7 +798,7 @@ $link-color: var(--link-color);
     background: var(--light-text-color);
     z-index: 5;
 
-    @media (max-width: 59rem) {
+    @media(max-width: 90rem) {
       width: 4px;
       margin-left: -4px;
     }
@@ -807,7 +807,7 @@ $link-color: var(--link-color);
   li { /*boxes*/
     padding: 2em 0;
 
-    @media (max-width: 59rem) {
+    @media(max-width: 90rem) {
       padding: 2em 0;
     }
 
@@ -836,12 +836,12 @@ $link-color: var(--link-color);
     min-width: 300px;
 
 
-    @media(max-width: 59rem) {
+    @media(max-width: 90rem) {
       width: 75%;
     }
   }
 
-  @media(max-width: 59rem) {
+  @media(max-width: 90rem) {
     float: none;
     width: 100%;
     text-align: center;
@@ -861,7 +861,7 @@ $link-color: var(--link-color);
       border-left-color: var(--light-text-color);
       border-width: 8px;
       pointer-events: none;
-      @media(max-width: 59rem) {
+      @media(max-width: 90rem) {
         content: "";
         position: absolute;
         left: 50%;
@@ -878,7 +878,7 @@ $link-color: var(--link-color);
   }
   .time-wrapper {
     float: left;
-    @media(max-width: 59rem) {
+    @media(max-width: 90rem) {
       float: none;
     }
   }
@@ -899,12 +899,12 @@ $link-color: var(--link-color);
     z-index: 15;
     min-width: 300px;
 
-    @media(max-width: 59rem) {
+    @media(max-width: 90rem) {
       width: 75%;
     }
   }
 
-  @media(max-width: 59rem) {
+  @media(max-width: 90rem) {
     float: none;
     width: 100%;
     text-align: center;
@@ -924,7 +924,7 @@ $link-color: var(--link-color);
       border-right-color: var(--light-text-color);
       border-width: 8px;
       pointer-events: none;
-      @media(max-width: 59rem) {
+      @media(max-width: 90rem) {
         content: "";
         position: absolute;
         left: 50%;
@@ -944,7 +944,7 @@ $link-color: var(--link-color);
   }
   .time-wrapper {
     float: right;
-    @media(max-width: 59rem) {
+    @media(max-width: 90rem) {
       float: none;
     }
   }
@@ -954,7 +954,7 @@ $link-color: var(--link-color);
   position: relative;
   display: inline-block;
   text-align: center;
-  @media(max-width: 59rem) {
+  @media(max-width: 90rem) {
     text-align: center;
   }
   .flag {
@@ -965,7 +965,7 @@ $link-color: var(--link-color);
     border-radius: 5px;
     font-weight: 600;
     text-align: left;
-    @media(max-width: 59rem) {
+    @media(max-width: 90rem) {
       background: var(--light-text-color);
       z-index: 15;
     }
@@ -986,7 +986,7 @@ $link-color: var(--link-color);
   border-radius: 10px;
   border: 4px solid $link-color;
   z-index: 10;
-  @media(max-width: 59rem) {
+  @media(max-width: 90rem) {
     position: absolute;
     top: -30px;
     left: 52%;
@@ -1004,7 +1004,7 @@ $link-color: var(--link-color);
   font-size: 0.66666em;
   color: white;
   vertical-align: middle;
-  @media(max-width: 59rem) {
+  @media(max-width: 90rem) {
     display: block;
     position: relative;
     margin: 4px 0 0 0;
@@ -1029,7 +1029,7 @@ $link-color: var(--link-color);
       text-decoration: underline;
     }
   }
-  @media(max-width: 59rem) {
+  @media(max-width: 90rem) {
     position: relative;
     margin: 1em 1em 1em 1em;
     padding: 1em;
