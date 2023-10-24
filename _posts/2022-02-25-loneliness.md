@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A lesson about loneliness"
+title: "A Lesson About Loneliness"
 tags: security
 image: /assets/images/loneliness.jpg
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "#FreeBritney"
-tags: discussion society culture
+tags: discussion culture
 image: /assets/images/freebritney.jpg
 ---
 

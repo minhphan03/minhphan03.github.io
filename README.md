@@ -5,15 +5,14 @@ This is a simple blog created using the Gesko template (Jekyll) by @DavideBri. M
 ## Next steps
 - [x] Sidebar (preferably floated): https://sidey-jekyll.netlify.app 
 - [x] Transfer about page to index.html with two columns (one self image and one quick bio/links)
-- [ ] Frozen search bar for blog tab
+- [ ] (Maybe) Frozen search bar for blog tab
 - [x] Purpose statement (longer letter)
 - [x] Update favicon
 - [x] Music corner using Apple Music plugin (iframe element)
-- [ ] Update blogs from the other website ([old website](minhphan03.com))
+- [x] Update blogs from the other website ([old website](minhphan03.com))
 - [ ] Publish website to people !
-- [ ] (Maybe) limit number of posts on one page... Show more button using [Jekyll-paginator](https://stackoverflow.com/questions/21027057/how-to-implement-load-more-posts-from-homepage-using-jekyll)
-- [ ] (Maybe) showcase some projects
-- [ ] Embed YouTube videos in posts
+- [ ] Add descriptions to tags
+- [ ] (Maybe) Project showcase
 - [ ] Custom domain
 - [ ] Toggle Switch / next/prev buttons for different years in music corner
 
