@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "I Asked a Stranger For a Phone Charger" 
-tags: throwback travel security 
+tags: throwback travel adulthood
 image: /assets/images/portland-6.jpg
 ---
 

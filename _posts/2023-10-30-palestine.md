@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "On the Palestine Struggles" 
+title: "On the Palestinian Genocide" 
 tags: security discussion
 image: /assets/images/palestine.jpg
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Translation:<br> Urgent🚨 <br>Ministry of Education in G🅰️z🅰️: Officially, the 2023/2024 academic year has been ended because all students have been kℹ️lled.</p>&mdash; robi! (@Roi_ro1) <a href="https://twitter.com/Roi_ro1/status/1717951364020531323?ref_src=twsrc%5Etfw">October 27, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Translation:<br> Urgent🚨 <br>Ministry of Education in G🅰️z🅰️: Officially, the 2023/2024 academic year has been ended because all students have been kℹ️lled.</p>&mdash; robi! (@Roi_ro1) <a href="https://twitter.com/Roi_ro1/status/1717951364020531323?ref_src=twsrc%5Etfw">October 27, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 I am not someone who cares a lot about politics, but when it comes to Palestine and Israel, it’s no longer a matter of policies and debate; it is a human rights issue. The war has escalated to an unprecedented level of violence and tragedy in the modern world. Is it different from Russia vs. Ukraine? Not that much, but we all know the main driving factor behind that war was pure political pressure. This one? No. This is a matter of national pride, self-determination, and liberation. Therefore, when I read this tweet, my first thought was, 'Were ALL students killed? What the actual fuck?' Can you believe that what the Israeli government is doing is essentially genocide? Over some land? They bombed the territory using white phosphorus, a prohibited chemical that causes long-hidden aftereffects such as cancer and 'successfully' wiped out an entire generation. A WHOLE generation of people, and at least a couple more whose lives are hanging by a thread under those ruins. And it’s not going to be the only chemical in the air! Dust from the ruins, uranium, and other toxic materials would slowly kill the whole population over the years. How hopeless it is to read about that in the news and not be able to do anything? I've read about cases of Palestinian people trying to contact their loved ones hiding in the territory, only to be cut off by an Internet blackout, followed by an actual electric blackout, as Israeli forces destroyed towers and lines. They knew that by cutting off communication, their bloody acts could somehow go unnoticed. This is sickening and nasty, and it's even more terrifying to know that we can do nothing but pray and helplessly witness the killings unfold.
