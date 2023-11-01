@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Troye Sivan's Comback Single \"Rush\" & Sexual Insecurities" 
+title: "On Troye Sivan's New Single \"Rush\"" 
 tags: music security culture diary
 image: /assets/images/troye.jpg
 ---
