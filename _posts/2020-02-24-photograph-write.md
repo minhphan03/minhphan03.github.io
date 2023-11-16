@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Don't Photograph. Write."
-tags: discussion culture
+tags: discussion 
 image: /assets/images/paper.jpg
 ---
 

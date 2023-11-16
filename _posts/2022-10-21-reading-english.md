@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "On Reading English Articles & Playing Crosswords"
+title: "On Reading English Articles & Solving Crosswords"
 tags: life discussion 
 image: /assets/images/crosswords.jpg
 ---

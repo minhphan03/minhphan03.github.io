@@ -171,12 +171,6 @@ a {
 	text-decoration: none;
 }
 
-.post p {
-	margin: 1rem 0;
-  font-family: var(--blog-font), normal;
-  font-size: 1.2rem;
-}
-
 .meta {
 	margin: 1.4rem 0;
   // padding-left: 1rem;
@@ -257,6 +251,7 @@ h1 {
 	font-size: 2rem;
 	font-weight: bold;
 	margin-bottom: 1rem;
+  line-height: normal;
 }
 
 h2,
@@ -309,6 +304,12 @@ b {
 	margin-bottom: 0.5rem;
 }
 
+.post p {
+	margin: 1rem 0;
+  font-family: var(--blog-font), normal;
+  font-size: 1.2rem;
+}
+
 .posts > h3 {
 	font-weight: 500;
 }
@@ -344,6 +345,18 @@ b {
   text-decoration: underline;
 }
 
+.post > h1.title {
+	font-size: 2rem;
+  font-family: var(--blog-font), normal;
+	margin: 0.5rem 0 0.5rem 0;
+  // padding-left: 1rem;
+}
+
+.post > time {
+	margin-bottom: 0;
+	margin-top: 1rem;
+}
+
 .posts li time,
 .projects li time {
 	// padding-left: 1rem;
@@ -354,18 +367,6 @@ b {
 time {
 	color: var(--main-text-color);
   // padding-left: 1rem;
-}
-
-.post > h1.title {
-	font-size: 2rem;
-	margin-top: 0;
-	margin-bottom: 0;
-  // padding-left: 1rem;
-}
-
-.post > time {
-	margin-bottom: 0;
-	margin-top: 1rem;
 }
 
 .highlight {
