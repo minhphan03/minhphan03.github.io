@@ -1,6 +1,6 @@
 ---
 layout: post
-title: D-1 Jaw Surgery
+title: "Jaw Surgery"
 tags: diary
 image: /assets/images/surgery.jpg
 ---
@@ -52,4 +52,6 @@ I hate putting on wax so much they never stickkkkk
 
 I went out with some folks today to a Taiwanese restaurant.. I ordered egg and tofu soup since I could not digest any meat, and it turned out I could not eat the tofu either. I struggled just opening my mouth to eat, mostly because of the rubber bands I deliberately left on, which my doctor insisted to. I then slurped the soup and left the tofu and egg, as well as some fried chicken one of them gave me, to be blended with my carrot congee I ate later that day. It was not so bad, honestly, but I got tired of congee so much that I would rather not eat it. My cousin made too much, and I hate to throw it all away.
 
-8. Day 14
+8. Day 15
+
+I was told to 

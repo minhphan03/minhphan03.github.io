@@ -43,7 +43,7 @@ Melodrama resonated so in tune with my emotions for a lot of reasons, and “The
 Fav lyrics: *Now if you’re looking for a saviour, well, that’s not me / You need someone to take your pain for you? / Well, that’s not me*
 <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="margin: 0 auto; display: block;width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/album/the-path/1572940891?i=1572941106"></iframe>
 
-**10\. Brutal – Olivia Rodrigo**
+**10\. brutal – Olivia Rodrigo**
 
 What’s better than a song that represents your age that is also coincidentally released the same year you are at that age? “brutal,” the rock-infused opening track from the emerging popstar Olivia Rodrigo is THAT track. (you know what I mean?) The cathartic drum-fused instrumentals and relatable lyrics of an antsy seventeen-year-old teenager having to sort through her life painted a perfect description of my seventeenth year on this planet. Every time the song comes on, I always put off what I was doing and rocked my body to it, just like a teenager in a 2000s rom-com movie. 
 

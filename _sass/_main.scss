@@ -36,6 +36,7 @@ html {
 html,
 html[data-theme="light"] {
 	--text-font: SF Pro Display;
+  --blog-font: Garamond Pro;
 	--source-code-font: Source Code Pro;
 	--very-light-text-color: rgb(222, 222, 222);
 	--light-text-color: rgb(89, 183, 255);
@@ -172,6 +173,7 @@ a {
 
 .post p {
 	margin: 1rem 0;
+  font-family: var(--blog-font), normal;
 }
 
 .meta {
@@ -749,13 +751,25 @@ color: #333;
 
 @font-face {
   font-family: 'SF Pro Display';
-  src: url("https://minhphan03.github.io/assets/fonts/SFNSDisplay-Regular.otf") format("OpenType");
+  src: url("https://minhphan03.github.io/assets/fonts/SFNSText-Regular.otf") format("OpenType");
   font-weight: normal; 
 }
 
 @font-face {
   font-family: 'SF Pro Display';
-  src: url("https://minhphan03.github.io/assets/fonts/SFNSDisplay-Bold.otf") format("OpenType");
+  src: url("https://minhphan03.github.io/assets/fonts/SFNSText-Bold.otf") format("OpenType");
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: 'Garamond Pro';
+  src: url("https://minhphan03.github.io/assets/fonts/GaramondPremrPro.otf") format("OpenType");
+  font-weight: normal; 
+}
+
+@font-face {
+  font-family: 'Garamond Pro';
+  src: url("https://minhphan03.github.io/assets/fonts/GaramondPremrPro-Bd.otf") format("OpenType");
   font-weight: bold;
 }
 
