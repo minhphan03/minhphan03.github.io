@@ -305,25 +305,25 @@ b {
 }
 
 .post p {
-	margin: 1rem 0;
   font-family: var(--blog-font), normal;
   font-size: 1.2rem;
+  margin: 1rem 0;
 }
+
+// .post p {
+// 	// margin: 1rem 0;
+
+// }
 
 .posts > h3 {
 	font-weight: 500;
 }
 
+.post ol,
 .post ul {
-  font-family: var(--blog-font), normal;
   font-size: 1.2rem;
-	margin: 0px;
-	margin: 0px 0px 10px 10px;
-}
-
-.post ol {
-	margin: 0px;
-	margin: 0px 0px 10px 15px;
+  font-family: var(--blog-font), 'Times New Roman', Times, serif;
+	padding: 0px 0px 10px 20px;
 }
 
 .posts li {
@@ -352,7 +352,9 @@ b {
   // padding-left: 1rem;
 }
 
+.post .meta,
 .post > time {
+  font-family: var(--text-font), Arial, Helvetica, sans-serif;
 	margin-bottom: 0;
 	margin-top: 1rem;
 }
@@ -762,6 +764,13 @@ color: #333;
   font-family: 'SF Pro Display';
   src: url("https://minhphan03.github.io/assets/fonts/SFNSText-Bold.otf") format("OpenType");
   font-weight: bold;
+}
+
+@font-face {
+  font-family: 'Garamond Pro';
+  src: url("https://minhphan03.github.io/assets/fonts/GaramondPremrPro-It.otf") format("OpenType");
+  font-weight: normal;
+  font-style: italic;
 }
 
 @font-face {
