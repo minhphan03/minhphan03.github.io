@@ -310,9 +310,13 @@ b {
   margin: 0 auto 0 auto;
 
   p {
-  font-family: var(--blog-font), normal;
-  font-size: 1.2rem;
-  margin: 1.5rem 0 1.5rem 0;
+    font-family: var(--blog-font), normal;
+    font-size: 1.2rem;
+    margin: 1.5rem 0 1.5rem 0;
+
+    > img {
+      max-width: 100%;
+    }
   }
 
   li {
@@ -320,8 +324,8 @@ b {
   }
 
   ol, ul {
-  font-family: var(--blog-font), 'Times New Roman', Times, serif;
-	padding-left: 3rem;
+    font-family: var(--blog-font), 'Times New Roman', Times, serif;
+    padding-left: 3rem;
   }
 
   > h1.title {
@@ -488,11 +492,11 @@ main {
 }
 
 .featured-image{
-  width: 135%;
+  width: 125%;
   aspect-ratio: 16/9;
   object-fit: cover;
   display: block;
-  margin: 0 -20% auto;
+  margin: 0 -15% auto;
   padding-bottom: 1rem;
   // mask-image: linear-gradient(rgba(255,255,255,1),rgba(255,255,255,0.75));
 }
@@ -565,8 +569,7 @@ nav ul {
   .featured-image {
     width: 130%;
     max-width: 130%;
-    margin-left: -5rem;
-    margin-right: -10rem;
+    // margin: 0 -13% auto;
 
     // position: relative;
     // left: 50%;
