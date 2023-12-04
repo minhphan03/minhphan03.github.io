@@ -16,16 +16,17 @@ Finally, society is also affected on a wide scale if college tuition continues t
 
 College students are not fully adults, and they are not financially independent enough to pay for their education without having debts weighing on them for the rest of their lives. They need open, accessible experiences to discover their future paths, not troubled minds drowning in the endless cycle of money and instability. Therefore, it is disappointing that the education system of one of the most advanced nations in the world cannot provide its citizens with an affordable approach to necessary sets of skills to keep its pace on the competition. Not only does the unaffordable tuition burdens students’ lives, but it distresses the whole society as well. We should act as fast as possible before the expenses spin out of control, especially when wealth distribution is increasingly disturbing and many families go down the poverty line, suppressing students’ diligence to change their lives.
 
+
 <p style="text-align: center">Works Cited</p>
 
-* Cambell, Colleen, et al. “Addressing the $1.5 Trillion in Federal Student Loan Debt.” Center for American Progress, 12 June 2019, www.americanprogress.org/issues/education-postsecondary/reports/2019/06/12/470893/addressing-1-5-trillion-federal-student-loan-debt/.
-* Dugan, Andrew, and Stephanie Marken. “Student Debt Linked to Worse Health and Less Wealth.” Gallup.com, 7 Aug. 2014, news.gallup.com/poll/174317/student-debt-linked-worse-health-less-wealth.aspx. 
-* Gonzalez, Alma. “Education: The Secret to Crime Reduction?” New York University, 2015, as.nyu.edu/content/dam/nyu-as/politics/documents/Gonzalez.pdf.
+* Cambell, Colleen, et al. “Addressing the $1.5 Trillion in Federal Student Loan Debt.” Center for American Progress, 12 June 2019, <https://www.americanprogress.org/issues/education-postsecondary/reports/2019/06/12/470893/addressing-1-5-trillion-federal-student-loan-debt/.>
+* Dugan, Andrew, and Stephanie Marken. “Student Debt Linked to Worse Health and Less Wealth.” Gallup.com, 7 Aug. 2014, <https://news.gallup.com/poll/174317/student-debt-linked-worse-health-less-wealth.aspx.>
+* Gonzalez, Alma. “Education: The Secret to Crime Reduction?” New York University, 2015, <https://as.nyu.edu/content/dam/nyu-as/politics/documents/Gonzalez.pdf.>
 * Hillygus, D. Sunshine. “The Missing Link: Exploring the Relationship Between Higher Education and Political Engagement.” Political Behavior, vol. 27, no. 1, 2005, pp. 25–47., doi:10.1007/s11109-005-3075-8.
 * Hoffower, Hillary. “College Is More Expensive than It's Ever Been, and the 5 Reasons Why Suggest It's Only Going to Get Worse.” Business Insider, Business Insider, 26 June 2019, www.businessinsider.com/why-is-college-so-expensive-2018-4.
 * Hout, Michael. “Social and Economic Returns to College Education in the United States.” Annual Review of Sociology, vol. 38, no. 1, 2012, pp. 379–400., doi:10.1146/annurev.soc.012809.102503.
-* “How America Pays for College.” Sallie Mae, Sallie Mae, 2020, www.salliemae.com/assets/research/HAP/HowAmericaPaysforCollege2020.pdf.
-* Mitchell, Michael. “Rising Costs Making It Hard for Students, Particularly of Color, to Afford College.” Center on Budget and Policy Priorities, 25 Oct. 2019, www.cbpp.org/blog/rising-costs-making-it-hard-for-students-particularly-of-color-to-afford-college.
-* Torkelson, Jennifer. “The Need to Confront and Talk Honestly about Graduate Student Debt (Opinion).” Inside Higher Ed, 29 Sept. 2020, www.insidehighered.com/views/2020/09/29/need-confront-and-talk-honestly-about-graduate-student-debt-opinion.
-* “Tuition Costs of Colleges and Universities.” National Center for Education Statistics, 2019, nces.ed.gov/fastfacts/display.asp?id=76.
-* Zaloom, Caitlin, and Andrew Kreighbaum. “How Families Navigate the Growing Cost of College.” Inside Higher Ed, 4 Sept. 2019, www.insidehighered.com/news/2019/09/04/author-talks-about-how-paying-college-defines-middle-class.
+* “How America Pays for College.” Sallie Mae, Sallie Mae, 2020, <https://www.salliemae.com/assets/research/HAP/HowAmericaPaysforCollege2020.pdf.>
+* Mitchell, Michael. “Rising Costs Making It Hard for Students, Particularly of Color, to Afford College.” Center on Budget and Policy Priorities, 25 Oct. 2019, <https://www.cbpp.org/blog/rising-costs-making-it-hard-for-students-particularly-of-color-to-afford-college.>
+* Torkelson, Jennifer. “The Need to Confront and Talk Honestly about Graduate Student Debt (Opinion).” Inside Higher Ed, 29 Sept. 2020, <https://www.insidehighered.com/views/2020/09/29/need-confront-and-talk-honestly-about-graduate-student-debt-opinion.>
+* “Tuition Costs of Colleges and Universities.” National Center for Education Statistics, 2019, <https://nces.ed.gov/fastfacts/display.asp?id=76.>
+* Zaloom, Caitlin, and Andrew Kreighbaum. “How Families Navigate the Growing Cost of College.” Inside Higher Ed, 4 Sept. 2019, <https://www.insidehighered.com/news/2019/09/04/author-talks-about-how-paying-college-defines-middle-class>

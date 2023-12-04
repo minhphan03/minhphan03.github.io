@@ -4,7 +4,7 @@ title: "On the Palestinian Genocide"
 tags: security discussion
 image: /assets/images/palestine.jpg
 ---
-*Cover image source: Reuters*
+*Protestors in London, England. Cover image source: BBC News*
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Translation:<br> Urgent🚨 <br>Ministry of Education in G🅰️z🅰️: Officially, the 2023/2024 academic year has been ended because all students have been kℹ️lled.</p>&mdash; robi! (@Roi_ro1) <a href="https://twitter.com/Roi_ro1/status/1717951364020531323?ref_src=twsrc%5Etfw">October 27, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 

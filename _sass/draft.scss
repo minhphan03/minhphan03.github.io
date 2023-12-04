@@ -204,7 +204,7 @@ pre {
 }
 
 // img {
-// 	max-width: 120%;
+// 	max-width: 100%;
 // }
 
 hr {
@@ -213,18 +213,19 @@ hr {
 	border: 0;
 }
 
-header a {
-	text-decoration: none;
-  font-weight: bold;
-
-}
-
-header li {
-	margin-bottom: 0.3rem;
-	text-align: right;
-	margin-right: 2rem;
-  :hover {
-    text-decoration: underline;
+header {
+  a {
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  li {
+    margin-bottom: 0.3rem;
+    text-align: right;
+    margin-right: 2rem;
+    :hover {
+      text-decoration: underline;
+    }
   }
 }
 
@@ -262,25 +263,6 @@ h5 {
 	margin-bottom: 1rem;
 }
 
-h2 {
-	font-size: 1.8rem;
-}
-
-h3 {
-	font-size: 1.6rem;
-}
-
-h4 {
-	font-size: 1.4rem;
-}
-
-h5 {
-	font-size: 1.2rem;
-}
-
-h6 {
-	font-size: 1rem;
-}
 
 section h1:first-child {
 	margin-top: 0;
@@ -304,15 +286,17 @@ b {
 	margin-bottom: 0.5rem;
 }
 
-.post { 
+.post {
+
   width: 80%;
   max-width: 100%;
   margin: 0 auto 0 auto;
-
+  
   p {
-  font-family: var(--blog-font), normal;
-  font-size: 1.2rem;
-  margin: 1.5rem 0 1.5rem 0;
+    font-family: var(--blog-font), normal;
+    font-size: 1.3rem;
+    margin: 1.5rem 0 1.5rem 0;
+    // text-indent: 2rem;
   }
 
   li {
@@ -333,9 +317,19 @@ b {
   }
 }
 
+
+.post .meta,
+.post > time {
+  font-family: var(--text-font), Arial, Helvetica, sans-serif;
+	margin-bottom: 0;
+	margin-top: 1rem;
+}
+
+
 .posts > h3 {
 	font-weight: 500;
 }
+
 
 .posts li {
 	align-items: center;
@@ -355,14 +349,6 @@ b {
 
 .posts li a:hover {
   text-decoration: underline;
-}
-
-
-.post .meta,
-.post > time {
-  font-family: var(--text-font), Arial, Helvetica, sans-serif;
-	margin-bottom: 0;
-	margin-top: 1rem;
 }
 
 .posts li time,
@@ -470,8 +456,8 @@ main {
 
 .bubble-list li {
   display: inline-block;
-  margin-bottom: 6px;
-  margin-right:5px;
+  margin-bottom: 9px;
+  margin-right:7px;
   padding: 1px 5px 1px 5px;
   border-radius: 10px;
   border: 2px solid #a9a9a9 ;
@@ -487,11 +473,17 @@ main {
   }
 }
 
+.bio {
+	margin-bottom: 1rem;
+  // line-height: 2em;
+}
+
 .featured-image{
   width: 135%;
+  display: block;
   aspect-ratio: 16/9;
   object-fit: cover;
-  display: block;
+  // min-width: 100%;
   margin: 0 -20% auto;
   padding-bottom: 1rem;
   // mask-image: linear-gradient(rgba(255,255,255,1),rgba(255,255,255,0.75));
@@ -504,85 +496,29 @@ nav ul {
   border-right: 2px solid var(--code-bg-color);
 }
 
+.auto-scale {
+  aspect-ratio: 3/2;
+  position: relative;
+  display: block;
+  max-width: 700px !important;
+  width: 50% !important;
+  // height: auto !important;
+  // margin: auto;
+  // display: block;
+  // position: relative;
+}
 
-@media screen and (max-width: 37rem) {
-	header li {
-		display: inline;
-		margin-right: 1rem;
-	}
-	.logo {
-		padding-bottom: 1rem;
-	}
-	header ul {
-    display: flex;
-		border-bottom: 1px solid var(--code-bg-color);
-		padding-bottom: 1rem;
-    list-style: none;
-	}
-	nav ul {
-		border-right: 0px;
-	}
 
-	.photos ul {
-		margin-top: 0.5rem;
-	}
+.flickr{
+  // width: 100%;
+  margin: 0em 0em 0em 1em;
+  display: inline-block;
+  position: relative;
+}
 
-	main {
-		padding: 0 1rem;
-    flex: wrap;
-    height: max-content;
-	}
-
-  header {
-    overflow: hidden;
-    width: 100%;
-    position: fixed;
-    top: 0;
-    background-color: var(--menu-bg-color);
-    z-index: 20;
-    padding-bottom: 0;
-  }
-
-  .content-column {
-    padding-top: 6rem;
-  }
-
-  .social-footer-icons {
-    text-align: center;
-  }
-
-  .info-column-2 h2 {
-    text-align: center;
-  }
-
-  .info-column-2 {
-    display: inline-flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-  }
-
-  .featured-image {
-    width: 130%;
-    max-width: 130%;
-    margin-left: -5rem;
-    margin-right: -10rem;
-
-    // position: relative;
-    // left: 50%;
-    // right: 50%;
-    // margin-left: -50vw;
-    // margin-right: -50vw;
-  }
-
-  .info-column-2 ul {
-    display: none;
-  }
-
-  .flickr-desc {
-    margin-right: 1em;
-  }
-
+.flickr-desc{
+  margin: 1em 1em auto auto;
+  font-size: 1rem;
 }
 
 header ul {
@@ -591,10 +527,6 @@ header ul {
 
 figcaption {
 	font-size: smaller;
-}
-
-.bio {
-	margin-bottom: 1rem;
 }
 
 ::selection {
@@ -708,30 +640,15 @@ color: #333;
 
 .tags ul {
 	list-style: none;
-  //   display: grid;
   //   grid-template-columns: auto auto auto auto auto auto;
 	// grid-template-rows:auto auto auto auto;
 
 }
 
+
 .tags li {
 	white-space: normal;
 	text-overflow: ellipsis;
-}
-
-.flickr{
-  // width: 100%;
-  margin: 0em 0em 0em 1em;
-  display: inline-block;
-  position: relative;
-
-  img {
-    max-width: 110%;
-  }
-}
-
-.flickr-desc{
-  margin: 1em 3em auto auto;
 }
 
 .container {
@@ -749,17 +666,7 @@ color: #333;
 //   left: 0;
 // }
 
-.auto-scale {
-  aspect-ratio: 3/2;
-  position: relative;
-  display: block;
-  max-width: 700px !important;
-  width: 90% !important;
-  // height: auto !important;
-  // margin: auto;
-  // display: block;
-  // position: relative;
-}
+
 
 @font-face {
   font-family: 'SF Pro Display';
@@ -792,6 +699,95 @@ color: #333;
   font-weight: bold;
 }
 
+
+
+@media screen and (max-width: 37rem) {
+	header li {
+		display: inline;
+		margin-right: 1rem;
+	}
+	.logo {
+		padding-bottom: 1rem;
+	}
+	header ul {
+    display: flex;
+		border-bottom: 1px solid var(--code-bg-color);
+		padding-bottom: 1rem;
+    list-style: none;
+	}
+	nav ul {
+		border-right: 0px;
+	}
+
+	.photos ul {
+		margin-top: 0.5rem;
+	}
+
+	main {
+		padding: 0 1rem;
+        flex: wrap;
+        height: max-content;
+	}
+
+  header {
+    overflow: hidden;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    background-color: var(--menu-bg-color);
+    z-index: 20;
+    padding-bottom: 0;
+  }
+
+  .content-column {
+    padding-top: 6rem;
+  }
+
+  .social-footer-icons {
+    text-align: center;
+  }
+
+  .info-column-2 h2 {
+    text-align: center;
+  }
+
+  .info-column-2 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .post {
+    width: 90%;
+
+    p, li{
+    font-size: 1.2rem;
+    }
+
+    ol, ul {
+      padding-left: 1.5rem;
+    }
+
+    > h1.title {
+      font-size: 2rem;
+    }
+  }
+
+
+  .info-column-2 ul {
+    display: none;
+  }
+
+  .flickr-desc {
+    margin-right: 1em;
+  }
+
+  .featured-image {
+    width: 130%;
+  }
+
+}
 
 @media print
 {    
@@ -1052,10 +1048,9 @@ $link-color: var(--link-color);
 
 .music-desc {
   // margin: 1em 0.2em -3.5em 0;
-  font-size: 0.85em;
+  font-size: 1rem;
   line-height: 1.5em;
   margin-bottom: 1em;
-  border-radius: 10px;
   a {
     color: $link-color;
     text-decoration: none;
