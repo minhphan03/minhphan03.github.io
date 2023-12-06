@@ -311,12 +311,17 @@ b {
 
   p {
     font-family: var(--blog-font), normal;
-    font-size: 1.2rem;
+    font-size: 1.3rem;
     margin: 1.5rem 0 1.5rem 0;
 
     > img {
       max-width: 100%;
     }
+  }
+
+  iframe {
+    max-width: 100%;
+    height: fit-content;
   }
 
   li {
@@ -564,6 +569,22 @@ nav ul {
     flex-direction: column;
     align-items: center;
     justify-content: center;
+  }
+
+  .post {
+    width: 100%;
+
+    p, li {
+      font-size: 1.1rem;
+    }
+
+    > h1.title {
+      font-size: 2rem;
+    }
+
+    ol, ul {
+      padding-left: 1.5rem;
+    }
   }
 
   .featured-image {

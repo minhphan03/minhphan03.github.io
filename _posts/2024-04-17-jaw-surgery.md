@@ -1,9 +1,10 @@
 ---
 layout: post
 title: "Jaw Surgery"
-tags: diary
+tags: diary throwback
 image: /assets/images/surgery.jpg
 ---
+Six months since my jaw surgery. Doctors typically said the six month mark sufficiently determines whether a surgery is successful as it is expected that all swelling disappears. Here is a collection of entries I wrote about this life-changing operation.
 
 1. Day -1:
 
