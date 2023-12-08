@@ -1,3 +1,6 @@
+@use 'utility/screensize';
+@use 'utility/fonts';
+
 *,
 :after,
 :before {
@@ -202,10 +205,6 @@ pre {
 	border-style: none none none solid;
 	border-color: var(--light-text-color);
 }
-
-// img {
-// 	max-width: 120%;
-// }
 
 hr {
 	background: var(--light-text-color);
@@ -497,11 +496,12 @@ main {
 }
 
 .featured-image{
-  width: 125%;
+  width: 140%;
+  height: auto;
   aspect-ratio: 16/9;
   object-fit: cover;
   display: block;
-  margin: 0 -15% auto;
+  margin: 0 -10% 0 -15%;
   padding-bottom: 1rem;
   // mask-image: linear-gradient(rgba(255,255,255,1),rgba(255,255,255,0.75));
 }
@@ -513,101 +513,6 @@ nav ul {
   border-right: 2px solid var(--code-bg-color);
 }
 
-
-@media screen and (max-width: 37rem) {
-	header li {
-		display: inline;
-		margin-right: 1rem;
-	}
-	.logo {
-		padding-bottom: 1rem;
-	}
-	header ul {
-    display: flex;
-		border-bottom: 1px solid var(--code-bg-color);
-		padding-bottom: 1rem;
-    list-style: none;
-	}
-	nav ul {
-		border-right: 0px;
-	}
-
-	.photos ul {
-		margin-top: 0.5rem;
-	}
-
-	main {
-		padding: 0 1rem;
-    flex: wrap;
-    height: max-content;
-	}
-
-  header {
-    overflow: hidden;
-    width: 100%;
-    position: fixed;
-    top: 0;
-    background-color: var(--menu-bg-color);
-    z-index: 20;
-    padding-bottom: 0;
-  }
-
-  .content-column {
-    padding-top: 6rem;
-  }
-
-  .social-footer-icons {
-    text-align: center;
-  }
-
-  .info-column-2 h2 {
-    text-align: center;
-  }
-
-  .info-column-2 {
-    display: inline-flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-  }
-
-  .post {
-    width: 100%;
-
-    p, li {
-      font-size: 1.1rem;
-    }
-
-    > h1.title {
-      font-size: 2rem;
-    }
-
-    ol, ul {
-      padding-left: 1.5rem;
-    }
-  }
-
-  .featured-image {
-    width: 130%;
-    max-width: 130%;
-    // margin: 0 -13% auto;
-
-    // position: relative;
-    // left: 50%;
-    // right: 50%;
-    // margin-left: -50vw;
-    // margin-right: -50vw;
-  }
-
-  .info-column-2 ul {
-    display: none;
-  }
-
-  .flickr-desc {
-    margin-right: 1em;
-  }
-
-}
 
 header ul {
   list-style: none;
@@ -784,38 +689,6 @@ color: #333;
   // display: block;
   // position: relative;
 }
-
-@font-face {
-  font-family: 'SF Pro Display';
-  src: url("https://minhphan03.github.io/assets/fonts/SFNSText-Regular.otf") format("OpenType");
-  font-weight: normal; 
-}
-
-@font-face {
-  font-family: 'SF Pro Display';
-  src: url("https://minhphan03.github.io/assets/fonts/SFNSText-Bold.otf") format("OpenType");
-  font-weight: bold;
-}
-
-@font-face {
-  font-family: 'Garamond Pro';
-  src: url("https://minhphan03.github.io/assets/fonts/GaramondPremrPro-It.otf") format("OpenType");
-  font-weight: normal;
-  font-style: italic;
-}
-
-@font-face {
-  font-family: 'Garamond Pro';
-  src: url("https://minhphan03.github.io/assets/fonts/GaramondPremrPro.otf") format("OpenType");
-  font-weight: normal; 
-}
-
-@font-face {
-  font-family: 'Garamond Pro';
-  src: url("https://minhphan03.github.io/assets/fonts/GaramondPremrPro-Bd.otf") format("OpenType");
-  font-weight: bold;
-}
-
 
 @media print
 {    
@@ -1078,7 +951,7 @@ $link-color: var(--link-color);
   // margin: 1em 0.2em -3.5em 0;
   font-size: 0.85em;
   line-height: 1.5em;
-  margin-bottom: 1em;
+  margin: 1em 0 1em 0;
   border-radius: 10px;
   a {
     color: $link-color;
