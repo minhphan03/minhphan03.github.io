@@ -28,22 +28,22 @@ Fast fashion emerged when Zara was established in 1975 and became the pillar of 
 
 References:
 
-Bain, Marc, and Quartz. “From Forever 21 to Online Shopping, Why Fast Fashion Is So Addictive.” *The Atlantic*, 25 Mar. 2015, www.theatlantic.com/entertainment/archive/2015/03/the-neurological-pleasures-of-modern-shopping/388577/.
+Bain, Marc, and Quartz. “From Forever 21 to Online Shopping, Why Fast Fashion Is So Addictive.” *The Atlantic*, 25 Mar. 2015, <https://www.theatlantic.com/entertainment/archive/2015/03/the-neurological-pleasures-of-modern-shopping/388577/.>
 
-Chua, Jasmin Malik. “The Environment and Economy Are Paying the Price for Fast Fashion – but There’s Hope.” Vox, Vox, 12 Sept. 2019, www.vox.com/2019/9/12/20860620/fast-fashion-zara-hm-forever-21-boohoo-environment-cost.
+Chua, Jasmin Malik. “The Environment and Economy Are Paying the Price for Fast Fashion – but There’s Hope.” Vox, Vox, 12 Sept. 2019, <https://www.vox.com/2019/9/12/20860620/fast-fashion-zara-hm-forever-21-boohoo-environment-cost.>
 
 Doeringer, Peter, and Sarah Crean. “Can Fast Fashion Save the US Apparel Industry?” Socio-Economic Review, vol. 4, no. 3, 2006, pp. 353–377., doi:10.1093/ser/mwl014.
 
-Environmental Audit Committee. “Fixing Fashion: Clothing Consumption and Sustainability.” Fixing Fashion: Clothing Consumption and Sustainability – Environmental Audit Committee, UK Parliament, 19 Feb. 2019, publications.parliament.uk/pa/cm201719/cmselect/cmenvaud/1952/full-report.html.
+Environmental Audit Committee. “Fixing Fashion: Clothing Consumption and Sustainability.” Fixing Fashion: Clothing Consumption and Sustainability – Environmental Audit Committee, UK Parliament, 19 Feb. 2019, <https://publications.parliament.uk/pa/cm201719/cmselect/cmenvaud/1952/full-report.html.>
 
-Hodakel, Boris. “What Is Polyester Fabric: Properties, How Its Made and Where.” Sewport, Sewport, 10 Nov. 2010, sewport.com/fabrics-directory/polyester-fabric.
+Hodakel, Boris. “What Is Polyester Fabric: Properties, How Its Made and Where.” Sewport, Sewport, 10 Nov. 2010, <https://sewport.com/fabrics-directory/polyester-fabric.>
 
-Kuhnen, Camelia M., and Brian Knutson. “The Neural Basis of Financial Risk Taking.” *Neuron*, Cell Press, 31 Aug. 2005, www.sciencedirect.com/science/article/pii/S0896627305006574.
+Kuhnen, Camelia M., and Brian Knutson. “The Neural Basis of Financial Risk Taking.” *Neuron*, Cell Press, 31 Aug. 2005, <https://www.sciencedirect.com/science/article/pii/S0896627305006574.>
 
-Linden, Annie Radner, “An Analysis of the Fast Fashion Industry” (2016). *Senior Projects Fall 2016*. 30. https://digitalcommons.bard.edu/senproj_f2016/30.
+Linden, Annie Radner, “An Analysis of the Fast Fashion Industry” (2016). *Senior Projects Fall 2016*. 30. <https://digitalcommons.bard.edu/senproj_f2016/30.>
 
-Moulds, Josephine. “Child Labour in the Fashion Supply Chain.” *The Guardian*, Guardian News and Media, 19 Jan. 2015, labs.theguardian.com/unicef-child-labour/.
+Moulds, Josephine. “Child Labour in the Fashion Supply Chain.” *The Guardian*, Guardian News and Media, 19 Jan. 2015, <https://labs.theguardian.com/unicef-child-labour/.>
 
-“Putting the Brakes on Fast Fashion.” *UN Environment*, 12 Nov. 2018, www.unenvironment.org/news-and-stories/story/putting-brakes-fast-fashion.
+“Putting the Brakes on Fast Fashion.” *UN Environment*, 12 Nov. 2018, <https://www.unenvironment.org/news-and-stories/story/putting-brakes-fast-fashion.>
 
-Rauturier, Solene. “What Is Fast Fashion?” *Good On You*, Whimsy + Row, 10 May 2020, goodonyou.eco/what-is-fast-fashion/.
+Rauturier, Solene. “What Is Fast Fashion?” *Good On You*, Whimsy + Row, 10 May 2020, <https://goodonyou.eco/what-is-fast-fashion/.>

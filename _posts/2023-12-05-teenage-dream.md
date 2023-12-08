@@ -5,7 +5,7 @@ tags: adulthood security diary
 image: /assets/images/teenager.jpg
 ---
 
-*Written on the day I turn 20...*
+*Written on the day before I turn 20...*
 
 As of writing this, I am still 19. I’m quite thankful that I was born in December because I still get to enjoy the "teenage" era until the very end of this year. In my mind, there’s a whole world of difference between 19 and 20; I don’t know why. I justify it because 20 starts with 2 compared to 18 and 19, which start with 1. I was given ten years to get used to that. But 20 is different. The older I get, the more expectations I have to bear and take on. Birthdays become dreadful when they're supposed to be a time for celebration. I am not depressed enough to step a little bit closer to a plan to kill myself, but don’t you think time is just a very cruel thing? I swear some days I don’t even notice it. 365 days are long enough to give me some room to breathe and ignore the fact that I am getting older every day just like hundreds of millions of people who are my age. Many of them are achieving something extraordinary for their age, and I find bliss in ignorance as they serve nothing but reminding me how time is running out for me to make something worthwhile out of my life.
 
