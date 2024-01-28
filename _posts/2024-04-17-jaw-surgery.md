@@ -4,9 +4,9 @@ title: "Jaw Surgery"
 tags: diary throwback
 image: /assets/images/surgery.jpg
 ---
-Six months since my jaw surgery. Doctors typically said the six month mark sufficiently determines whether a surgery is successful as it is expected that all swelling disappears. Here is a collection of entries I wrote about this life-changing operation.
+Today marks six months from my jaw surgery (Oct 17th, 2023). My surgeon said the six month mark sufficiently determines whether a jaw surgery operation was successful as it is expected that all swelling disappears (numbing, on the other hand, may take up to three years). So, to celebrate this journey almost over, here is a collection of entries I wrote about this life-changing operation. This is the second major surgery I have, and the first one I was big enough to have a lasting memory on.
 
-1. Day -1:
+1. Day -1 (the day before surgery)
 
 So finally this day has come: I will have my double jaw surgery tomorrow. My three-year-long anticipation and shame of my imperfect side profile has boiled down to this day. I have gone through a myriad of emotions to get to this: shame, hope, fear, longing, you name it. Surprisingly I don't have a lot of words to say about this, because I am too tired to process any outstanding feelings at the moment. I talked to my therapist earlier today about it and confessed to her how emotionally challenging this whole operation is to me, and she was really understanding. I guess it's a leap of faith I have to put into both myself and the surgeons to the other side... Deep down at the bottom of my heart I know that I have to do this sooner or later, and I am at the prime age to get this done and over with. Oh how restless I am right now. 
 
