@@ -1,0 +1,73 @@
+---
+layout: default
+paginate: true
+---
+<!-- This loops through the paginated posts -->
+
+<section class="posts" id="Blog">
+    <div class="bio">
+        <h1>Blog</h1>
+        <p>
+            A collection of writings I have written over the years,
+            since 2018. Don't mind the occasional typos. May contain explicit and triggering content. Happy reading!
+        </p>
+    </div>
+    <div class="search-article">
+        <label for="search-input" aria-hidden="true">
+            <!-- Magnifier -->
+            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none"
+                stroke="rgba(128,128,128,0.8)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+                class="feather feather-search">
+                <circle cx="11" cy="11" r="8"></circle>
+                <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+            </svg>
+        </label>
+
+        <input type="search" id="search-input" placeholder="Find some articles here" aria-label="Search">
+        <ul id="search-results"></ul>
+    </div>
+    <ul>
+        {% for post in paginator.posts %}
+        <li>
+        <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+            <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %d, %Y" }}</time>
+        </li>
+        {% endfor %}
+    </ul>
+
+    <!-- Pagination links -->
+    <!-- <div class="pagination" style="margin: auto; text-align: center;">
+        {% if paginator.previous_page %}
+        <a href="{{ paginator.previous_page_path }}" class="previous">Previous | </a>
+        {% else %}
+        <span class="previous">Previous | </span>
+        {% endif %}
+        <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+        {% if paginator.next_page %}
+        <a href="{{ paginator.next_page_path }}" class="next"> | Next</a>
+        {% else %}
+        <span class="next "> | Next</span>
+        {% endif %}
+    </div> -->
+</section>
+
+<section>
+
+    <nav class="post-nav">
+      {% if paginator.previous_page %}
+      <a class="post-nav-item post-nav-prev" href="{{ paginator.previous_page_path }}">
+        <div class="nav-arrow">Previous</div>
+        <span class="post-title">Page {{ paginator.page | minus: 1 }}</span>
+      </a>
+      {% endif %} 
+      
+      {% if paginator.next_page %}
+      <a class="post-nav-item post-nav-next" href="{{ paginator.next_page_path }}">
+        <div class="nav-arrow">Next</div>
+        <span class="post-title">Page {{ paginator.page | plus: 1 }}</span>
+      </a>
+      {% endif %}
+  
+    </nav>
+</section>
+
