@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Detrimental Impact of Expensive Higher Education" 
-tags: essays discussion
+tags: essays security
 image: /assets/images/savings.jpg
 ---
 *An assignment essay I wrote for Englist Composition II course at Highline Collge*

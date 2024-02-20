@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "\"Just Friends...\"" 
-tags: life throwback
+tags: throwback discussion
 image: /assets/images/galaxy.jpg
 ---
 

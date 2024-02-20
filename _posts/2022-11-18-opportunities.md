@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Opportunities
-tags: security adulthood 
+tags: security adulthood rant
 image: /assets/images/fish.jpg
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ba Láp Về Quarantine: Phần 3"
-tags: life security
+tags: diary security
 image: /assets/images/quarantine3.jpg
 ---
 

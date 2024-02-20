@@ -1,5 +1,6 @@
 
-@media screen and (max-width: 37rem) and (min-width: 26.01rem) {
+@media screen and (max-width: 37rem) and (min-width: 26.001rem) {
+
 	header li {
 		display: inline;
 		margin-right: 1rem;
@@ -22,7 +23,7 @@
 	}
 
 	main {
-		padding: 0 1rem;
+		// padding: 0 1rem;
     flex: wrap;
     height: max-content;
 	}
@@ -88,6 +89,7 @@
 
 @media screen and (max-width: 26rem) {
 
+
   header li {
 		display: inline;
 		margin-right: 1rem;
@@ -110,7 +112,7 @@
 	}
 
 	main {
-		padding: 0 1rem;
+		// padding: 0 1rem;
     flex: wrap;
     height: max-content;
 	}
@@ -148,7 +150,7 @@
     width: 100%;
 
     p, li {
-      font-size: 1.1rem;
+      font-size: 1rem;
     }
 
     > h1.title {

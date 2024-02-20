@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What can you do in 5 days of isolation? (Minh's Version)"
-tags: life
+tags: adulthood
 image: /assets/images/isolation.jpg
 ---
 
