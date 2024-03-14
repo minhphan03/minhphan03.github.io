@@ -352,6 +352,7 @@ b {
 	margin-bottom: 0.5rem;
 }
 
+
 .posts li a,
 .posts li div,
 .projects li a {
@@ -665,6 +666,17 @@ color: #333;
 
 .flickr-desc{
   margin: 1em auto auto auto;
+}
+
+.flickr .title {
+	align-items: center;
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: 0.5rem;
+
+  h5 {
+    font-style: italic;
+  }
 }
 
 .container {
