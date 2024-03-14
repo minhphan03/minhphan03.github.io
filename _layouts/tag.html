@@ -24,7 +24,7 @@ layout: default
   <ul class="bubble-list">
     {% assign tags = site.tags | sort %}
     {% for tag in tags %}
-    <li>
+    <li class="bubble-element">
 	    <a class="posts" href="{{ site.url }}{{ site.baseurl }}/tag/{{ tag | first | slugify }}/">{{ tag[0] | replace:'-', ''
         }} ({{ tag | last | size
         }})

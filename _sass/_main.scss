@@ -477,13 +477,10 @@ main {
   padding: 1rem 0 0 1rem;
 }
 
-.bubble-list li {
-  display: inline-block;
-  margin-bottom: 6px;
-  margin-right:5px;
+.bubble-element{
   padding: 1px 5px 1px 5px;
-  border-radius: 10px;
-  border: 2px solid #a9a9a9 ;
+  border-radius: 7px;
+  border: 2px solid ;
   color: #a9a9a9;
   transition: color 0.5s ease-in, border-color 0.5s ease-in;
   cursor: default;
@@ -494,6 +491,13 @@ main {
     transition: color 0.5s ease-in, border-color 0.5s ease-in;
     cursor: default;
   }
+}
+
+.bubble-list li {
+  display: inline-block;
+  margin-bottom: 6px;
+  margin-right:5px;
+  
 }
 
 .featured-image{
@@ -671,11 +675,11 @@ color: #333;
 .flickr .title {
 	align-items: center;
 	display: flex;
-	justify-content: space-between;
-	margin-bottom: 0.5rem;
+	// justify-content: space-between;
 
-  h5 {
-    font-style: italic;
+  p {
+    margin: 0 0 1rem 1rem;
+
   }
 }
 
