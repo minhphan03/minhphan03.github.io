@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "On the Palestinian Genocide" 
-tags: security discussion
+tags: discussion
 image: /assets/images/palestine.jpg
 ---
 *Protestors in London, England. Cover image source: BBC News*

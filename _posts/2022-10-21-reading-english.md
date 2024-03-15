@@ -5,9 +5,9 @@ tags: discussion
 image: /assets/images/crosswords.jpg
 ---
 
-On reading English articles & playing crosswords.
+*On reading English articles & playing crosswords*
 
-How random this title can be, isn't it? What does reading English articles have to do with playing crosswords? But it does! So here I am, as I suddenly felt an urge to write this piece after reading a couple of random articles published on Gawker after visiting a gay writer Twitter account (well, he was also kinda hot, but it's totally not worth mentioning, and his pieces were extravagant, so I was stoked to see what else he had written, so the following button was not difficult to click) while skipping my boring Zoom lectures. Actually, at this point I'm writing here the class is still going on and I still have not checked the lecture out yet. I could watch it later and take a couple of notes on later, I assume. 
+How random this title can be, can it? What does reading English articles have to do with playing crosswords? But it does! So here I am, as I suddenly felt an urge to write this piece after reading a couple of random articles published on Gawker after visiting a gay writer Twitter account (well, he was also kinda hot, but it's totally not worth mentioning, and his pieces were extravagant, so I was stoked to see what else he had written, so the following button was not difficult to click) while skipping my boring Zoom lectures. Actually, at this point I'm writing here the class is still going on and I still have not checked the lecture out yet. I could watch it later and take a couple of notes on later, I assume. 
 
 Back to the pieces of writing that he wrote. The first one I wrote was the newest piece he shared in a tweet. It was about "Gay Sincerity". I was enchanted. How fancy the words and grammar structures he used to demonstrate and express his opinions. When I reached the word "baton", I thought it was some kind of underwear but turned out it was a type of wand. I still don't remember what is the actually word that I mistake it with, but I'm not bothered to look for it at the moment. I'll eventually come across it again one day, that much I know is expected. The rueful thing is that I would not remember this part right here to visit and update it.
 

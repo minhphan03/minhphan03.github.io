@@ -5,8 +5,6 @@ tags: throwback discussion
 image: /assets/images/galaxy.jpg
 ---
 
-*A post from 2020 that I found from the first website's archive. I think I wrote this one after finishing a book, but no mention of the book content is in this blog post* 
-
 A thing: life will end. Everything will burn down to ashes, and nothing will last forever. Someday I will watch somebody fall down to their knees and ended their lives right in front of me, and there will be nothing I can do to avoid it, to reverse its events. People would only value their life before they passed away, and it’s devastating what they had dreamed to accomplish before they are gone. Things that they had longed for fixing to make everything better, to make their life even more enjoyable.
 
 Just like everything else it life, love will not always cover itself in exhilaration and the pink. It will go away in miserable, heartbreaking fate, in resignation and regrets. Someday that the most ecstatic fantasy cannot make it up for the lost that we all die for. I don’t want to lose it, I don’t want to look at the work in grey, in the dark, monotonous hues of black and white. Those colors are lifeless and deadly. Would life turn from pink to grey in mere seconds, when the devastating pierces of fate bleed you out till you die from having your heart wretched in isolation, in desolation and depression. People do not assign pink and white and black into emotions, but fate does. Fate can make you feel pinky, make you feel lively and in ultra exhilaration when it can, but can pull you to the bottomless abyss of despondency in a lifetime.

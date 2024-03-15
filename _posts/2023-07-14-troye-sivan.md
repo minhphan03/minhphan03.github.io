@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "On Troye Sivan's New Single \"Rush\"" 
-tags: music security culture rant
+tags: music culture rant
 image: /assets/images/troye.jpg
 ---
 

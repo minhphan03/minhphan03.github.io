@@ -12,7 +12,7 @@
 }
 
 html {
-	font-size: 13px;
+	font-size: 15px;
 }
 
 #theme-toggle {
@@ -42,8 +42,8 @@ html[data-theme="light"] {
   --blog-font: Garamond Pro;
 	--source-code-font: Source Code Pro;
 	--very-light-text-color: rgb(222, 222, 222);
-	--light-text-color: rgb(89, 183, 255);
-	--medium-text-color: #555;
+	--light-text-color: #86CD63;
+	--medium-text-color: #117b05;
 	--main-text-color: #333333;
 	--highlight-text-color: #6cb4a0;
 	--dark-text-color: #393e46;
@@ -104,7 +104,7 @@ html[data-theme="dark"] {
 	--text-font: SF Pro Display;
 	--source-code-font: Source Code Pro;
 	--very-light-text-color: #EEE;
-	--light-text-color: #c4bbf0;
+	--light-text-color: #9889e2;
 	--medium-text-color: #52057b;
 	--main-text-color: #EAEAEA;
 	--highlight-text-color: #6cb4a0;
@@ -244,14 +244,6 @@ blockquote {
 	padding-left: 1rem;
 }
 
-h1 {
-	color: var(--main-text-color);
-	text-transform: uppercase;
-	font-size: 2rem;
-	font-weight: bold;
-	margin-bottom: 1rem;
-  line-height: normal;
-}
 
 h2,
 h3,
@@ -259,6 +251,15 @@ h4,
 h5 {
 	font-weight: bold;
 	margin-bottom: 1rem;
+}
+
+h1 {
+	color: var(--main-text-color);
+	text-transform: uppercase;
+	font-size: 2rem;
+	font-weight: bold;
+	margin-bottom: 1rem;
+  line-height: normal;
 }
 
 h2 {
@@ -484,10 +485,11 @@ main {
   color: #a9a9a9;
   transition: color 0.5s ease-in, border-color 0.5s ease-in;
   cursor: default;
+  text-align: center;
 
   &:hover {
-    color: #FFCF4C;
-    border-color: #FFCF4C;
+    color: var(--light-text-color);
+    border-color: var(--light-text-color);
     transition: color 0.5s ease-in, border-color 0.5s ease-in;
     cursor: default;
   }

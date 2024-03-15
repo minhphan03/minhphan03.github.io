@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: books review
+tags: books
 title: "My Understanding of Tereza's Dream"
 image: assets/images/lightness2.jpg
 ---

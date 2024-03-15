@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Confessions of 17"
-tags: adulthood security
+tags: adulthood
 image: /assets/images/rain.jpg
 ---
 

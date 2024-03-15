@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Lesson About Loneliness"
-tags: security
+tags: rant
 image: /assets/images/loneliness.jpg
 ---
 

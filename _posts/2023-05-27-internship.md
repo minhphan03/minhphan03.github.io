@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Internship" 
-tags: security throwback
+tags: throwback rant
 image: /assets/images/internship.jpg
 ---
 
