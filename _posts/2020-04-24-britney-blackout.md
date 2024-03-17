@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Blackout: Break Down a Breakdown"
-tags: music discussion
+tags: music culture
 image: /assets/images/britney-blackout.jpeg
 ---
 

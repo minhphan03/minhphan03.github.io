@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Children's Moral Deterioration"
-tags: adulthood discussion
+tags: affairs
 image: /assets/images/broken-glass.jpg
 
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "On Reading English Articles & Solving Crosswords"
-tags: discussion 
+tags: uncategorized
 image: /assets/images/crosswords.jpg
 ---
 

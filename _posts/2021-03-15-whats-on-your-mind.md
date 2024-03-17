@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What's on your mind?"
-tags: adulthood discussion
+tags: uncategorized
 image: /assets/images/gradient.jpg
 ---
 

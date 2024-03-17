@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vietnam War, Sexuality, and Eurocentric Beauty Standards" 
-tags: books discussion culture
+tags: books affairs culture
 image: /assets/images/minor-feelings.jpg
 ---
 
