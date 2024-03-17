@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Favorite 15 Songs of 2021"
-tags: music review
+tags: music recap
 image: /assets/images/2021-year-end.jpg
 ---
 
