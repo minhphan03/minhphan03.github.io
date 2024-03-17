@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sympathy for the Homeless" 
-tags: culture discussion
+tags: discussion
 image: /assets/images/homelessness.jpg
 ---
 

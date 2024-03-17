@@ -4,12 +4,12 @@ paginate: true
 ---
 <!-- This loops through the paginated posts -->
 
-<section class="posts" id="Blog">
+<section class="posts" id="Blog" style="padding-bottom: 0;">
     <div class="bio">
-        <h1>Blog</h1>
+        <h1>All Posts ({{site.posts.size}}) 📝</h1>
         <p>
             A collection of writings I have written over the years,
-            since 2018. Don't mind the occasional typos. May contain explicit and triggering content. Happy reading!
+            since 2018. May contain explicit and triggering content. Happy reading!
         </p>
     </div>
     <div class="search-article">
@@ -51,7 +51,7 @@ paginate: true
     </div> -->
 </section>
 
-<section>
+<section style="padding-top: 0.5rem;">
 
     <nav class="post-nav">
       {% if paginator.previous_page %}
