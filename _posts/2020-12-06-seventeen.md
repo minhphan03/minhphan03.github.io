@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Seventeen"
-tags: anniversary
+tags: birthday
 image: assets/images/17.jpg
 ---
 

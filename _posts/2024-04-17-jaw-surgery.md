@@ -4,7 +4,7 @@ title: "Jaw Surgery"
 tags: diary throwback
 image: /assets/images/surgery.jpg
 ---
-Today marks six months from my jaw surgery (Oct 17th, 2023). My surgeon said the six month mark sufficiently determines whether a jaw surgery operation was successful as it is expected that all swelling disappears (numbing, on the other hand, may take up to three years). So, to celebrate this journey almost over, here is a collection of entries I wrote about this life-changing operation. This is the second major surgery I have, and the first one I was big enough to have a lasting memory on.
+Today marks six months from my jaw surgery (Oct 17th, 2023). My surgeon said the six month mark sufficiently determines whether a jaw surgery operation was successful as it is expected that all swelling disappears (tightness/numbness, on the other hand, may take up to three years). So, to celebrate this journey almost over, here is a collection of entries I wrote about this life-changing operation. This is the second major surgery I have, and the first one I was big enough to have a lasting memory on.
 
 1. Day -1 (the day before surgery)
 
@@ -53,6 +53,40 @@ I hate putting on wax so much they never stickkkkk
 
 I went out with some folks today to a Taiwanese restaurant.. I ordered egg and tofu soup since I could not digest any meat, and it turned out I could not eat the tofu either. I struggled just opening my mouth to eat, mostly because of the rubber bands I deliberately left on, which my doctor insisted to. I then slurped the soup and left the tofu and egg, as well as some fried chicken one of them gave me, to be blended with my carrot congee I ate later that day. It was not so bad, honestly, but I got tired of congee so much that I would rather not eat it. My cousin made too much, and I hate to throw it all away.
 
-8. Day 15
+8. Day 14:
 
-I was told to 
+No more numbing, but still swelling like crazy near my chin and at my bottom lip. Now that my nerve feelings are somewhat 80% back to normal, I gained more confidence in muscle automation, especially putting pressure on my jaws. The swelling on my chin still does not seem to dwindle down, and I am losing a little bit patience.
+
+9. Day 17:
+
+I made fried rice today attempting to restart somewhat my normal diet. It’s kinda hard though as I can barely open my mouth wide enough to feed myself, but I still finished a bowl nonetheless. I’m going back to Vietnam at the end of this year, so I hope I can consume a wider variety of food before then. I miss food so bad ugh!
+
+On the other hand, I am concerned that one of my swelling side is dwindling down faster than the other, hence my smiling face became crooked/unnatural whenever I tried to smile in front of the mirror. I looked like myself before the surgery with an underbite as my lower lip and chin are taking too long to heal comparing to my upper lip area. My smile looks so butchered and botched. I know I know it’s only around two weeks, but I want so badly to smile properly. It’s one of the biggest driving factors why I vied for this surgery to begin with!
+
+10. Day 35:
+
+I came in to see my orthodontist today and he said I would need to get back on aligners again, and I had mixed feelings: I would really want to continue this, because the sooner it resumes the sooner it will be over; however, I got used to having my teeth unrestrained (it’s kind of funny considering how uncomfortable I was when I had to stop wearing them right after the surgery) and aligners worsened my gaps on the back teeth. He recommended me to wear rubber bands, and judging from the countless YouTube videos I have watched, it would be terribly difficult to put them on aligners comparing to screws. Definitely not looking forward to this at all, but well, anything for a perfect smile, I guess.
+
+11. Day 36:
+
+FINALLY the screws are out! Man this feeling is sooo freaking goooooood… No more food stuck around the screws. The removal procedure wasn’t painful at all, like my surgeon said, but hell if I wasn’t scared. I saw her holding a screwdriver and I just kept picturing her slipping her hand and drove the driver into my gum instead and broke it and I would bleed non-stop and pass out and end up in an ER missing my flight back home… my overthinking mind it amazed me all the time!
+
+Also can we talk about how annoying and exploitative (and cunning) the US healthcare billing system is? I already paid my dues for the hospital bills before the surgery, yet after that new charges started popping up in my balance, and then they had the nerve to tell me to pay. I ALREADY PAID WHAT DO YOU MEAN? I then contacted the representative and they told me that they should reset and it was just the insurance work that was messing everything up, but what’s ridiculous was that I had no insurance to pay for it, that’s why I paid up front to begin with. Now they pulled up with the insurance bs and bothered me with these emails threatening to send them over to the collections. This is so frustrating and infuriating. Why should I have to deal with this thing in the first place? Now I know why so many people hate the US healthcare system. It’s a nightmare to deal with. Nurses are underpaid and overworked, patients are fucked over by bills, and insurance companies keep limiting options and forcing us to jump over hoops for some treatment that should be affordable to begin with. The idea that you need to have an insurance to survive is so dysfunctional and pathetic. It deserves every kind of perojative, I am not sorry. I just sent them another email to complain about this issue. They better get to work, bitch!
+
+12. Day 60:
+
+I may sound ungrateful for saying this, but I think the final result is kind of underwhelming? My jawline is better looking now, but it does not seem like a huge improvement. It’s only like eight weeks to speak of, and it’s still long to go to judge at the ripe typical period of six months, but my smile is not that better looking. It’s not a $30000 improvement, but that’s the US healthcare industry for you. It’s still crooked, and the lower curve of the smile is not ideal. My chin is still stiff, which I don’t like, and is worrying me on how long it has been going on. I thought it should be done by now, but again I am not a doctor. My selfies aren’t that better. Maybe it’s because of my drooping eyes, which I would love to take care of in a hot minute. Or because of my skinny build, which I would really want to be excluded from that narrative. I’m still thankful for the surgery though, because god knows how much worse I can be with the condition extending for a few more months and I am probably suffering at UW for a few months more.
+
+13. Day 94:
+
+Just realized that I also have to pay for anesthesia separately from my hospital bills for $500 after insurance. It may seem like a small amount, but comparing to how much I pay for my rent each month, it’s a big chunk to be frank. Well I just paid half of it today, so I’m sad because I didn’t carefully read the contract before I pay and now have to swallow the pills from my own actions, and also I lose money. Well, I’ll pay it fair and square sometimes next month. I hate that this office does not allow patients to see the balance they have to pay. Such scums (perojatives here we come!)
+
+By the way, I love my jaw better now. Still tight, but I got used to it. I looked at my pictures in LA last summer before surgery and I felt so grateful for this jawline. You gotta cherish small things in life! A good jawline is one. Definitely not the anesthesia fees though, they can go die. Navigating the insurance/hospital bill matrix in this country is the most scammy thing ever. No one should have to go through this. I got mild trauma from the whole experience, and funnily enough it’s not from the operation itself but from paying for it. Man I still remember vividly the day I woke up receiving an email from my surgeon’s financial person saying that I was not qualified for insurance coverage and had to pay in full for the whole thing. I also passed out. How terrible I felt backtracking on my words telling my parents that I had to pay in full for the operation and asked them for money. Just great…
+
+14. Day 125
+
+The tightness does not really go away does it? My oh my…
+
+15. Day 180
+
+At the point of writing this update I'm three days away from April 17th, the day marking 6 months of the surgery. I am going to post this on my blog on the exact date of it, but to think about it the tightness is still there, and in my opinion despite that side effect I deem this surgery as a success. I love my face and smile so much much better now, and despite the costly expenses, if people asked me if I would go through it again, I would. I used to hate my face deformity all the time before this, and to be able to look into my mirror and smile and look radiant with it like I am right now, I would go to great lengths to achieve that. To be more confident whenever one goes out, that is such a privilege in our shallow society today. Honestly, don’t blame yourself, but don’t blame the game either. We gotta do anything to survive, so if you have that conventional outer beauty in you, thank your genetics. If you don’t, I thoroughly sympathize and totally understand, for I have gone through hell and back for self-hatred before I have this crazy jawline (well not like a Chad but I still think it's a crazy one). I guess that situation alleviates and seems better now. Self-hate never truly goes away, but anything to cope, I guess. As long as I better myself everyday, I’m inching towards a version of myself I am going to love. Many a little makes a mickle. I wish the best luck to you!
