@@ -15,9 +15,11 @@ My parents sent me $20k for the surgery and I just paid off the hospital bills t
 Tomorrow I will have to wake up at 8am and take the bus to Kirkland, which is 1.5 hours away. At least my cousin is coming with me. I know she seems more nonchalant at things, and maybe that's a good thing. She takes everything with a grain of salt, and probably will take this hospital trip less serious than I will. I wish I would be at least as "stoic" as her, or maybe not have to worry as much on things I cannot change. This anxiety feeling is natural and expected. Just like the day I return to the US exactly a month ago, or before an interview. I guess this thing is on another level compared to the others because I spent so much time and money on this. $30k on the whole thing. Fuck American healthcare. Fuck insurance companies fucking up the medical industry.
 
 **Day 1**
+
 ITS FUCKING PAINFULLLLLL FUCKINGGGG ARGGHSDHF IM GONNA FUCKING DYING
 
-**Day 5 
+**Day 5**
+
 I’m getting there. I knowwww, it’s fucking cliche, but I’m getting there. Still numb as hell in my chin (IDK what the fuck they did with it but goddamn it takes so fucking longfor it to resolve itself), and tired as hell, but welp, it’s better than the other days. I couldn’t even get up to report the other days, that was how tired I was. Easily one of the worst periods of my life ever. I mean, mental pain is bad, but mental pain + endured physical pain?? Oh yeah get in loser.
 
 I had this small uncomfortable point at the maxilla vomer/nasal conchea (I swear I only use these scientific terms because I don’t know how to describe exactly where I feel these effects) that whenever I try to put slight pressure on the skin from outside it felt like I could feel the screws and plates emerging under my touch. Like there was a gap or air bubbles somewhere inside this area that pushed back against the insertions and tried to reject them. 
