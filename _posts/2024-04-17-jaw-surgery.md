@@ -53,7 +53,7 @@ I hate putting on wax so much they never stickkkkk
 
 I went out with some folks today to a Taiwanese restaurant.. I ordered egg and tofu soup since I could not digest any meat, and it turned out I could not eat the tofu either. I struggled just opening my mouth to eat, mostly because of the rubber bands I deliberately left on, which my doctor insisted to. I then slurped the soup and left the tofu and egg, as well as some fried chicken one of them gave me, to be blended with my carrot congee I ate later that day. It was not so bad, honestly, but I got tired of congee so much that I would rather not eat it. My cousin made too much, and I hate to throw it all away.
 
-8. Day 14:
+**Day 14**
 
 No more numbing, but still swelling like crazy near my chin and at my bottom lip. Now that my nerve feelings are somewhat 80% back to normal, I gained more confidence in muscle automation, especially putting pressure on my jaws. The swelling on my chin still does not seem to dwindle down, and I am losing a little bit patience.
 
