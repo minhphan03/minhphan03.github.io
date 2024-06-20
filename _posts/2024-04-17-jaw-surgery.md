@@ -14,6 +14,11 @@ My parents sent me $20k for the surgery and I just paid off the hospital bills t
 
 Tomorrow I will have to wake up at 8am and take the bus to Kirkland, which is 1.5 hours away. At least my cousin is coming with me. I know she seems more nonchalant at things, and maybe that's a good thing. She takes everything with a grain of salt, and probably will take this hospital trip less serious than I will. I wish I would be at least as "stoic" as her, or maybe not have to worry as much on things I cannot change. This anxiety feeling is natural and expected. Just like the day I return to the US exactly a month ago, or before an interview. I guess this thing is on another level compared to the others because I spent so much time and money on this. $30k on the whole thing. Fuck American healthcare. Fuck insurance companies fucking up the medical industry.
 
+**Day 0**
+Here's a pic of me before surgery. Ready and excited and nervous.
+![Minh's picture before jaw surgery](/assets/images/surgery.jpeg)
+<p style="text-align: center">Oh how bad my jaw was!</p>
+
 **Day 1**
 
 ITS FUCKING PAINFULLLLLL FUCKINGGGG ARGGHSDHF IM GONNA FUCKING DYING

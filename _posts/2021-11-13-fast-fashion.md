@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Is Fast Fashion Sustainable?"
-tags: affairs essays
+tags: world essays
 image: /assets/images/shopping-clothes.jpg
 ---
 

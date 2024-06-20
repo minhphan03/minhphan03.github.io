@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Children's Moral Deterioration"
-tags: affairs
+tags: world
 image: /assets/images/broken-glass.jpg
 
 ---
