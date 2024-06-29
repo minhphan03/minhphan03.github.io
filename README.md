@@ -1,4 +1,4 @@
-# [Minh's static website/blog](https://minhphan03.github.io)
+# [Minh's static website/blog](https://minhphan03.com)
 
 This is a simple blog created using the Gesko template (Jekyll) by @DavideBri. Modified by me.
 
@@ -10,10 +10,10 @@ This is a simple blog created using the Gesko template (Jekyll) by @DavideBri. M
 - [x] Update favicon
 - [x] Music corner using Apple Music plugin (iframe element)
 - [x] Update blogs from the other website ([old website](minhphan03.com))
-- [ ] Publish website to people !
+- [x] Publish website to people !
 - [ ] Add descriptions to tags
 - [ ] (Maybe) Project showcase
-- [ ] Custom domain
+- [x] Custom domain
 - [ ] Toggle Switch / next/prev buttons for different years in music corner
 
 ## License
