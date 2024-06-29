@@ -5,12 +5,14 @@ layout: default
 <section id="intro">
     <div class="flex-row-between">
         <h1>{{ site.greetings }}</h1>
-
     </div>
     <div class="bio">
         <p>
-            This is a... website.
-        <p>
+            This is a <u>personal</u> website...
+        </p>
+        <br>
+        <p> I showcase design projects on Instagram. Come check <a href="https://instagram.com/fuckmasculinity" title="f*ckmasculinity" target="_blank">this</a> 
+            and <a href="https://instagram.com/fuckfemininity" title="f*ckfemininity" target="_blank">this</a> out 😉!</p>
     </div>
 </section>
 <section class="info-row">
@@ -21,31 +23,29 @@ layout: default
         <h2>Minh Phan</h2>
         <div class="social-footer">
             <div class="social-footer-icons">
-                {% if site.author.github %}
-                <a href="https://github.com/{{ site.author.github }}" title="Github profile" target="_blank"
-                rel="noopener noreferrer"><i class="fa fa-brands fa-github" aria-hidden="true"></i></a>
-                {% endif %}
-                {% if site.author.linkedin %}
+                <a href="mailto:{{ site.author.email }}" title="Email me!" target="_blank" rel="noopener noreferrer"><i
+                    class="fa fa-solid fa-at" aria-hidden="true"></i></a>
+
                 <a href="https://www.linkedin.com/in/{{ site.author.linkedin }}" title="LinkedIn" target="_blank" rel="noopener noreferrer"><i
-                class="fa fa-brands fa-linkedin" aria-hidden="true"></i></a>
-                {% endif %}
-                {% if site.author.twitter %}
+                    class="fa fa-brands fa-linkedin" aria-hidden="true"></i></a>
+
+                <a href="https://github.com/{{ site.author.github }}" title="Github" target="_blank" rel="noopener noreferrer"><i 
+                    class="fa fa-brands fa-github" aria-hidden="true"></i></a>
+                
+                <a href="https://letterboxd.com/{{ site.author.letterboxd }}" title="Letterboxd" target="_blank" rel="noopener noreferrer"><i
+                    class="fa fa-brands fa-square-letterboxd" aria-hidden="true"></i></a>
+                
                 <a href="https://twitter.com/{{ site.author.twitter }}" title="Twitter" target="_blank" rel="noopener noreferrer"><i
                 class="fa fa-brands fa-twitter" aria-hidden="true"></i></a>
-                {% endif %}
 
-                {% if site.author.instagram %}
                 <a href="https://instagram.com/{{ site.author.instagram }}" title="Instagram" target="_blank" rel="noopener noreferrer"><i
                 class="fa fa-brands fa-instagram" aria-hidden="true"></i></a>
-                {% endif %}
-                {% if site.author.flickr %}
+                
                 <a href="https://www.flickr.com/people/{{ site.author.flickr }}" title="Flickr" target="_blank" rel="noopener noreferrer"><i
                 class="fa fa-brands fa-flickr" aria-hidden="true"></i></a>
-                {% endif %}
-                {% if site.author.letterboxd %}
-                <a href="https://www.letterboxd.com/{{ site.author.letterboxd }}" title="Letterboxd" target="_blank" rel="noopener noreferrer"
-                ><div class="letterboxd" aria-hidden="true"></div></a>
-                {% endif %}
+
+
+
             </div>
         </div>
         <ul class="bubble-list" style="margin: 2px;">
@@ -60,18 +60,13 @@ layout: default
             <li class="bubble-element">typophile</li>
             <li class="bubble-element">pophead</li>
             <li class="bubble-element">overthinker</li>
-            <li class="bubble-element">twitter</li>
-            <li class="bubble-element">🚫capitalist</li>
-            <li class="bubble-element">britney</li>
-            <li class="bubble-element">taylor</li>
-            <li class="bubble-element">lana</li>
         </ul>
     </div>
 </section>
 
 <section class="info-row">
     <p>
-        Copyright Minh Phan (2024). Created with ❤️ using Jekyll, hosted with GitHub.io, and based on original Gesko template by
+        Copyright Minh Phan (2024). Created with ❤️ using Jekyll, hosted with GitHub.io and Cloudflare, and based on original Gesko template by
         <a href="https://github.com/DavideBri/Gesko" title="Browse template code" target="_blank" rel="noopener noreferrer">Davide Bri</a>.
     </p>
 </section>

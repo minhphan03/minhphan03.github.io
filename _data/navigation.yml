@@ -7,8 +7,8 @@ links:
   url: /photos.html
 - title: Music
   url: /music.html
-- title: RSS
-  url: /atom.xml
+# - title: RSS
+#   url: /atom.xml
 
 
 
