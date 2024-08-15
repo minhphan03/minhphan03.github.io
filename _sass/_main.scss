@@ -38,9 +38,9 @@ html {
 
 html,
 html[data-theme="light"] {
-	--text-font: SF Pro Display;
-  --blog-font: Garamond Pro;
-	--source-code-font: Source Code Pro;
+	--text-font: 'SF Pro Display';
+  --blog-font: 'Garamond Pro';
+	--source-code-font: 'Source Code Pro';
 	--very-light-text-color: rgb(222, 222, 222);
 	--light-text-color: #86CD63;
 	--medium-text-color: #117b05;
@@ -101,8 +101,9 @@ html[data-theme="light"] {
 }
 
 html[data-theme="dark"] {
-	--text-font: SF Pro Display;
-	--source-code-font: Source Code Pro;
+	--text-font: 'SF Pro Display';
+	--source-code-font: 'Source Code Pro';
+  --blog-font: 'Garamond Pro';
 	--very-light-text-color: #EEE;
 	--light-text-color: #9889e2;
 	--medium-text-color: #52057b;
