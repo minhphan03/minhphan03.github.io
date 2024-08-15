@@ -1,4 +1,4 @@
- ---
+---
 layout: post
 title: "Nobody Knows (2004)" 
 tags: movies review
@@ -7,7 +7,7 @@ image: /assets/images/nobody-knows.jpg
 
 As a movie with a runtime of almost two and a half hours, I was not very sure that I would enjoy it. However, as I began to grasp the main themes and understand a little bit more about the characters, I now think this is a very interesting movie to write about. It hits a little bit too close to my heart as an international student who was forced to grow up too fast at the age of sixteen. I felt seen, I felt heard, and I felt all the emotions and frustrations that Akira, the big brother in the house, had to suppress as he turned a blind eye to please his mother and siblings, just like how I swallowed my pride to survive.
 
-We saw glimpses of his childlike behavior: throwing a bottle, playing baseball with a stick, or reading comics. After all, he was only 12 at the time. But oh no, how rare it was to see these scenes.
+We saw glimpses of his childlike behavior: throwing a bottle, playing baseball with a stick, or reading comics. After all, he was only twelve at the time. But oh no, how rare it was to see these scenes.
 
 Let's talk about the struggles. We were bombarded with the everyday struggles Akira had to go through, from finances (grocery, electrical bills) to simple conversations (with the stealing accusations from the supermarket owner, or the flashy friends at the arcade) and dreams (when he sighted the students at the arcade). They kept coming, incessantly. He could not confide in anyone, instead keeping his head low and determining his ways through each.
 
@@ -27,7 +27,7 @@ We rarely saw him smiling. He did most of his chores in silence. Walking through
 
 When Yuki became unconscious after a fall, his last bit of pride dissipated. He asked Saki for the money she gave him earlier to lay her body down under a vast field where airplanes flew above. The utter despair and wretchedness of having to bury your sister's body was enough of a traumatic experience for anybody, let alone someone who has gone through so much more like him. Worse, their mother was not even there, and even the burial was inside a suitcase, as if her life was reduced to nothing that not even a proper casket for her final days was affordable.
 
-I watched this movie, haunted by the meaning and despair that the characters have gone through. It followed the exact definition of a sad movie through and through, from the sad beginning to the even sadder end. I likened the Fukushima family to the unfortunate families out there being hidden away for the sake of the glamorous city sights and riches. Nobody knows about them. They came and went. When one dies, nobody attempts to reach out. They became nobody, with no future and nothing to live for. All their attempts became futile as days went on, even when they reached out and were desperate for a helping hand. Without education, they could only go so far. Their future was doomed before they knew it. And the worst thing is, we don't know how it's going to happen.
+I watched this movie, haunted by the meaning and despair that the characters have gone through. It followed the exact definition of a sad movie through and through, from the sad beginning to the even sadder end. I likened the Fukushima family to the unfortunate families out there being hidden away for the sake of the glamorous city sights and riches. Nobody knows about them. They came and went. When one dies, nobody attempts to reach out. They became nobody, with no future and nothing to live for. All their attempts became futile as days went on, even when they reached out and were desperate for a helping hand. Without education, they could only go so far. Their future was doomed before they knew it. And the worst thing is, we don't know how it's going to happen next.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o8COIEaleR8?si=mMdhhXlK8qpu0hoW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" style="margin: 0 auto; display: block" allowfullscreen></iframe>
 
