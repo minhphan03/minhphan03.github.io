@@ -797,11 +797,7 @@ color: #333;
     }
 }
 
-// ----------------------------
-// ----------------------------
-// timeline timeline 
-$link-color: var(--link-color);
-.timeline { /*whole timeline object in general*/
+timeline { /*whole timeline object in general*/
   position: relative;
   // width: 650px;
   margin: 0em auto;
@@ -834,10 +830,12 @@ $link-color: var(--link-color);
   }
 
   li { /*boxes*/
-    padding: 2em 0;
+    padding: 0;
+    margin-bottom: -10em;
 
     @media(max-width: 90rem) {
       padding: 2em 0;
+      margin-bottom: 0;
     }
 
     &::after {
@@ -1048,9 +1046,10 @@ $link-color: var(--link-color);
 
 .music-desc {
   // margin: 1em 0.2em -3.5em 0;
-  font-size: 1rem;
+  font-size: 0.85em;
   line-height: 1.5em;
-  margin-bottom: 1em;
+  margin: 1em 0 1em 0;
+  border-radius: 10px;
   a {
     color: $link-color;
     text-decoration: none;

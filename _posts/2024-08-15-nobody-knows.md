@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Nobody Knows (2004)" 
-tags: movies review
+tags: movies
 image: /assets/images/nobody-knows.jpg
 ---
 
