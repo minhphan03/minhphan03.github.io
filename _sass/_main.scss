@@ -244,22 +244,20 @@ blockquote {
 	padding-left: 1rem;
 }
 
-
+h1,
 h2,
 h3,
 h4,
 h5 {
 	font-weight: bold;
-	margin-bottom: 1rem;
+	margin-bottom: 0.8rem;
 }
 
 h1 {
-	color: var(--main-text-color);
+	// color: var(--main-text-color);
 	text-transform: uppercase;
 	font-size: 2rem;
-	font-weight: bold;
-	margin-bottom: 1rem;
-  line-height: normal;
+  // line-height: normal;
 }
 
 h2 {
@@ -417,7 +415,7 @@ main {
 }
 
 .social-footer {
-  padding: 0 0 15px 0;
+  padding-bottom: 0.8rem;
   // display: flex;
   // justify-content: center;
   // position: initial;
@@ -460,7 +458,7 @@ main {
   flex-direction: row;
 }
 .info-column-1{
-  width: 250px;
+  width: 15rem;
   padding: 1rem 1rem 0 0;
 }
 
@@ -482,7 +480,7 @@ main {
 
 
 .info-column-2 {
-  width: 60%;
+  width: 70%;
   padding: 1rem 0 0 1rem;
 }
 

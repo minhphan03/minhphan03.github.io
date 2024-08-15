@@ -27,7 +27,7 @@ I told her that was too much, and I did not have time for all of those mental pr
 
 So here I am, writing this entry, to remind myself to focus on my feelings and let them all out. Stop intellectualizing the idea of catch-22 or some other phenomenon that would certainly does not help me get out of the loop I'm stuck in. I already know, so the appropriate next step is processing and asking myself what to do to not waste my time lamenting over the fact that I am not going to gain any practical experience and escape the catch-22 situation trying to reason out why I need to self-pity myself to death. Learn to tolerate my messy side and develop a carthatic yet ugly emancipation of my psychological being so that I could exhaust any sadness and move on. If Kat's words are right, I can then truly get rid of any emotional residue left and motivate my self to put in some actual work. Hopefully.
 
-P/S: Here's a note from my therapist the day we had our last session two days ago. Yesterday was my graduation day. To be frank, I was skeptical to post something somewhat private on here, but this is a great way for me to remember it. To Kat, from the bottom of my heart thank you so much for everything you did to me.
+P/S: Here's a note from her the day we had our last session two days ago. Yesterday was my graduation day. To be frank, I was skeptical to post something somewhat private on here, but this is a great way for me to remember it. To Kat, from the bottom of my heart thank you so much for everything you did to me.
 
 ![Therapy "graduation" note](/assets/images/note.jpeg)
 <p style="text-align: center">Her handwriting is so neat !</p>
