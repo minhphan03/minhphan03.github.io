@@ -1,6 +1,7 @@
 @use 'utility/screensize';
 @use 'utility/fonts';
-@use 'utility/timeline.scss';
+@use 'utility/timeline-photos.scss';
+@use 'utility/timeline-music.scss';
 
 *,
 :after,
@@ -631,7 +632,7 @@ color: #333;
 
 .flickr{
   // width: 100%;
-  margin: 0em 0em 0em 1em;
+  margin: 0em 0em 0em 3em;
   display: inline-block;
   position: relative;
 
@@ -655,12 +656,12 @@ color: #333;
   }
 }
 
-.container {
-  width: 100vw; /* Set this to the width you prefer */
-  display: inline-block;
-  position: relative;
-  background-color: #eee;
-}
+// .container {
+//   width: 100vw; /* Set this to the width you prefer */
+//   display: inline-block;
+//   position: relative;
+//   background-color: #eee;
+// }
 
 
 .auto-scale {
