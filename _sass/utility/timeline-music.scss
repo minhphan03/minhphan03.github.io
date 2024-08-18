@@ -122,7 +122,7 @@ $link-color: var(--link-color);
   }
 
   .direction-l .flag:before,
-  .direction-r .flag:before {
+  .direction-r .flag:before { // circles
     position: absolute;
     top: 60%;
     right: -40px;
@@ -133,7 +133,7 @@ $link-color: var(--link-color);
     margin-top: -10px;
     background: #fff;
     border-radius: 10px;
-    border: 4px solid $link-color;
+    border: 4px solid var(--medium-text-color);
     z-index: 10;
   }
 
@@ -142,7 +142,7 @@ $link-color: var(--link-color);
   .time-wrapper {
     display: inline;
     line-height: 1.5em;
-    font-size: 0.66666em;
+    font-size: 0.7rem;
     color: white;
     vertical-align: middle;
 
@@ -168,10 +168,10 @@ $link-color: var(--link-color);
       }
     }
   }
+}
 
-
-  @media(max-width: 90rem) {
-    .timeline {
+@media(max-width: 90rem) {
+  .timeline-music {
       width: 100%;
       margin: 0 auto;
 
@@ -182,72 +182,71 @@ $link-color: var(--link-color);
 
       li {
         padding: 2em 0;
-        margin-bottom: 0;
+        margin-bottom: 0em;
       }
-    }
+    
 
-    .direction-l, .direction-r {
-      float: none;
-      width: 100%;
-      text-align: center;
+      .direction-l, .direction-r {
+        float: none;
+        width: 100%;
+        text-align: center;
 
-      iframe {
-        width: 75%;
+        iframe {
+          width: 75%;
+        }
+
+        .flag::before {
+          position: absolute;
+          top: -30px;
+          left: 50%;
+          content: ' ';
+          display: block;
+          margin-left: -8px;
+        }
+
+        .flag::after {
+          content: "";
+          position: absolute;
+          left: 50%;
+          top: -8px;
+          height: 0;
+          width: 0;
+          margin-left: -9.5px;
+          border: solid transparent;
+          border-bottom-color: var(--light-text-color);
+          border-width: 8px;
+          pointer-events: none;
+        }
+
+        .time-wrapper {
+          float: none;
+        }
       }
 
-      .flag::before {
-        position: absolute;
-        top: -30px;
-        left: 50%;
-        content: ' ';
-        display: block;
-        margin-left: -8px;
-      }
+      .flag-wrapper {
+        text-align: center;
 
-      .flag::after {
-        content: "";
-        position: absolute;
-        left: 50%;
-        top: -8px;
-        height: 0;
-        width: 0;
-        margin-left: -9.5px;
-        border: solid transparent;
-        border-bottom-color: var(--light-text-color);
-        border-width: 8px;
-        pointer-events: none;
+        .flag {
+          background: var(--light-text-color);
+          z-index: 15;
+        }
       }
 
       .time-wrapper {
-        float: none;
+        display: block;
+        position: relative;
+        margin: 4px 0 0 0;
+        z-index: 14;
       }
-    }
 
-    .flag-wrapper {
-      text-align: center;
-
-      .flag {
-        background: var(--light-text-color);
+      .music-desc {
+        position: relative;
+        margin: 1em 1em 1em 1em;
+        padding: 1em;
+        background: var(--code-bg-color);
+        box-shadow: 0 0 1px rgba(0,0,0,0.20);
         z-index: 15;
+        
       }
-    }
-
-    .time-wrapper {
-      display: block;
-      position: relative;
-      margin: 4px 0 0 0;
-      z-index: 14;
-    }
-
-    .music-desc {
-      position: relative;
-      margin: 1em 1em 1em 1em;
-      padding: 1em;
-      background: var(--code-bg-color);
-      box-shadow: 0 0 1px rgba(0,0,0,0.20);
-      z-index: 15;
-      
-    }
-
   }
 }

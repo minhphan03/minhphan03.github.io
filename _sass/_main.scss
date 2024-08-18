@@ -105,16 +105,16 @@ html[data-theme="light"] {
 html[data-theme="dark"] {
 	--text-font: 'SF Pro Display';
 	--source-code-font: 'Source Code Pro';
-  --blog-font: 'Garamond Pro';
+  	--blog-font: 'Garamond Pro';
 	--very-light-text-color: #EEE;
 	--light-text-color: #9889e2;
-	--medium-text-color: #52057b;
+	--medium-text-color: #683BAB;
 	--main-text-color: #EAEAEA;
 	--highlight-text-color: #6cb4a0;
 	--dark-text-color: rgb(36, 38, 42);
 	--link-color: #ff8c00; // F7821B
 	--code-bg-color: rgb(36, 38, 42);
-  --menu-bg-color: rgb(19, 20, 24);
+  	--menu-bg-color: rgb(19, 20, 24);
 	background-color: rgb(19, 20, 24);
 
 	#theme-toggle div {
@@ -468,8 +468,9 @@ main {
   text-align: center;
 
   &:hover {
-    color: var(--light-text-color);
+    color: var(--menu-bg-color);
     border-color: var(--light-text-color);
+	background-color: var(--light-text-color);
     transition: color 0.5s ease-in, border-color 0.5s ease-in;
     cursor: default;
   }
@@ -630,31 +631,7 @@ color: #333;
 	text-overflow: ellipsis;
 }
 
-.flickr{
-  // width: 100%;
-  margin: 0em 0em 0em 3em;
-  display: inline-block;
-  position: relative;
 
-  img {
-    max-width: 110%;
-  }
-}
-
-.flickr-desc{
-  margin: 1em auto auto auto;
-}
-
-.flickr .title {
-	align-items: center;
-	display: flex;
-	// justify-content: space-between;
-
-  p {
-    margin: 0 0 1rem 1rem;
-
-  }
-}
 
 // .container {
 //   width: 100vw; /* Set this to the width you prefer */
@@ -664,13 +641,13 @@ color: #333;
 // }
 
 
-.auto-scale {
-  aspect-ratio: 3/2;
-  position: relative;
-  display: block;
-  max-width: 700px !important;
-  width: 90% !important;
-}
+// .auto-scale {
+//   aspect-ratio: 3/2;
+//   position: relative;
+//   display: block;
+//   max-width: 700px !important;
+//   width: 90% !important;
+// }
 
 @media print
 {    

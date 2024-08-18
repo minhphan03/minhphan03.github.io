@@ -1,22 +1,28 @@
 // of course, ChatGPT
 
-document.addEventListener('DOMContentLoaded', function () {
-    // Array of div IDs corresponding to text file names
-    const divElements = document.querySelectorAll('div[id]'); // Get all div elements with IDs
 
-    divElements.forEach(div => {
-        const divId = div.id;
+document.addEventListener('DOMContentLoaded', async function () {
+    // Array of p IDs corresponding to text file names
+    const pElements = document.querySelectorAll('p[id]'); // Get all p elements with IDs
 
-        // Load the text from the corresponding text file.
-        fetch(`./assets/texts/${divId}.txt`) // Assumes text file names match div IDs
-            .then(response => response.text())
-            .then(text => {
-                // Set the loaded text as the inner HTML of the div.
-                div.innerHTML = text;
-            })
-            .catch(error => {
-                console.error(`Error loading text for ${divId}:`, error);
-            });
-    });
+    for (const p of pElements) {
+        const pId = p.id;
 
+        try {
+            // Load the text from the corresponding text file.
+            const response = await fetch(`./assets/texts/${pId}.txt`); // Assumes text file names match p IDs
+            
+            if (!response.ok) {
+                throw new Error(`HTTP error! Status: ${response.status}`);
+            }
+
+            const text = await response.text();
+            // Set the loaded text as the text content of the p.
+            p.textContent = text;
+        } catch (error) {
+            console.error(`Error loading text for ${pId}:`, error);
+            // Optionally, you can set a fallback message in case of error
+            p.textContent = 'Failed to load content.';
+        }
+    }
 });
