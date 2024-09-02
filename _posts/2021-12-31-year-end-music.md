@@ -2,7 +2,7 @@
 layout: post
 title: "Favorite 15 Songs of 2021"
 tags: music recap
-image: /assets/images/2021-year-end.jpg
+image: /assets/images/2021-year-end.png
 ---
 
 Another year is about to pass. How cliche is it to ask oneself how in this witchcraft another year is approaching so early? O-ho, it is definitely cliche, but not more than writing one of my favorite pieces of the year — the top songs of the year. If you haven’t already know, by tradition, it is time for a wrap up for my music section. For this year’s top songs, let me present 15 songs released this year that have accompanied me through the ups and downs of a very mixed 2021 (or should you say, 2020.2)
@@ -76,7 +76,8 @@ Fav lyrics: *And when you’re scared, I’ll be right here / You feel afraid, m
 Tinashe Kachingwe is an insultingly underrated artist, and her newest project 333 again proves how potential she can be as an independent artist. Focused on the theme of self-love (hence the number of angel 333 as the title) and healing, the project is indeed an interesting and refreshing record to listen to. Undo (Back to My Heart), the 9th track on the album, is a hidden gem. The dance workout track resuscitates a gloomy end of summer (this year, specifically), showing her powerful vocals and steamy, sultry lyrics that had all the elements needed to be a viral hit. Longing of the heart is what we all refuse to accept, but if there is a song that speaks up your mind, this is it. Let go of all your self-centeredness and concede your feelings once in a while and you would feel lighter in no time. Some of the songs that you should also check out in this album include “X (feat. Jeremiah)”, “The Chase” and “Angels.”
 
 Fav lyrics: *Gotta just let go of our pride (Pride) / Lookin’ for some peace of mind / Everything for me is mine / But I realize it just isn’t right*
-<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="margin: 0 auto; display: block;width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/album/undo-back-to-my-heart/1607178944?i=1607178958"></iframe>
+
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="margin: 0 auto; display: block;width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/album/undo-back-to-my-heart/1739604579?i=1739604828"></iframe>
 
 **5\. Between Us - Little Mix**
 

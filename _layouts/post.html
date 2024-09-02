@@ -12,7 +12,7 @@ layout: default
   
   <img src="{{- page.image | relative_url -}}" alt="" class="featured-image">
   <div style="text-align: center;">
-    {% assign minute=content | number_of_words | divided_by: 265 | plus: 1 %}
+    {% assign minute=content | number_of_words | divided_by: 250 | plus: 1 %}
     <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%b %-d, %Y" }} -  
       {% if page.minute %} {{ page.minute }} {% else %} {{ minute }} {% endif %}' read   |
     </time>

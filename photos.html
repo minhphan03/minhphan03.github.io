@@ -2,6 +2,22 @@
 layout: default
 ---
 <script src="./assets/js/get-text.js"></script>
+<!-- <script>
+    function checkSpanBreak() {
+        const span = document.querySelector('.bubble-element');
+        if (span.scrollHeight > span.offsetHeight) {
+            span.style.marginLeft = '0';
+        } else {
+            span.style.marginLeft = ''; // Reset to original if not broken
+        }
+    }
+
+    // Run on page load
+    window.addEventListener('load', checkSpanBreak);
+
+    // Optionally, run on window resize
+    window.addEventListener('resize', checkSpanBreak);
+</script> -->
 <style>
     .flick-embed-photo {
         aspect-ratio: 3/2;
@@ -24,65 +40,13 @@ layout: default
         </p>
         <br>
         <p>
-            Note: Flickr embed causes issues in displaying some slideshows.
-            Scroll gesturing on the frozen panes seems to fix the issue on desktop at the moment.
+            Note: Flickr embed causes issues in displaying some slideshows. This is a <a href="https://github.com/Automattic/wp-calypso/issues/51097">well-known bug</a> from the service itself.
+            Attempt to fix (Safari): scroll gesturing on the frozen panes on desktop version.
         </p>
 
     </div>
 </section>
-<!-- 
-<section class="flickr">
-  <div class="title">
-    <h3>Thailand '24 🇹🇭</h3>
-    <p class="bubble-element">Nikon D3400</p>
-  </div>
-  <div class="auto-scale">
-    <a data-flickr-embed="true" href="https://www.flickr.com/photos/minhphan03/albums/72177720314381237" title="Thailand"><img src="https://live.staticflickr.com/65535/53492445308_6cbc523e61_h.jpg" width="1600" alt="Thailand"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  </div>
-  <div class="flickr-desc" id="thailand"></div>
-</section>
 
-<section class="flickr">
-  <div class="title">
-    <h3>Istanbul '23 🇹🇷</h3>
-    <p class="bubble-element">Fujifilm X-T2</p>
-  </div>
-  <div class="auto-scale">
-    <a data-flickr-embed="true" href="https://www.flickr.com/photos/minhphan03/albums/72177720309478355" title="Istanbul, Türkiye"><img src="https://live.staticflickr.com/65535/53017135675_aeda5c2c5f_h.jpg" width="1600" alt="Istanbul, Türkiye"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  </div>
-  <div class="flickr-desc" id="istanbul"></div>
-</section>
-
-<section class="flickr">
-  <div class="title">
-    <h3>New York '23 🗽</h3>
-    <p class="bubble-element">Nikon D700</p>
-  </div>
-  <div class="auto-scale">
-    <a data-flickr-embed="true" href="https://www.flickr.com/photos/minhphan03/albums/72177720306132497" title="New York, NYC"><img src="https://live.staticflickr.com/65535/52699444784_b3854a703f_h.jpg" width="1600" alt="New York, NYC"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  </div>
-  <div class="flickr-desc" id="nyc"></div>
-</section>
-
-<section class="flickr">
-  <div class="title">
-    <h3>Singapore '22 🇸🇬</h3>
-    <p class="bubble-element">Nikon D700</p>
-  </div>
-  <div class="auto-scale">
-    <a data-flickr-embed="true" href="https://www.flickr.com/photos/minhphan03/albums/72177720309536383" title="Singapore"><img src="https://live.staticflickr.com/65535/53021101521_07592c50d0_h.jpg" width="1600" alt="Singapore"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  </div>
-  <div class="flickr-desc" id="singapore"></div>
-</section>
-
-
-<section class="flickr">
-  <div class="title">
-    <h3>San Francisco '22 🌉</h3>
-    <p class="bubble-element">Nikon D700</p>
-  </div>
-  <div class="auto-scale">
-    <a data-flickr-embed="true" href="https://www.flickr.com/photos/minhphan03/albums/72177720298613692" title="San Francisco, CA"><img src="https://live.staticflickr.com/65535/52048844430_594523f25e_h.jpg" width="1600" alt="San Francisco, CA"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  </div>
-  <div class="flickr-desc" id="sf"></div>
-</section>
-
- -->
 
 <div class="timeline-photos">
     <div class="wrapper">
@@ -138,7 +102,7 @@ layout: default
 
     <div class="wrapper">
             <div class="container">
-                <span class="content">Singapore</span>
+                <span class="content">Singapore 🇸🇬</span>
                 <span class="time-wrapper">
                     <span class="time">June 2022</span>
                 </span>
@@ -153,7 +117,7 @@ layout: default
 
     <div class="wrapper">
             <div class="container">
-                <span class="content">San Francisco</span>
+                <span class="content">San Francisco 🌉</span>
                 <span class="time-wrapper">
                     <span class="time">March 2022</span>
                 </span>
@@ -167,3 +131,57 @@ layout: default
     </div>
 
 </div>
+
+<!-- 
+<section class="flickr">
+  <div class="title">
+    <h3>Thailand '24 🇹🇭</h3>
+    <p class="bubble-element">Nikon D3400</p>
+  </div>
+  <div class="auto-scale">
+    <a data-flickr-embed="true" href="https://www.flickr.com/photos/minhphan03/albums/72177720314381237" title="Thailand"><img src="https://live.staticflickr.com/65535/53492445308_6cbc523e61_h.jpg" width="1600" alt="Thailand"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  </div>
+  <div class="flickr-desc" id="thailand"></div>
+</section>
+
+<section class="flickr">
+  <div class="title">
+    <h3>Istanbul '23 🇹🇷</h3>
+    <p class="bubble-element">Fujifilm X-T2</p>
+  </div>
+  <div class="auto-scale">
+    <a data-flickr-embed="true" href="https://www.flickr.com/photos/minhphan03/albums/72177720309478355" title="Istanbul, Türkiye"><img src="https://live.staticflickr.com/65535/53017135675_aeda5c2c5f_h.jpg" width="1600" alt="Istanbul, Türkiye"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  </div>
+  <div class="flickr-desc" id="istanbul"></div>
+</section>
+
+<section class="flickr">
+  <div class="title">
+    <h3>New York '23 🗽</h3>
+    <p class="bubble-element">Nikon D700</p>
+  </div>
+  <div class="auto-scale">
+    <a data-flickr-embed="true" href="https://www.flickr.com/photos/minhphan03/albums/72177720306132497" title="New York, NYC"><img src="https://live.staticflickr.com/65535/52699444784_b3854a703f_h.jpg" width="1600" alt="New York, NYC"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  </div>
+  <div class="flickr-desc" id="nyc"></div>
+</section>
+
+<section class="flickr">
+  <div class="title">
+    <h3>Singapore '22 🇸🇬</h3>
+    <p class="bubble-element">Nikon D700</p>
+  </div>
+  <div class="auto-scale">
+    <a data-flickr-embed="true" href="https://www.flickr.com/photos/minhphan03/albums/72177720309536383" title="Singapore"><img src="https://live.staticflickr.com/65535/53021101521_07592c50d0_h.jpg" width="1600" alt="Singapore"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  </div>
+  <div class="flickr-desc" id="singapore"></div>
+</section>
+
+
+<section class="flickr">
+  <div class="title">
+    <h3>San Francisco '22 🌉</h3>
+    <p class="bubble-element">Nikon D700</p>
+  </div>
+  <div class="auto-scale">
+    <a data-flickr-embed="true" href="https://www.flickr.com/photos/minhphan03/albums/72177720298613692" title="San Francisco, CA"><img src="https://live.staticflickr.com/65535/52048844430_594523f25e_h.jpg" width="1600" alt="San Francisco, CA"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  </div>
+  <div class="flickr-desc" id="sf"></div>
+</section>
+
+ -->

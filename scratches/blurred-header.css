@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    padding: 10px;
+    text-align: center;
+    background: linear-gradient(to bottom, rgba(255, 255, 255, 1) 75%, rgba(255, 255, 255, 0.2)); /* Gradient */
+    backdrop-filter: blur(0px); /* Initial blur */
+    -webkit-backdrop-filter: blur(0px); /* Initial blur for Safari */
+    transition: backdrop-filter 0.3s ease, -webkit-backdrop-filter 0.3s ease;
+}
+
+header h1 {
+    margin-bottom: 10px;
+    font-size: 2rem;
+  text-align: left;
+}
+
+main {
+    padding: 20px;
+    height: 2000px; /* Ensures there's enough content to scroll */
+}
+
+section {
+    max-width: 800px;
+/*     margin: 0 auto; */
+    line-height: 1.6;
+}
+
+section p {
+/*     margin: 20px 0; */
+  text-align: left;
+}
+
+/* Adjust blur on scroll */
+body.scrolled header {
+    backdrop-filter: blur(10px); /* Increase blur effect */
+    -webkit-backdrop-filter: blur(10px); /* Increase blur effect for Safari */
+    background: linear-gradient(to bottom, rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.5)); /* Adjust gradient on scroll */
+}

@@ -39,6 +39,7 @@
 
   .content-column {
     padding-top: 4.5rem;
+    overflow-y: hidden;
   }
 
   .social-footer-icons {
@@ -87,6 +88,10 @@
 }
 
 @media screen and (max-width: 26rem) {
+  
+  .content-column {
+    overflow-y: hidden;
+  }
 
   .post p {
     font-size: 1.2rem !important;
