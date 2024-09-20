@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Don't Photograph. Write."
-tags: world
+tags: uncategorized
 image: /assets/images/paper.jpg
 ---
 

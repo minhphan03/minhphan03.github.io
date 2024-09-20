@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "On the Palestinian Genocide" 
+title: "On the Ethnic Cleansing of Palestine" 
 tags: world
 image: /assets/images/palestine.jpg
 ---
