@@ -356,6 +356,10 @@ strong, b {
 	display: flex;
 	justify-content: space-between;
 	margin-bottom: 0.5rem;
+
+	:hover {
+		text-decoration: underline;
+	}
 }
 
 
@@ -368,9 +372,7 @@ strong, b {
   margin: 0;
 }
 
-.posts li a:hover {
-  text-decoration: underline;
-}
+
 
 
 .post .meta,
