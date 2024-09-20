@@ -2,22 +2,7 @@
 layout: default
 ---
 <script src="./assets/js/get-text.js"></script>
-<!-- <script>
-    function checkSpanBreak() {
-        const span = document.querySelector('.bubble-element');
-        if (span.scrollHeight > span.offsetHeight) {
-            span.style.marginLeft = '0';
-        } else {
-            span.style.marginLeft = ''; // Reset to original if not broken
-        }
-    }
 
-    // Run on page load
-    window.addEventListener('load', checkSpanBreak);
-
-    // Optionally, run on window resize
-    window.addEventListener('resize', checkSpanBreak);
-</script> -->
 <style>
     .flick-embed-photo {
         aspect-ratio: 3/2;
@@ -25,6 +10,10 @@ layout: default
         display: block;
         max-width: 700px !important;
         width: 90% !important;
+    }
+
+    .content-column {
+        overflow-y: hidden;
     }
 </style>
 <section class="posts">
