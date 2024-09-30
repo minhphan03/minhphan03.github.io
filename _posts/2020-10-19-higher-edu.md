@@ -4,7 +4,7 @@ title: "Detrimental Impact of Expensive Higher Education"
 tags: essays
 image: /assets/images/savings.jpg
 ---
-*An assignment essay I wrote for Englist Composition II course at Highline Collge*
+*An essay assignment I wrote for my Winter 2021 English Composition II course at Highline College.*
 
 Education has often been the key to individual success, and the resolution to progressive change in society. One must go through schooling to observe his being and see where one is standing and consequentially developing oneself as a whole. Unfortunately, not everyone can afford education, significantly higher education which determines one’s future. Being expensive to the level of irrationality not only bring wretchedness to whoever pursues it but also becomes an epitome of how greedy money can drive the future generations to the dead-end.
 

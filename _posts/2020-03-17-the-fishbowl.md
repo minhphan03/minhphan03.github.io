@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Fishbowl"
-tags: throwback essays
+tags: essays
 image: /assets/images/goldfish.jpg
 ---
 
