@@ -24,8 +24,8 @@ layout: default
         <input type="search" id="search-input" placeholder="Find some articles here" aria-label="Search">
         <ul id="search-results"></ul>
     </div>
-    
-    <ul style="overflow-y: scroll; height: 50vh;">
+
+    <ul>
         {% for post in site.posts %}
         <li>
         <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
