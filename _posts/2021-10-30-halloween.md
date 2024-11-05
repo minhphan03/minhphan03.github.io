@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Halloween Weekend"
-tags: diary rant
+tags: rant
 image: /assets/images/halloween.jpg
 ---
 

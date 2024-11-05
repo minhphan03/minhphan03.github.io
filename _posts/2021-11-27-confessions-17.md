@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Confessions of 17"
-tags: adulthood
+tags: rant
 image: /assets/images/rain.jpg
 ---
 

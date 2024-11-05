@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Internship" 
-tags: diary rant
+tags: rant
 image: /assets/images/internship.jpg
 ---
 

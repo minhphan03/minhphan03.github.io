@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Teenage Dream" 
-tags: adulthood diary
+tags: uncategorized
 image: /assets/images/teenager.jpg
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Máy bay huỷ chuyến"
-tags: travel diary vietnamese
+tags: travel rant vietnamese
 image: /assets/images/newyork-1.jpg
 ---
 Sáng nay vừa bước chân xuống tàu điện tới sân bay, bật điện thoại lên để check máy bay thì ai ngờ là máy bay huỷ chuyến phút chót. Tôi bị sốc =)) Í là tôi cũng hơi sợ sợ là huỷ chuyến rồi, vì hai bữa vừa rồi tuyết rơi khá dày và có hiện tượng mưa tuyết (freezing rain) nên đi lại rất khó khăn và đường phố coi như miễn nhiên thành một cái sân trượt băng, nhưng mà tôi không có giày trượt vậy nên cũng đã té vài lần. Thế là lúc bị huỷ chuyến, dù sốc nhưng tôi cũng không đến nỗi mất trí để đến nỗi ăn vạ hay gì. Nhưng mà tôi rất tứcccccc. Trời thì mưa tầm tã mà báo sớm quá, làm dầm dề lội nước tới sân bay lại phải quay về. Thế là tôi gọi liền cho phụ huynh ở VN =)) Lúc tôi báo tin thì mẹ tôi cũng bất ngờ và thông cảm (vì mẹ có biết là tôi rất mong ngóng chuyến đi chơi này), có dặn là vô sân bay gặp nhân viên để hỏi cách giải quyết thì tôi mới bảo là thôi cứ đặt chuyến khác trước đi rồi tính. Ừ thì cũng đặt đi cho rồi. Thế là tức tốc mở điện thoại lên vừa nói chuyện vừa đặt ngay một chuyến khác tối mai bay, chứ sợ là không đặt sớm là hết sạch vé. À nếu như chuyến trước là bay Alaska Airlines thì bởi vì do hãng hết sạch vé nên tôi đành đặt đại JetBlue. Cái hãng này thì ôi thôi chuyên gia delay nhưng mà còn đỡ hơn là bị huỷ. Và tất nhiên là Alaska bù tiền cho tôi $250, bằng 1/4 giá vé tôi mua của JetBlue, thôi cũng được đi vì ít ra còn có vé, cắn răng chịu chứ biết sao được. Hên là trong tài khoản tôi còn tiền =))) chứ không thì bỏ rồi. 

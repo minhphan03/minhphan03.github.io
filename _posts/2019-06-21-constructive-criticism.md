@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Constructive Criticism: A Keystone Of Life Deals"
-tags: diary
+tag: uncategorized
 image: /assets/images/stonewall.jpg
 
 ---

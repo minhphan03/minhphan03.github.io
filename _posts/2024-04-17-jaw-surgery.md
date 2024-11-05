@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Jaw Surgery"
-tags: diary
+tags: uncategorized
 image: /assets/images/surgery.jpg
 ---
 Today marks six months from my jaw surgery (Oct 17th, 2023). My surgeon said the six month mark sufficiently determines whether a jaw surgery operation was successful as it is expected that all swelling disappears (tightness/numbness, on the other hand, may take up to three years). So, to celebrate this journey almost over, here is a collection of entries I wrote about this life-changing operation. This is the second major surgery I have, and the first one I was big enough to have a lasting memory on.

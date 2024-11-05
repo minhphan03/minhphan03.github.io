@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ba Láp Về Quarantine: Phần 1"
-tags: diary vietnamese
+tags: vietnamese
 image: /assets/images/social-distancing.jpg
 ---
 

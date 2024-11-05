@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ba Láp Về Quarantine: Phần 3"
-tags: diary vietnamese
+tags: vietnamese
 image: /assets/images/quarantine3.jpg
 ---
 
