@@ -9,6 +9,7 @@ layout: default
             since 2018. May contain explicit and triggering content. Happy reading!
         </p>
     </div>
+
     <div class="search-article">
         <label for="search-input" aria-hidden="true">
             <!-- Magnifier -->
@@ -23,7 +24,8 @@ layout: default
         <input type="search" id="search-input" placeholder="Find some articles here" aria-label="Search">
         <ul id="search-results"></ul>
     </div>
-    <ul style="overflow-y: hidden;">
+    
+    <ul style="overflow-y: scroll; height: 50vh;">
         {% for post in site.posts %}
         <li>
         <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
