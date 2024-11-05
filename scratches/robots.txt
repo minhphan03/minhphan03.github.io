@@ -1,0 +1,3 @@
+Disallow: /assets/texts/*
+Disallow: /_posts/*
+Allow: /assets/images/*

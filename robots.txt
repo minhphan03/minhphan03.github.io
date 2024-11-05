@@ -45,9 +45,7 @@ User-agent: cohere-ai
 Disallow: /
 
 User-agent: facebookexternalhit
-Disallow: /assets/texts/*
-Disallow: /_posts/*
-Allow: /assets/images/*
+Allow: /
 
 User-agent: *
 Disallow: /
