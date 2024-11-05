@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<section class="posts" id="Blog">
+<section class="posts" id="Blog" style="overflow-y: hidden;">
     <div class="bio">
         <h1>All Posts ({{site.posts.size}})</h1>
         <p>
@@ -23,7 +23,7 @@ layout: default
         <input type="search" id="search-input" placeholder="Find some articles here" aria-label="Search">
         <ul id="search-results"></ul>
     </div>
-    <ul>
+    <ul style="overflow-y: hidden;">
         {% for post in site.posts %}
         <li>
         <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>

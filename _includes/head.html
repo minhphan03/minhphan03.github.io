@@ -1,8 +1,9 @@
 <head>
-  <meta property="og:title" content="{{ page.title }}">
-  <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/{{- page.image | relative_url -}}">
-  <meta property="og:description" content="{{ page.content | truncatewords:50}}">
-  <meta name="description" content="{{ page.content | truncatewords:50}}">
+  <meta property="og:title" content="{{ page.title | strip_html}}" />
+  <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/{{- page.image | relative_url -}}" />
+  <meta property="og:type" content="website" />
+  <meta property="og:description" content="{{ page.content | strip_html | truncatewords:50}}" />
+  <!-- <meta name="description" content="{{ page.content | truncatewords:50}}"> -->
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/assets/css/syntax.css">
@@ -25,7 +26,7 @@
       {% unless page.tag or page.title %}
         - {{ site.description | escape }}
       {% endunless %}
-    </title>
+  </title>
   
   
 
