@@ -15,12 +15,11 @@ author:
   userpicture: 
   username: # general username
   github: minhphan03 # github username
-  twitter: minhphan03
+  bluesky: minhphan03.com
   instagram: mnh.p 
   linkedin: minhphan03
   flickr: minhphan03
   letterboxd: minhphan
-  email: anhminh1993@icloud.com # email adress
 
 # Font Settings
 # googlewebfonts: family=Play:wght@400;700&family=Source+Code+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,300;1,400;1,500;1,600;1,700;1,900
@@ -38,7 +37,7 @@ kramdown:
   input: GFM
   syntax_highlighter: rouge
 
-paginate: 12
+paginate: 13
 paginate_path: "/blog/page:num/"
 
 exclude:
