@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "War-Themed Movies I've Watched Recently" 
-tags: films
+tags: films world
 image: /assets/images/war-movies.png
 ---
 

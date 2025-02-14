@@ -283,6 +283,11 @@ h6 {
 	font-size: 1rem;
 }
 
+.active a {
+	font-style: italic;
+	cursor: default;
+}
+
 section h1:first-child {
 	margin-top: 0;
 }
