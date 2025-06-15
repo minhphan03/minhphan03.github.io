@@ -5,7 +5,7 @@ tags: books essays
 image: /assets/images/hstas265.jpg
 ---
 
-A final course essay I wrote for HSTAS 265: The Viet Nam Wars, taught by Professor Christoph Giebel. Words are unedited before posting.
+A final course essay I wrote for HSTAS 265: The Viet Nam Wars, taught by Professor Christoph Giebel at University of Washington - Seattle. Words are unedited before posting.
 
 ---
 
@@ -23,7 +23,9 @@ Unlike the female authors, Lam did not go into much detail about the human cost 
 
 The authors' upbringing certainly influenced their politics, but ultimately, the question is whether it was worth taking sides. No matter what background and political stance the authors took after, they all ended up losing a piece of themselves: Dang sacrificing in the foreign land over the call for national independence, Thi losing his homeland and career, and Hayslip unwillingly severing ties with her family members. Looking at the political state of affairs on a larger scale, the Vietnam War was nothing but a human slaughterhouse for the big powers. Their opposition drove innocent Vietnamese people into misery as they became pawns and numbers in a game they never asked to be a part of. Dang, Lam, and Hayslip's distinctive backgrounds from each other may have defined their politics and biased views towards other parties, but by reading between the lines one could see how they were one and the same: they were all victims of the war whether they made it out or not. Adorning their narratives with lavishing, lighthearted, and juicy details may bring sympathy, but the trauma is still there for them and millions of other Vietnamese. No alternative in background, narrative, and politics can heal the pain they have carried for years and years. 
 
-References:
+<p style="text-align: center">References<\p>
+
+
 Dang, T. T. (2007). *Last Night I Dreamed of Peace.* Harmony Books.
 
 Hayslip, L. L., & Wurts, J. (2017). *When Heaven and Earth Changed Places : a Vietnamese 
