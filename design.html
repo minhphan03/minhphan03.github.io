@@ -28,6 +28,6 @@ layout: default
 
   {% for i in (1..images.size) %}
     {% assign current_number = images.size | minus: i | plus: 1 %}
-    <img src="assets/fuckmasculinity/{{ current_number }}.jpg" alt="Image {{ forloop.index }}">
+    <img src="assets/fuckmasculinity/{{ current_number }}.jpg" loading="lazy" alt="Image {{ forloop.index }}">
   {% endfor %}
 </div>
