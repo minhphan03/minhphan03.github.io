@@ -28,3 +28,8 @@ More to read:
 * [Doctor admits Israeli pathologists harvested organs without consent](https://t.co/C6O2fcQ8n9)
 * [Informing/Educating Ourselves About Palestine, Gaza, Israel & the Resistance Movement – a Resource Guide](https://blog.hautehijab.com/post/informing-and-educating-yourself-about-palestine-gaza-israel-and-the-resistance-movement-a-resource)
 * [Act Now Against These Companies Profiting from the Genocide of the Palestinian People](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjp3b3q_oiDAxXLrlYBHTNiAecQFnoECAgQAQ&url=https%3A%2F%2Fbdsmovement.net%2FAct-Now-Against-These-Companies-Profiting-From-Genocide&usg=AOvVaw27ehHLy3tXBUaXuOr6M61A&opi=89978449)
+
+Read the entirety of the trilogy on the Israel-Gaza conflict:
+* Part 1: [ON THE ETHNIC CLEANSING OF PALESTINE](http://phanvuanhminh.com/2023/10/30/palestine)
+* Part 2: [ON THE US-ISRAEL ALLIANCE AND GENOCIDAL ACTS](https://phanvuanhminh.com/2024/09/20/us-israel)
+* Part 3: [FROM GROUND ZERO: STORIES FROM GAZA (2024)](http://phanvuanhminh.com/2025/10/17/from-ground-zero)
