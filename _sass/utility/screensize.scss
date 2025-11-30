@@ -39,7 +39,7 @@
 
   .content-column {
     padding-top: 4.5rem;
-    overflow-y: hidden !important;
+    // overflow-y: hidden !important;
   }
 
   .social-footer-icons {
@@ -89,9 +89,9 @@
 
 @media screen and (max-width: 26rem) {
   
-  .content-column {
-    overflow-y: hidden !important;
-  }
+  // .content-column {
+  //   overflow-y: hidden !important;
+  // }
 
   .post p {
     font-size: 1.2rem !important;
@@ -116,12 +116,7 @@
   h5 {
     font-size: 1.4rem !important;
   }
-
-  h6 {
-    font-size: 1.3rem !important;
-  }
   
-
 
   header li {
 		display: inline;
@@ -165,7 +160,7 @@
 
   .content-column {
     padding-top: 4.5rem;
-    overflow-y: hidden !important;
+    // overflow-y: hidden !important;
   }
 
   .social-footer-icons {
