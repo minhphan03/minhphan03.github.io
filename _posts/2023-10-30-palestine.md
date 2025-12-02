@@ -30,6 +30,6 @@ More to read:
 * [Act Now Against These Companies Profiting from the Genocide of the Palestinian People](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjp3b3q_oiDAxXLrlYBHTNiAecQFnoECAgQAQ&url=https%3A%2F%2Fbdsmovement.net%2FAct-Now-Against-These-Companies-Profiting-From-Genocide&usg=AOvVaw27ehHLy3tXBUaXuOr6M61A&opi=89978449)
 
 Read the entirety of the trilogy on the Israel-Gaza conflict:
-* Part 1: [ON THE ETHNIC CLEANSING OF PALESTINE](http://minhph.com/2023/10/30/palestine)
-* Part 2: [ON THE US-ISRAEL ALLIANCE AND GENOCIDAL ACTS](https://minhph.com/2024/09/20/us-israel)
-* Part 3: [FROM GROUND ZERO: STORIES FROM GAZA (2024)](http://minhph.com/2025/10/17/from-ground-zero)
+* Part 1: [ON THE ETHNIC CLEANSING OF PALESTINE](http://www.minhph.com/2023/10/30/palestine)
+* Part 2: [ON THE US-ISRAEL ALLIANCE AND GENOCIDAL ACTS](https://www.minhph.com/2024/09/20/us-israel)
+* Part 3: [FROM GROUND ZERO: STORIES FROM GAZA (2024)](http://www.minhph.com/2025/10/17/from-ground-zero)

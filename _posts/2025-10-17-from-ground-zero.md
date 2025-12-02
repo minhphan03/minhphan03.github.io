@@ -82,6 +82,6 @@ Locking the lens on the crisis of basic human necessities in Gaza, this short do
 <p style="text-align: center;">From Ground Zero: Stories from Gaza (2024) Trailer</p>
 
 Read the entirety of the trilogy on the Israel-Gaza conflict:
-* Part 1: [ON THE ETHNIC CLEANSING OF PALESTINE](http://minhph.com/2023/10/30/palestine)
-* Part 2: [ON THE US-ISRAEL ALLIANCE AND GENOCIDAL ACTS](https://minhph.com/2024/09/20/us-israel)
-* Part 3: [FROM GROUND ZERO: STORIES FROM GAZA (2024)](http://minhph.com/2025/10/17/from-ground-zero)
+* Part 1: [ON THE ETHNIC CLEANSING OF PALESTINE](http://www.minhph.com/2023/10/30/palestine)
+* Part 2: [ON THE US-ISRAEL ALLIANCE AND GENOCIDAL ACTS](https://www.minhph.com/2024/09/20/us-israel)
+* Part 3: [FROM GROUND ZERO: STORIES FROM GAZA (2024)](http://www.minhph.com/2025/10/17/from-ground-zero)

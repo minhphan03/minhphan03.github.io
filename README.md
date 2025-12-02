@@ -1,4 +1,4 @@
-# [Minh's static website/blog](https://minhph.com)
+# [Minh's static website/blog](https://www.minhph.com)
 
 This is a simple blog created using the Gesko template (Jekyll) by @DavideBri. Modified by me.
 
