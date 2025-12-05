@@ -2,7 +2,7 @@ site: Minh Phan's Website
 title: Minh Phan
 greetings: Hello World! 👋
 description: >-
-  just a minimalist, personal website
+  a minimalist personal corner
 lang: en-US
 timezone:  Asia/Vietnam
 data-theme: light # default theme "dark" | "light"
@@ -17,9 +17,10 @@ author:
   github: minhphan03 # github username
   bluesky: minhphan03.com
   instagram: mnh.p 
-  linkedin: minhphan03
+  linkedin: mnhp
   flickr: minhphan03
   letterboxd: minhphan
+  goodreads: mnhp
 
 # Font Settings
 # googlewebfonts: family=Play:wght@400;700&family=Source+Code+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,300;1,400;1,500;1,600;1,700;1,900
