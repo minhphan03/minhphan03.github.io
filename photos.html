@@ -11,14 +11,19 @@ layout: default
         max-width: 700px !important;
         width: 90% !important;
     }
+
+    /* .content-column {
+      overflow-y: hidden;
+    } */
+
 </style>
 <section class="posts">
     <div class="bio">
         <h1>Flickr Gallery 📷</h1>
         <p>
-            This is my Flickr exhibit corner where I showcase some of the photos
-            I took and uploaded to the website. I decided to embed using an external service instead of
-            directly post everything on this website since Flickr embed features
+            I dedicate this space to showcase some of the collections I have curated
+            and uploaded to the website. I decided to embed Flickr code itself instead of
+            hosting photos on this website as its embed features
             are sufficient and convenient enough. More albums on my Flickr account
             (which you can find on my homepage), but for those featured on here
             I expanded with a caption.
@@ -28,127 +33,129 @@ layout: default
             Note: Flickr embed causes issues in displaying some slideshows. This is a <a href="https://github.com/Automattic/wp-calypso/issues/51097">well-known bug</a> from the service itself.
             Attempt to fix (Safari): scroll gesturing on the frozen panes on desktop version.
         </p>
+    </div>
+
+    <div class="timeline-photos">
+      <div class="wrapper">
+              <div class="container">
+                  <span class="content">Chicago 🫘</span>
+                  <span class="time-wrapper">
+                      <span class="time">July 2025</span>
+                  </span>
+                  <span class="bubble-element">Fujifilm X-T2</span>
+              </div>
+      
+              <div class="auto-scale photo-items">
+                  <a data-flickr-embed="true" href="https://www.flickr.com/photos/minhphan03/albums/72177720327998503" title="Chicago, IL">
+                    <img src="https://live.staticflickr.com/65535/54688946474_7f1313d37b_h.jpg" 
+                    width="1600"  alt="Chicago, IL"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+              </div>
+              <p class="flickr-desc" id="chicago"></p>
+      </div>
+    <div class="wrapper">
+              <div class="container">
+                  <span class="content">Minneapolis 🛶</span>
+                  <span class="time-wrapper">
+                      <span class="time">April 2025</span>
+                  </span>
+                  <span class="bubble-element">Fujifilm X-T2</span>
+              </div>
+      
+              <div class="auto-scale photo-items">
+                <a data-flickr-embed="true" href="https://www.flickr.com/photos/minhphan03/albums/72177720325857125" 
+                  title="Minneapolis, MN"><img src="https://live.staticflickr.com/65535/54496714476_35ed6408a6_z.jpg" 
+                  width="1600" alt="Minneapolis, MN"/></a>
+                <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+              </div>
+              <p class="flickr-desc" id="minneapolis"></p>
+      </div>
+
+    <div class="wrapper">
+            <div class="container">
+                <span class="content">Thailand 🇹🇭</span>
+                <span class="time-wrapper">
+                    <span class="time">January 2024</span>
+                </span>
+                <span class="bubble-element"> Nikon 3500</span>
+            </div>
+
+            <div class="auto-scale photo-items">
+                <a data-flickr-embed="true" href="https://www.flickr.com/photos/minhphan03/albums/72177720314381237"
+                    title="Thailand"><img src="https://live.staticflickr.com/65535/53492445308_6cbc523e61_h.jpg"
+                        width="1600" alt="Thailand" /></a>
+                <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+            </div>
+            <p class="flickr-desc" id="thailand"></p>
+        </div>
+
+    <div class="wrapper">
+            <div class="container">
+                <span class="content">Istanbul 🇹🇷</span>
+                <span class="time-wrapper">
+                    <span class="time">June 2023</span>
+                </span>
+                <span class="bubble-element">Fujifilm X-T2</span>
+            </div>
+
+            <div class="auto-scale photo-items">
+                <a data-flickr-embed="true" href="https://www.flickr.com/photos/minhphan03/albums/72177720309478355"
+                    title="Istanbul, Türkiye"><img src="https://live.staticflickr.com/65535/53017135675_aeda5c2c5f_h.jpg"
+                        width="1600" alt="Istanbul, Türkiye" /></a>
+                <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+            </div>
+            <p class="flickr-desc" id="istanbul"></p>
+        </div>
+
+    <div class="wrapper">
+                <div class="container">
+                    <span class="content">New York 🗽</span>
+                    <span class="time-wrapper">
+                        <span class="time">January 2023</span>
+                    </span>
+                    <span class="bubble-element">Nikon D700</span>
+                </div>
+
+                <div class="auto-scale photo-items">
+                    <a data-flickr-embed="true" href="https://www.flickr.com/photos/minhphan03/albums/72177720306132497" title="New York, NYC"><img src="https://live.staticflickr.com/65535/52699444784_b3854a703f_h.jpg" width="1600" alt="New York, NYC"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+                </div>
+                <p class="flickr-desc" id="nyc"></p>
+        </div>
+
+    <div class="wrapper">
+                <div class="container">
+                    <span class="content">Singapore 🇸🇬</span>
+                    <span class="time-wrapper">
+                        <span class="time">June 2022</span>
+                    </span>
+                    <span class="bubble-element">Nikon D700</span>
+                </div>
+        
+                <div class="auto-scale photo-items">
+                    <a data-flickr-embed="true" href="https://www.flickr.com/photos/minhphan03/albums/72177720309536383" title="Singapore"><img src="https://live.staticflickr.com/65535/53021101521_07592c50d0_h.jpg" width="1600" alt="Singapore"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
+                </div>
+                <p class="flickr-desc" id="singapore"></p>
+        </div>
+
+    <div class="wrapper">
+                <div class="container">
+                    <span class="content">San Francisco 🌉</span>
+                    <span class="time-wrapper">
+                        <span class="time">March 2022</span>
+                    </span>
+                    <span class="bubble-element">Nikon D700</span>
+                </div>
+        
+                <div class="auto-scale photo-items">
+                    <a data-flickr-embed="true" href="https://www.flickr.com/photos/minhphan03/albums/72177720298613692" title="San Francisco, CA"><img src="https://live.staticflickr.com/65535/52048844430_594523f25e_h.jpg" width="1600" alt="San Francisco, CA"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+                </div>
+                <p class="flickr-desc" id="sf"></p>
+        </div>
 
     </div>
 </section>
 
 
-<div class="timeline-photos">
-  <div class="wrapper">
-          <div class="container">
-              <span class="content">Chicago 🫘</span>
-              <span class="time-wrapper">
-                  <span class="time">July 2025</span>
-              </span>
-              <span class="bubble-element">Fujifilm X-T2</span>
-          </div>
-  
-          <div class="auto-scale photo-items">
-              <a data-flickr-embed="true" href="https://www.flickr.com/photos/minhphan03/albums/72177720327998503" title="Chicago, IL">
-                <img src="https://live.staticflickr.com/65535/54688946474_7f1313d37b_h.jpg" 
-                width="1600"  alt="Chicago, IL"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-          </div>
-          <p class="flickr-desc" id="chicago"></p>
-  </div>
-  <div class="wrapper">
-          <div class="container">
-              <span class="content">Minneapolis 🛶</span>
-              <span class="time-wrapper">
-                  <span class="time">April 2025</span>
-              </span>
-              <span class="bubble-element">Fujifilm X-T2</span>
-          </div>
-  
-          <div class="auto-scale photo-items">
-            <a data-flickr-embed="true" href="https://www.flickr.com/photos/minhphan03/albums/72177720325857125" 
-              title="Minneapolis, MN"><img src="https://live.staticflickr.com/65535/54496714476_35ed6408a6_z.jpg" 
-              width="1600" alt="Minneapolis, MN"/></a>
-            <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-          </div>
-          <p class="flickr-desc" id="minneapolis"></p>
-  </div>
-    <div class="wrapper">
-        <div class="container">
-            <span class="content">Thailand 🇹🇭</span>
-            <span class="time-wrapper">
-                <span class="time">January 2024</span>
-            </span>
-            <span class="bubble-element"> Nikon 3500</span>
-        </div>
 
-        <div class="auto-scale photo-items">
-            <a data-flickr-embed="true" href="https://www.flickr.com/photos/minhphan03/albums/72177720314381237"
-                title="Thailand"><img src="https://live.staticflickr.com/65535/53492445308_6cbc523e61_h.jpg"
-                    width="1600" alt="Thailand" /></a>
-            <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-        </div>
-        <p class="flickr-desc" id="thailand"></p>
-    </div>
-
-    <div class="wrapper">
-        <div class="container">
-            <span class="content">Istanbul 🇹🇷</span>
-            <span class="time-wrapper">
-                <span class="time">June 2023</span>
-            </span>
-            <span class="bubble-element">Fujifilm X-T2</span>
-        </div>
-
-        <div class="auto-scale photo-items">
-            <a data-flickr-embed="true" href="https://www.flickr.com/photos/minhphan03/albums/72177720309478355"
-                title="Istanbul, Türkiye"><img src="https://live.staticflickr.com/65535/53017135675_aeda5c2c5f_h.jpg"
-                    width="1600" alt="Istanbul, Türkiye" /></a>
-            <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-        </div>
-        <p class="flickr-desc" id="istanbul"></p>
-    </div>
-
-    <div class="wrapper">
-            <div class="container">
-                <span class="content">New York 🗽</span>
-                <span class="time-wrapper">
-                    <span class="time">January 2023</span>
-                </span>
-                <span class="bubble-element">Nikon D700</span>
-            </div>
-
-            <div class="auto-scale photo-items">
-                <a data-flickr-embed="true" href="https://www.flickr.com/photos/minhphan03/albums/72177720306132497" title="New York, NYC"><img src="https://live.staticflickr.com/65535/52699444784_b3854a703f_h.jpg" width="1600" alt="New York, NYC"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-            </div>
-            <p class="flickr-desc" id="nyc"></p>
-    </div>
-
-    <div class="wrapper">
-            <div class="container">
-                <span class="content">Singapore 🇸🇬</span>
-                <span class="time-wrapper">
-                    <span class="time">June 2022</span>
-                </span>
-                <span class="bubble-element">Nikon D700</span>
-            </div>
-    
-            <div class="auto-scale photo-items">
-                <a data-flickr-embed="true" href="https://www.flickr.com/photos/minhphan03/albums/72177720309536383" title="Singapore"><img src="https://live.staticflickr.com/65535/53021101521_07592c50d0_h.jpg" width="1600" alt="Singapore"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
-            </div>
-            <p class="flickr-desc" id="singapore"></p>
-    </div>
-
-    <div class="wrapper">
-            <div class="container">
-                <span class="content">San Francisco 🌉</span>
-                <span class="time-wrapper">
-                    <span class="time">March 2022</span>
-                </span>
-                <span class="bubble-element">Nikon D700</span>
-            </div>
-    
-            <div class="auto-scale photo-items">
-                <a data-flickr-embed="true" href="https://www.flickr.com/photos/minhphan03/albums/72177720298613692" title="San Francisco, CA"><img src="https://live.staticflickr.com/65535/52048844430_594523f25e_h.jpg" width="1600" alt="San Francisco, CA"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-            </div>
-            <p class="flickr-desc" id="sf"></p>
-    </div>
-
-</div>
 
 <!-- 
 <section class="flickr">

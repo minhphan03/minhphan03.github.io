@@ -85,6 +85,10 @@
     margin-right: 1em;
   }
 
+  .mobile {
+    display: block !important;
+  }
+
 }
 
 @media screen and (max-width: 26rem) {
@@ -160,7 +164,7 @@
 
   .content-column {
     padding-top: 4.5rem;
-    // overflow-y: hidden !important;
+    overflow: hidden !important;
   }
 
   .social-footer-icons {
@@ -203,6 +207,10 @@
     display: none;
   }
 
+  .mobile {
+    display: block !important;
+  }
+
   .flickr-desc {
     margin-right: 1em !important;
   }
@@ -212,6 +220,15 @@
 
     .bubble-element {
       font-size: 0.6rem !important;
+    }
+  }
+
+  .grid-container {
+
+    gap: 2px !important;
+
+    img {
+        border-radius: 5px !important;
     }
   }
 
