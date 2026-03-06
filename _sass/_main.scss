@@ -340,8 +340,8 @@ strong, b {
   iframe {
     max-width: 100%;
     aspect-ratio: 16/9;
-	margin: 0 auto; 
-	display: block;
+	margin: 0 auto !important; 
+	display: block !important;
   }
 
   li {

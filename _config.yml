@@ -2,7 +2,7 @@ site: Minh Phan's Website
 title: Minh Phan
 greetings: Hello World! 👋
 description: >-
-  a minimalist personal corner
+  a personal corner
 lang: en-US
 timezone:  Asia/Vietnam
 data-theme: light # default theme "dark" | "light"

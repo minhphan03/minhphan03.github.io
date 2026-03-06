@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Three Books I've Read for a Vietnam War History Class" 
+title: "The Three Books I've Read for a Vietnam War History Course" 
 tags: books essays
 image: /assets/images/hstas265.jpg
 ---
