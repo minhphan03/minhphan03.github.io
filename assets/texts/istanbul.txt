@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 I first came to Istanbul on my way back home to Vietnam for the summer in 2023. This was the first time I landed in Europe, which was so funny at the time because Istanbul is the only city in Turkey that is a part of Europe. It reminded me so much of Vietnam, and therefore made me even more excited going back to my home country. The photos were edited with midtones, hue, and saturation values configurated all at 70. 7 is really my favorite number it shows.
+=======
+I traveled to Istanbul for the first time when I flew back to Vietnam for the summer in 2023. This was the first time I landed in Europe, which is so funny because Istanbul was the only city in Turkey that belonged in New York. It reminded me so much of Vietnam, and it made me even more excited going to my home country. The photos were edited with midtones, hue, and saturation configuration all at 70. 7 is really my favorite number it shows.
+>>>>>>> 76ffb93b621ea5e34849b09cd357d43c5db8ae90
