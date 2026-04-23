@@ -22,7 +22,7 @@ document.addEventListener('DOMContentLoaded', async function () {
         } catch (error) {
             console.error(`Error loading text for ${pId}:`, error);
             // Optionally, you can set a fallback message in case of error
-            p.textContent = 'Failed to load content.';
+            p.textContent = 'More coming soon :)';
         }
     }
 });

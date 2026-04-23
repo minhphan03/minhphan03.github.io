@@ -15,44 +15,37 @@ layout: default
 <section class="wrapper">
     <button class="nav up">▲</button>
 
-    <ul class="coverflow" id="list">
-        <li class="item">
-             <div style="height: 40%; overflow-y: scroll;">
-                <!-- <p id='toughlove' class="music-desc"></p> -->
-            </div> 
-        </li>
-        <li class="item">
-            <div style="height: 100%; overflow-y: scroll;">
-                <p id='emotion' class="music-desc"></p>
-            </div>
-        </li>
-        <li class="item">
-            <div style="height: 100%; overflow-y: scroll;">
-                <p id='quantumbaby' class="music-desc"></p>
-            </div>
-        </li>
-        <li class="item">
-            <div style="height: 100%; overflow-y: scroll;">
-                <p id='tgi' class="music-desc"></p>
-            </div>
-        </li>
-        <li class="item">
-            <div style="height: 100%; overflow-y: scroll;">
-                <p id='amortage' class="music-desc"></p>
-            </div>
-        </li>
-        <li class="item">
-            <div style="height: 100%; overflow-y: scroll;">
-                <p id='cxoxo' class="music-desc"></p>
-            </div>
-        </li>
-        <li class="item">
-            <div style="height: 100%; overflow-y: scroll;">
-                <p id='brat' class="music-desc"></p>
-            </div>
-        </li>
 
+    <ul class="coverflow viewport" id="list">
+        {% for key in site.data.albums %}
+            {% assign id = key[0] %}
+            {% assign album = key[1] %}
+            {% if id != "nil" %}
+            <li class="item" style="height: 550px;">
+                <div class="top-label" style="background-color: #{{album.color }};"> {{ album.time }} </div>
+                <div style="background-color: #{{ album.color }};">
+                    <div class="column right" style="overflow-y: scroll !important;">
+                        <p id="{{ id }}"></p>
+                    </div>
+                    <iframe class="column left" allow="autoplay *; encrypted-media *;" frameborder="0" height="450" 
+                        style=" max-width:660px;overflow:hidden;border-radius:10px;" 
+                        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
+                        src="https://embed.music.apple.com/us/album/{{ album.embed }}"></iframe>
+
+                    
+                </div>
+            </li>
+            {% else %}
+            <li class="item" style="height: 600px;">
+                <div hidden>
+                    <p id="{{ id }}"></p>
+                    
+                </div>
+            </li>
+            {% endif %}
+        {% endfor %}
     </ul>
+
     <button class="nav down">▼</button>
 
 </section>
