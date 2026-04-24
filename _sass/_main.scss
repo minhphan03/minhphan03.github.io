@@ -45,14 +45,14 @@ html[data-theme="light"] {
   	--blog-font: 'Garamond Pro';
 	--source-code-font: 'Source Code Pro';
 	--very-light-text-color: rgb(222, 222, 222);
-	--light-text-color: #86CD63;
-	--medium-text-color: #117b05;
+	--light-text-color: #ffa500;
+	--medium-text-color: #f06105;
 	--main-text-color: #333333;
 	--highlight-text-color: #6cb4a0;
 	--dark-text-color: #393e46;
 	--link-color: rgb(50, 87, 209);
 	--code-bg-color: rgb(245, 245, 245);
-  --menu-bg-color: rgb(255, 255, 255);
+  	--menu-bg-color: rgb(255, 255, 255);
 	background-color: rgb(255, 255, 255);
 
 	#theme-toggle div {
@@ -113,7 +113,7 @@ html[data-theme="dark"] {
 	--main-text-color: #EAEAEA;
 	--highlight-text-color: #6cb4a0;
 	--dark-text-color: rgb(36, 38, 42);
-	--link-color: #ff8c00; // F7821B
+	--link-color: #fecd00; // F7821B
 	--code-bg-color: rgb(36, 38, 42);
   	--menu-bg-color: rgb(19, 20, 24);
 	background-color: rgb(19, 20, 24);
@@ -479,16 +479,17 @@ time {
   padding: 1px 5px 1px 5px;
   border-radius: 7px;
   border: 2px solid ;
-  color: #a9a9a9;
-  transition: color 0.5s ease-in, border-color 0.5s ease-in;
+  color: var(--light-text-color);
+  border-color: var(--light-text-color);
+  transition: color 1s;
   cursor: default;
   text-align: center;
+  
 
   &:hover {
     color: var(--menu-bg-color);
-    border-color: var(--light-text-color);
 	background-color: var(--light-text-color);
-    transition: color 0.5s ease-in, border-color 0.5s ease-in;
+    transition: color 1s;
     cursor: default;
   }
 }
@@ -648,7 +649,20 @@ color: #333;
 	text-overflow: ellipsis;
 }
 
+#goodreads {
+	border-radius: 20px !important; 
+	border: medium solid var(--main-text-color);
+	display: flex; 
+	flex-direction: column; 
+	justify-content: center; 
+	align-items: center;
+	
+	padding: 1rem 1rem 0 1rem;
+	width: 70%;
 
+
+	margin: 1rem auto 0 auto;
+}
 
 // .container {
 //   width: 100vw; /* Set this to the width you prefer */
