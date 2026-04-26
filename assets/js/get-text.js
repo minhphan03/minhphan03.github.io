@@ -1,9 +1,7 @@
-// of course, ChatGPT
-
-
 document.addEventListener('DOMContentLoaded', async function () {
     // Array of p IDs corresponding to text file names
     const pElements = document.querySelectorAll('p[id]'); // Get all p elements with IDs
+
 
     for (const p of pElements) {
         const pId = p.id;
@@ -19,10 +17,14 @@ document.addEventListener('DOMContentLoaded', async function () {
             const text = await response.text();
             // Set the loaded text as the text content of the p.
             p.textContent = text;
+
+
         } catch (error) {
             console.error(`Error loading text for ${pId}:`, error);
             // Optionally, you can set a fallback message in case of error
             p.textContent = 'More coming soon :)';
         }
+
     }
+
 });

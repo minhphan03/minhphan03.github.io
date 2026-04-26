@@ -1,7 +1,10 @@
 ---
 layout: default
 ---
+
+<script> const album_json = {{ site.data.albums | jsonify }}</script>
 <script src="./assets/js/get-text.js"></script>
+
 
 <section class="posts">
     <div class="bio">
@@ -21,8 +24,8 @@ layout: default
             {% assign id = key[0] %}
             {% assign album = key[1] %}
             {% if id != "nil" %}
-            <li class="item" style="height: 550px;">
-                <div class="top-label rounded-tab" style="background-color: #{{album.color }};"> {{ album.time }} </div>
+            <li class="item" style="height: 550px;"">
+                <div class="top-label rounded-tab" style="background-color: #{{ album.color }};" id="{{ id }}">{{ album.time }}</div>
                 <div style="background-color: #{{ album.color }};">
                     <div class="column right">
                         <p id="{{ id }}" style="overflow-y: scroll; text-align: justify; padding: 1.2rem 0 1.2rem 0; " class="viewport"></p>
@@ -49,6 +52,5 @@ layout: default
 
 </section>
 
+<script src="./assets/js/change-text-color.js"></script>
 <script src="./assets/js/coverflow.js"></script>
-
-    
