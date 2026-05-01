@@ -10,13 +10,13 @@ layout: default
     <div class="bio">
         <h1>Album Corner 🎧</h1>
         <p>
-        A collection of albums that I really enjoy over the years. Embedded using Apple Music (aka the SUPERIOR streaming service)!
+        A collection of albums that I really enjoy over the years. Embedded using Apple Music.
         </p>
     </div>
   </section>
 
 <section class="wrapper">
-    <button class="nav up">▲</button>
+    <button class="nav up bubble-element">Newer ▲</button>
 
 
     <ul class="coverflow viewport" id="list">
@@ -28,7 +28,7 @@ layout: default
                 <div class="top-label rounded-tab" style="background-color: #{{ album.color }};" id="{{ id }}">{{ album.time }}</div>
                 <div style="background-color: #{{ album.color }};">
                     <div class="column right">
-                        <p id="{{ id }}" style="overflow-y: scroll; text-align: justify; padding: 1.2rem 0 1.2rem 0; " class="viewport"></p>
+                        <p id="{{ id }}" style="overflow-y: scroll; text-align: justify; "></p>
                     </div>
                     <iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="450" class="column left"
                             style=" max-width:660px;overflow:hidden;border-radius:10px;" 
@@ -48,7 +48,7 @@ layout: default
         {% endfor %}
     </ul>
 
-    <button class="nav down">▼</button>
+    <button class="nav down bubble-element">Older ▼</button>
 
 </section>
 
