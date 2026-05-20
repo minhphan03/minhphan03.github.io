@@ -12,6 +12,7 @@ $link-color: var(--link-color);
 /* Scroll list */
 ul.coverflow {
   
+  perspective: 600px;
   list-style: none;
   margin: 0;
   padding: 0;
@@ -112,20 +113,21 @@ ul.coverflow li {
 
 /* Center item */
 ul.coverflow li.active {
-  transform: scale(0.9) ;
+  transform: scale(0.85) rotate3d(0.5,0.7,0,3deg);
   filter: blur(0);
   opacity: 1;
 
-  animation: activeTilt 1s ease-out;
-  z-index: 2;
+  animation: activeTilt 2s ease-out;
+  z-index: 5;
 }
 
 /* neighbors */
 ul.coverflow li.prev,
 ul.coverflow li.next {
-  transform: scale(0.6);
-  opacity: 0.6;
-  filter: blur(7px);
+  transform: scale(0.55);
+  opacity: 0.5;
+  filter: blur(10px);
+  z-index: 1;
 }
 
 
@@ -139,28 +141,17 @@ ul.coverflow li.next {
   // cursor: pointer;
 }
 
-.nav.up { top: -30px; }
+.nav.up { top: -20px; }
 .nav.down { bottom: -15px; }
 
-// #list {
-//   overflow-y: auto;
-//   -webkit-mask-image: linear-gradient(to bottom, transparent 0, black var(--top-mask-size, 0), black calc(100% - var(--bottom-mask-size, 0)), transparent 100%);
-//   mask-image: linear-gradient(to bottom, transparent 0, black var(--top-mask-size, 0), black calc(100% - var(--bottom-mask-size, 0)), transparent 100%);
-//   --top-mask-size: 0px;
-//   --bottom-mask-size: 0px;
-// }
 
-// #list.is-top-overflowing {
-//   --top-mask-size: 48px !important;
-// }
-
-// #list.is-bottom-overflowing {
-//   --bottom-mask-size: 48px !important;
-// }
-
-@media (max-width: 60rem) {
+@media (max-width: 40rem) {
   .nav {
     display: none;
+  }
+
+  .item {
+    height: 60vh !important;
   }
 
   .wrapper {

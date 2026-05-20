@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Detrimental Impact of Expensive Higher Education" 
+title: "Unaffordable Higher Education" 
 tags: essays
 image: /assets/images/savings.jpg
 ---

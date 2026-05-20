@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "On Troye Sivan's New Single \"Rush\"" 
+title: "Discussing Troye Sivan's\nNew Single \"Rush\"" 
 tags: music culture rant
 image: /assets/images/troye.jpg
 ---

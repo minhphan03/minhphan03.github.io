@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "From Ground Zero: Stories from Gaza (2024)" 
+title: "From Ground Zero:\nStories from Gaza (2024)" 
 tags: films world
 image: /assets/images/fromground0.jpg
 ---

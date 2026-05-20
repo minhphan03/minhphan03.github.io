@@ -173,7 +173,7 @@ head {
 body {
 	font-family: var(--text-font), normal;
 	text-rendering: optimizeLegibility;
-	line-height: 1.75;
+	line-height: 1.7;
 	color: var(--main-text-color);
 }
 
@@ -508,7 +508,6 @@ time {
   object-fit: cover;
   display: block;
   margin: 0 -10% 0 -15%;
-  padding-bottom: 1rem;
   // mask-image: linear-gradient(rgba(255,255,255,1),rgba(255,255,255,0.75));
 }
 
