@@ -1,0 +1,53 @@
+.book-container {
+  border: 1px solid lightgray;
+  width: 500px;
+  height: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  perspective: 400px;
+}
+
+.book {
+  width: 200px;
+  height: 300px;
+  position: relative;
+  transform-style: preserve-3d;
+  transform: rotateY(-30deg);}
+
+.book > :first-child {
+  background: #0d47a1aa;
+  position: absolute;
+  width: 200px;
+  height: 300px;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+
+// the pages 
+.book::before { 
+  position: absolute;
+  content: ' ';
+  background: #bf360cba;
+  height: calc(300px - 2* 3px);
+  top: 3px;
+  width: 50px;
+
+  transform: translateX(calc(200px - 50px / 2 - 7px)) rotateY(90deg) translateX(calc(50px / 2)); // 200px is book width, 50px is thickness, can adjust this
+
+}
+
+.book::after {
+  content: ' ';
+  position: absolute;
+  left: 0;
+  width: 200px;
+  height: 300px;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  background: #01060f;
+  transform: translateZ(-50px);
+  box-shadow: -10px 0 50px 10px #666;
+}
